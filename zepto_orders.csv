@@ -1,0 +1,2001 @@
+order_id,customer_id,customer_name,product_name,category,quantity,unit_price,order_date,status
+ZPT100001,CUST2399,Mohit Bhatt,Coca-Cola 1.25L,Cold Drinks,2,623.37,2023-09-25,Pending
+ZPT100002,CUST2438,Manish Tiwari,Aashirvaad Atta 5kg,Staples,9,919.86,2024-11-16,Processing
+ZPT100003,CUST1239,Shreya Agarwal,Lays Cream Onion 26g,Snacks,8,648.92,2024-12-22,Cancelled
+ZPT100004,CUST2963,Arjun Patel,Kellogg's Corn Flakes 250g,Breakfast,10,426.54,2024-01-31,Cancelled
+ZPT100005,CUST1389,Aarav Shah,Dove Shampoo 180ml,Personal Care,3,425.23,2024-02-09,Cancelled
+ZPT100006,CUST3963,Rajesh Sinha,Lays Cream Onion 26g,Snacks,10,487.82,2024-01-27,Processing
+ZPT100007,CUST1054,Deepak Mishra,Saffola Gold Oil 1L,Oils,1,875.83,2024-07-05,Delivered
+ZPT100008,CUST1262,Kiran Nair,Tropicana Guava 1L,Juices,3,298.92,2023-12-27,Cancelled
+ZPT100009,CUST4408,Mohit Bhatt,Aashirvaad Atta 5kg,Staples,9,991.2,2024-07-03,Delivered
+ZPT100010,CUST3816,Kiran Nair,Too Yumm Multigrain 60g,Snacks,7,656.27,2023-12-12,Pending
+ZPT100011,CUST2254,Nikhil Chopra,Dettol Soap 75g,Personal Care,1,374.62,2024-02-26,Delivered
+ZPT100012,CUST2456,Swati Kulkarni,India Gate Basmati 1kg,Staples,2,376.61,2024-02-13,Delivered
+ZPT100013,CUST2793,Rohan Verma,Good Day Cashew 87g,Biscuits,5,554.9,2024-07-24,Pending
+ZPT100014,CUST4400,Anita Dubey,Haldiram Bhujia 200g,Snacks,6,289.76,2024-06-25,Processing
+ZPT100015,CUST1056,Aditi Choudhary,Lay's Classic Chips 26g,Snacks,5,547.39,2024-05-22,Delivered
+ZPT100016,CUST2217,Shreya Agarwal,Amul Milk 1L,Dairy,3,617.39,2024-10-31,Pending
+ZPT100017,CUST1553,Aarav Shah,Good Day Cashew 87g,Biscuits,3,218.26,2023-01-24,Delivered
+ZPT100018,CUST4994,Priya Mehta,Mother Dairy Curd 400g,Dairy,6,531.13,2024-01-30,Returned
+ZPT100019,CUST3283,Priya Mehta,Good Day Cashew 87g,Biscuits,3,56.85,2023-08-10,Delivered
+ZPT100020,CUST2777,Vijay Kumar,Amul Milk 1L,Dairy,1,35.11,2023-05-01,Delivered
+ZPT100021,CUST1120,Aarav Shah,Aashirvaad Atta 5kg,Staples,3,728.16,2024-11-07,Delivered
+ZPT100022,CUST4184,Preeti Trivedi,Aashirvaad Atta 5kg,Staples,4,905.91,2023-08-15,Processing
+ZPT100023,CUST3702,Tarun Banerjee,Fortune Rice 5kg,Staples,3,716.38,2024-02-10,Cancelled
+ZPT100024,CUST4334,Ananya Singh,Ariel Washing Powder 500g,Cleaning,2,330.73,2023-08-06,Cancelled
+ZPT100025,CUST4643,Kiran Nair,Lays Cream Onion 26g,Snacks,8,943.05,2024-03-17,Cancelled
+ZPT100026,CUST2325,Gaurav Kapoor,Minute Maid Orange 1L,Juices,4,702.85,2023-08-24,Delivered
+ZPT100027,CUST4568,Sneha Iyer,Bournvita 500g,Beverages,6,502.63,2023-03-13,Delivered
+ZPT100028,CUST3910,Lakshmi Bose,Good Day Cashew 87g,Biscuits,7,870.73,2023-03-17,Delivered
+ZPT100029,CUST1133,Nikhil Chopra,Sprite 750ml,Cold Drinks,4,357.78,2023-11-10,Returned
+ZPT100030,CUST1217,Aarav Shah,Aashirvaad Atta 5kg,Staples,3,56.46,2024-02-02,Delivered
+ZPT100031,CUST1313,Rohan Verma,Dettol Soap 75g,Personal Care,4,322.7,2023-01-28,Returned
+ZPT100032,CUST4970,Nikhil Chopra,Epigamia Greek Yogurt 90g,Dairy,1,905.45,2024-03-10,Returned
+ZPT100033,CUST1393,Arjun Patel,Quaker Oats 500g,Breakfast,1,384.83,2024-08-04,Returned
+ZPT100034,CUST4432,Pooja Reddy,Kellogg's Corn Flakes 250g,Breakfast,7,202.47,2023-03-27,Cancelled
+ZPT100035,CUST3179,Tarun Banerjee,Coca-Cola 1.25L,Cold Drinks,10,297.67,2023-12-07,Processing
+ZPT100036,CUST2988,Deepak Mishra,Maggi Noodles 70g,Instant Food,7,699.03,2023-04-07,Delivered
+ZPT100037,CUST3989,Divya Pillai,Bournvita 500g,Beverages,8,331.95,2024-12-17,Delivered
+ZPT100038,CUST1011,Swati Kulkarni,Britannia Bread 400g,Bakery,5,89.39,2023-04-16,Pending
+ZPT100039,CUST3411,Farhan Qureshi,Mother Dairy Curd 400g,Dairy,7,996.5,2023-02-14,Pending
+ZPT100040,CUST2367,Amit Sharma,Vim Dishwash Bar 200g,Cleaning,1,145.7,2023-03-30,Delivered
+ZPT100041,CUST2558,Lakshmi Bose,Dettol Soap 75g,Personal Care,4,305.42,2024-01-11,Delivered
+ZPT100042,CUST1882,Riya Desai,Aashirvaad Atta 5kg,Staples,1,114.77,2024-01-03,Delivered
+ZPT100043,CUST3749,Farhan Qureshi,Mother Dairy Curd 400g,Dairy,2,664.73,2024-06-15,Processing
+ZPT100044,CUST2768,Swati Kulkarni,Red Bull 250ml,Energy Drinks,1,428.69,2023-06-24,Delivered
+ZPT100045,CUST4949,Pooja Reddy,Maggi Noodles 70g,Instant Food,1,238.6,2023-07-02,Delivered
+ZPT100046,CUST1814,Pooja Reddy,Sprite 750ml,Cold Drinks,9,196.47,2023-06-21,Returned
+ZPT100047,CUST1761,Pranav Jain,Britannia Bread 400g,Bakery,9,400.07,2024-11-20,Cancelled
+ZPT100048,CUST3925,Suresh Rao,Tata Salt 1kg,Staples,4,65.37,2023-03-13,Cancelled
+ZPT100049,CUST1085,Mohit Bhatt,Vim Dishwash Bar 200g,Cleaning,2,631.46,2024-08-01,Cancelled
+ZPT100050,CUST2234,Manish Tiwari,Vim Dishwash Bar 200g,Cleaning,1,335.6,2023-10-06,Processing
+ZPT100051,CUST1874,Varun Saxena,Too Yumm Multigrain 60g,Snacks,1,639.98,2023-06-08,Delivered
+ZPT100052,CUST3731,Priya Mehta,Ariel Washing Powder 500g,Cleaning,6,309.67,2024-04-28,Delivered
+ZPT100053,CUST3838,Anjali Menon,Bournvita 500g,Beverages,5,109.07,2024-04-14,Processing
+ZPT100054,CUST3438,Rajesh Sinha,Lays Cream Onion 26g,Snacks,6,416.08,2024-02-14,Processing
+ZPT100055,CUST3248,Tarun Banerjee,Ariel Washing Powder 500g,Cleaning,2,805.29,2023-06-03,Delivered
+ZPT100056,CUST1209,Bhavna Yadav,Tropicana Guava 1L,Juices,2,571.83,2024-03-22,Returned
+ZPT100057,CUST4544,Manish Tiwari,Fortune Rice 5kg,Staples,2,962.83,2023-04-29,Delivered
+ZPT100058,CUST2644,Anita Dubey,India Gate Basmati 1kg,Staples,1,238.17,2024-04-20,Delivered
+ZPT100059,CUST2537,Shreya Agarwal,Vim Dishwash Bar 200g,Cleaning,1,789.32,2023-11-23,Cancelled
+ZPT100060,CUST4747,Mohit Bhatt,Good Day Cashew 87g,Biscuits,9,325.02,2023-04-05,Cancelled
+ZPT100061,CUST1050,Tarun Banerjee,Nescafe Classic 50g,Beverages,7,930.1,2024-12-07,Delivered
+ZPT100062,CUST1343,Harsh Malhotra,Pilsbury Maida 1kg,Staples,4,912.55,2023-10-18,Pending
+ZPT100063,CUST4321,Swati Kulkarni,Hide & Seek Biscuits 100g,Biscuits,3,711.37,2024-06-13,Cancelled
+ZPT100064,CUST2931,Meera Thomas,Paper Boat Aam Panna 250ml,Juices,10,677.89,2024-11-25,Delivered
+ZPT100065,CUST4308,Vijay Kumar,Dove Shampoo 180ml,Personal Care,5,109.6,2023-09-24,Delivered
+ZPT100066,CUST3862,Sneha Iyer,Dettol Soap 75g,Personal Care,1,870.53,2024-05-07,Pending
+ZPT100067,CUST1604,Riya Desai,Good Day Cashew 87g,Biscuits,3,255.72,2024-09-07,Pending
+ZPT100068,CUST4123,Priya Mehta,Britannia Bread 400g,Bakery,7,428.98,2023-04-10,Delivered
+ZPT100069,CUST2734,Aarav Shah,Too Yumm Multigrain 60g,Snacks,7,381.87,2023-12-09,Processing
+ZPT100070,CUST3819,Manish Tiwari,Lays Cream Onion 26g,Snacks,5,891.32,2023-07-24,Delivered
+ZPT100071,CUST1847,Kiran Nair,Lays Cream Onion 26g,Snacks,8,752.2,2023-05-17,Pending
+ZPT100072,CUST1637,Shreya Agarwal,MTR Poha 500g,Breakfast,7,333.15,2023-04-16,Cancelled
+ZPT100073,CUST2295,Gaurav Kapoor,India Gate Basmati 1kg,Staples,8,931.33,2024-02-16,Delivered
+ZPT100074,CUST3118,Shreya Agarwal,Saffola Gold Oil 1L,Oils,9,201.21,2024-04-30,Delivered
+ZPT100075,CUST1151,Harsh Malhotra,Minute Maid Orange 1L,Juices,4,253.74,2023-11-09,Delivered
+ZPT100076,CUST3253,Simran Kaur,Epigamia Greek Yogurt 90g,Dairy,2,337.68,2024-10-20,Delivered
+ZPT100077,CUST1600,Pooja Reddy,Haldiram Bhujia 200g,Snacks,2,651.86,2023-12-04,Delivered
+ZPT100078,CUST2982,Suresh Rao,Aashirvaad Atta 5kg,Staples,6,369.77,2023-09-02,Returned
+ZPT100079,CUST2678,Preeti Trivedi,Epigamia Greek Yogurt 90g,Dairy,2,917.1,2024-06-13,Delivered
+ZPT100080,CUST4920,Riya Desai,Sunfeast Dark Fantasy 75g,Biscuits,5,767.42,2024-07-30,Returned
+ZPT100081,CUST1059,Rahul Joshi,Saffola Gold Oil 1L,Oils,4,538.28,2024-02-17,Pending
+ZPT100082,CUST2227,Ananya Singh,Fortune Sunflower Oil 1L,Oils,9,502.18,2024-03-25,Processing
+ZPT100083,CUST2709,Sanjay Das,Bournvita 500g,Beverages,8,855.69,2024-05-24,Delivered
+ZPT100084,CUST4766,Mohit Bhatt,Fortune Rice 5kg,Staples,8,660.22,2024-04-06,Delivered
+ZPT100085,CUST3572,Kiran Nair,Saffola Gold Oil 1L,Oils,8,644.04,2023-08-03,Cancelled
+ZPT100086,CUST4150,Rohan Verma,MTR Poha 500g,Breakfast,5,950.57,2024-06-03,Delivered
+ZPT100087,CUST2937,Kavya Nair,Dettol Soap 75g,Personal Care,1,229.85,2023-01-14,Returned
+ZPT100088,CUST3834,Rohan Verma,India Gate Basmati 1kg,Staples,4,77.46,2023-10-05,Delivered
+ZPT100089,CUST3488,Neha Gupta,Saffola Gold Oil 1L,Oils,6,756.68,2023-08-18,Returned
+ZPT100090,CUST3506,Sunita Rawat,Surf Excel 1kg,Cleaning,2,111.06,2023-05-05,Delivered
+ZPT100091,CUST1776,Anjali Menon,Lay's Classic Chips 26g,Snacks,10,268.85,2024-03-22,Returned
+ZPT100092,CUST2206,Rahul Joshi,Amul Butter 500g,Dairy,3,414.39,2024-02-18,Returned
+ZPT100093,CUST3552,Tarun Banerjee,Paper Boat Aam Panna 250ml,Juices,2,929.95,2023-04-14,Cancelled
+ZPT100094,CUST2172,Nisha Pandey,Britannia Bread 400g,Bakery,2,289.25,2024-07-29,Cancelled
+ZPT100095,CUST2216,Nikhil Chopra,Tropicana Guava 1L,Juices,6,520.69,2023-08-20,Delivered
+ZPT100096,CUST1427,Mohit Bhatt,Tropicana Guava 1L,Juices,5,74.71,2024-11-19,Delivered
+ZPT100097,CUST2013,Riya Desai,MTR Poha 500g,Breakfast,2,604.17,2023-05-10,Delivered
+ZPT100098,CUST3340,Kavya Nair,Britannia Bread 400g,Bakery,8,974.43,2024-02-06,Returned
+ZPT100099,CUST3170,Priya Mehta,Harpic Toilet Cleaner 500ml,Cleaning,8,411.59,2024-07-27,Cancelled
+ZPT100100,CUST1598,Mohit Bhatt,Aashirvaad Atta 5kg,Staples,6,274.58,2023-06-01,Returned
+ZPT100101,CUST4024,Swati Kulkarni,Mother Dairy Curd 400g,Dairy,6,536.55,2023-05-05,Pending
+ZPT100102,CUST2900,Preeti Trivedi,Maggi Noodles 70g,Instant Food,8,506.43,2023-10-02,Delivered
+ZPT100103,CUST3208,Anita Dubey,Nescafe Classic 50g,Beverages,2,404.72,2024-03-13,Delivered
+ZPT100104,CUST2187,Deepak Mishra,Saffola Gold Oil 1L,Oils,1,725.72,2024-06-17,Delivered
+ZPT100105,CUST4221,Priya Mehta,Too Yumm Multigrain 60g,Snacks,1,776.45,2024-10-12,Delivered
+ZPT100106,CUST2977,Pooja Reddy,Sprite 750ml,Cold Drinks,9,739.53,2024-05-16,Delivered
+ZPT100107,CUST3187,Rohan Verma,Red Bull 250ml,Energy Drinks,7,732.8,2023-03-07,Delivered
+ZPT100108,CUST1958,Harsh Malhotra,Dettol Soap 75g,Personal Care,7,291.14,2024-11-18,Delivered
+ZPT100109,CUST2758,Lakshmi Bose,Too Yumm Multigrain 60g,Snacks,2,733.11,2024-11-20,Delivered
+ZPT100110,CUST1203,Harsh Malhotra,Hide & Seek Biscuits 100g,Biscuits,5,198.61,2023-08-05,Delivered
+ZPT100111,CUST1639,Rahul Joshi,Red Bull 250ml,Energy Drinks,3,463.44,2024-12-04,Delivered
+ZPT100112,CUST4622,Anjali Menon,Amul Milk 1L,Dairy,1,678.48,2024-12-14,Processing
+ZPT100113,CUST3316,Deepak Mishra,India Gate Basmati 1kg,Staples,10,294.79,2023-04-08,Returned
+ZPT100114,CUST4226,Rohan Verma,Paper Boat Aam Panna 250ml,Juices,4,580.65,2023-05-13,Delivered
+ZPT100115,CUST1808,Kavya Nair,Colgate Toothpaste 200g,Personal Care,8,943.49,2023-01-05,Pending
+ZPT100116,CUST4562,Nikhil Chopra,Colgate Toothpaste 200g,Personal Care,7,419.09,2024-12-11,Delivered
+ZPT100117,CUST4321,Arjun Patel,Britannia Bread 400g,Bakery,2,47.75,2023-08-13,Returned
+ZPT100118,CUST4457,Bhavna Yadav,Sprite 750ml,Cold Drinks,7,237.79,2024-04-19,Cancelled
+ZPT100119,CUST4952,Tarun Banerjee,Sprite 750ml,Cold Drinks,6,870.81,2024-10-08,Delivered
+ZPT100120,CUST1840,Farhan Qureshi,MTR Poha 500g,Breakfast,7,495.12,2024-04-02,Delivered
+ZPT100121,CUST3757,Lakshmi Bose,Real Fruit Juice 1L,Juices,7,868.41,2024-02-22,Pending
+ZPT100122,CUST2404,Divya Pillai,Kellogg's Corn Flakes 250g,Breakfast,5,472.24,2023-12-02,Delivered
+ZPT100123,CUST1087,Kiran Nair,Nescafe Classic 50g,Beverages,6,79.66,2023-01-10,Processing
+ZPT100124,CUST2402,Sneha Iyer,Fortune Rice 5kg,Staples,4,290.9,2023-03-09,Delivered
+ZPT100125,CUST3988,Priya Mehta,Fortune Sunflower Oil 1L,Oils,6,126.88,2023-11-07,Delivered
+ZPT100126,CUST1343,Meera Thomas,Harpic Toilet Cleaner 500ml,Cleaning,9,828.37,2024-08-29,Delivered
+ZPT100127,CUST1406,Vijay Kumar,Britannia Bread 400g,Bakery,4,996.27,2024-05-29,Cancelled
+ZPT100128,CUST1448,Kiran Nair,Amul Milk 1L,Dairy,7,184.36,2024-05-22,Delivered
+ZPT100129,CUST4323,Preeti Trivedi,Hide & Seek Biscuits 100g,Biscuits,8,387.09,2023-12-05,Delivered
+ZPT100130,CUST1895,Preeti Trivedi,Paper Boat Aam Panna 250ml,Juices,3,502.25,2023-10-05,Cancelled
+ZPT100131,CUST2649,Tarun Banerjee,Fortune Rice 5kg,Staples,10,188.38,2023-05-13,Delivered
+ZPT100132,CUST3452,Mohit Bhatt,Amul Butter 500g,Dairy,7,820.63,2024-08-09,Returned
+ZPT100133,CUST1182,Nikhil Chopra,Amul Butter 500g,Dairy,4,782.9,2023-11-28,Delivered
+ZPT100134,CUST2384,Varun Saxena,Kellogg's Corn Flakes 250g,Breakfast,2,710.02,2023-06-04,Pending
+ZPT100135,CUST4339,Neha Gupta,Too Yumm Multigrain 60g,Snacks,1,140.63,2024-12-07,Delivered
+ZPT100136,CUST2784,Kavya Nair,Nescafe Classic 50g,Beverages,8,49.48,2024-01-16,Processing
+ZPT100137,CUST2787,Aarav Shah,Saffola Gold Oil 1L,Oils,1,312.86,2024-10-13,Delivered
+ZPT100138,CUST4291,Aditi Choudhary,Epigamia Greek Yogurt 90g,Dairy,4,706.99,2024-08-29,Delivered
+ZPT100139,CUST2910,Bhavna Yadav,Good Day Cashew 87g,Biscuits,2,467.35,2024-09-16,Delivered
+ZPT100140,CUST4832,Nisha Pandey,Harpic Toilet Cleaner 500ml,Cleaning,4,725.55,2023-10-21,Delivered
+ZPT100141,CUST4173,Lakshmi Bose,Colgate Toothpaste 200g,Personal Care,7,521.6,2023-05-24,Delivered
+ZPT100142,CUST2522,Sunita Rawat,Kellogg's Corn Flakes 250g,Breakfast,1,447.26,2024-08-24,Pending
+ZPT100143,CUST4104,Rohan Verma,Epigamia Greek Yogurt 90g,Dairy,9,831.24,2023-12-03,Returned
+ZPT100144,CUST4172,Sunita Rawat,Dettol Soap 75g,Personal Care,6,552.38,2023-04-15,Delivered
+ZPT100145,CUST3538,Sunita Rawat,Coca-Cola 1.25L,Cold Drinks,9,805.17,2024-04-23,Pending
+ZPT100146,CUST1223,Neha Gupta,Epigamia Greek Yogurt 90g,Dairy,4,954.95,2024-01-20,Delivered
+ZPT100147,CUST2725,Sunita Rawat,Parle-G Biscuits 100g,Biscuits,3,423.9,2023-03-12,Delivered
+ZPT100148,CUST3452,Suresh Rao,Dettol Soap 75g,Personal Care,9,647.71,2023-08-15,Cancelled
+ZPT100149,CUST2571,Shreya Agarwal,Tropicana Guava 1L,Juices,4,904.06,2024-09-06,Processing
+ZPT100150,CUST3334,Kiran Nair,Sunfeast Dark Fantasy 75g,Biscuits,1,939.93,2024-12-16,Delivered
+ZPT100151,CUST4415,Shreya Agarwal,Tata Salt 1kg,Staples,3,945.67,2024-04-08,Processing
+ZPT100152,CUST3786,Shreya Agarwal,Amul Milk 1L,Dairy,3,731.27,2024-11-23,Pending
+ZPT100153,CUST4524,Sneha Iyer,Tropicana Guava 1L,Juices,6,396.84,2024-01-01,Cancelled
+ZPT100154,CUST2869,Tarun Banerjee,MTR Poha 500g,Breakfast,7,226.89,2023-05-06,Delivered
+ZPT100155,CUST1728,Rajesh Sinha,Parle-G Biscuits 100g,Biscuits,4,229.5,2023-01-07,Delivered
+ZPT100156,CUST2451,Bhavna Yadav,Britannia Bread 400g,Bakery,8,17.18,2023-06-07,Returned
+ZPT100157,CUST3493,Simran Kaur,Ariel Washing Powder 500g,Cleaning,2,610.43,2023-09-10,Delivered
+ZPT100158,CUST3459,Amit Sharma,Fortune Rice 5kg,Staples,10,15.42,2023-10-12,Cancelled
+ZPT100159,CUST2728,Manish Tiwari,Britannia Bread 400g,Bakery,5,912.74,2023-12-01,Delivered
+ZPT100160,CUST1575,Swati Kulkarni,Good Day Cashew 87g,Biscuits,4,86.43,2024-03-06,Returned
+ZPT100161,CUST4975,Aditi Choudhary,Britannia Bread 400g,Bakery,3,950.84,2024-09-23,Delivered
+ZPT100162,CUST1280,Bhavna Yadav,Surf Excel 1kg,Cleaning,5,484.64,2024-08-03,Cancelled
+ZPT100163,CUST4187,Rohan Verma,Epigamia Greek Yogurt 90g,Dairy,9,817.49,2023-06-24,Returned
+ZPT100164,CUST2533,Ananya Singh,Sprite 750ml,Cold Drinks,5,747.26,2023-04-24,Processing
+ZPT100165,CUST3635,Lakshmi Bose,MTR Poha 500g,Breakfast,10,797.55,2024-12-16,Returned
+ZPT100166,CUST2444,Pranav Jain,Real Fruit Juice 1L,Juices,10,586.73,2024-03-27,Returned
+ZPT100167,CUST4508,Vijay Kumar,Tropicana Guava 1L,Juices,1,848.8,2024-11-10,Delivered
+ZPT100168,CUST4930,Preeti Trivedi,Bournvita 500g,Beverages,2,809.46,2023-05-04,Delivered
+ZPT100169,CUST3673,Kavya Nair,Minute Maid Orange 1L,Juices,2,946.34,2023-11-30,Delivered
+ZPT100170,CUST3261,Sanjay Das,Tropicana Guava 1L,Juices,1,312.05,2023-10-31,Delivered
+ZPT100171,CUST2549,Aditi Choudhary,Surf Excel 1kg,Cleaning,1,785.21,2024-02-21,Pending
+ZPT100172,CUST2051,Arjun Patel,Lays Cream Onion 26g,Snacks,8,10.89,2023-11-29,Pending
+ZPT100173,CUST3250,Tarun Banerjee,Vim Dishwash Bar 200g,Cleaning,4,284.35,2024-01-13,Returned
+ZPT100174,CUST1057,Arjun Patel,India Gate Basmati 1kg,Staples,10,62.22,2023-08-20,Delivered
+ZPT100175,CUST4564,Riya Desai,Sunfeast Dark Fantasy 75g,Biscuits,7,896.72,2024-10-22,Returned
+ZPT100176,CUST3680,Kiran Nair,Dettol Soap 75g,Personal Care,8,730.35,2024-08-28,Returned
+ZPT100177,CUST1254,Vijay Kumar,Amul Butter 500g,Dairy,3,523.86,2024-12-07,Delivered
+ZPT100178,CUST2872,Manish Tiwari,Colgate Toothpaste 200g,Personal Care,1,654.29,2023-09-20,Returned
+ZPT100179,CUST1472,Rahul Joshi,Real Fruit Juice 1L,Juices,7,32.68,2024-10-19,Processing
+ZPT100180,CUST3024,Ananya Singh,Fortune Rice 5kg,Staples,5,247.61,2023-02-25,Processing
+ZPT100181,CUST3672,Simran Kaur,Kellogg's Corn Flakes 250g,Breakfast,5,594.73,2024-01-10,Delivered
+ZPT100182,CUST2040,Aditi Choudhary,Aashirvaad Atta 5kg,Staples,4,726.25,2024-04-05,Delivered
+ZPT100183,CUST2210,Pooja Reddy,Harpic Toilet Cleaner 500ml,Cleaning,4,183.13,2024-10-15,Delivered
+ZPT100184,CUST4818,Preeti Trivedi,Sprite 750ml,Cold Drinks,5,989.38,2024-03-30,Delivered
+ZPT100185,CUST3184,Nisha Pandey,Bournvita 500g,Beverages,7,970.69,2023-11-17,Delivered
+ZPT100186,CUST3192,Shreya Agarwal,MTR Poha 500g,Breakfast,6,439.29,2024-04-24,Delivered
+ZPT100187,CUST4171,Kiran Nair,Harpic Toilet Cleaner 500ml,Cleaning,3,975.79,2023-09-30,Delivered
+ZPT100188,CUST1333,Mohit Bhatt,Coca-Cola 1.25L,Cold Drinks,10,829.57,2023-08-18,Delivered
+ZPT100189,CUST3408,Farhan Qureshi,Ariel Washing Powder 500g,Cleaning,10,563.25,2024-03-08,Delivered
+ZPT100190,CUST1296,Harsh Malhotra,Tata Salt 1kg,Staples,7,937.73,2023-05-20,Delivered
+ZPT100191,CUST2853,Shreya Agarwal,Dove Shampoo 180ml,Personal Care,1,333.65,2023-08-06,Delivered
+ZPT100192,CUST3096,Kiran Nair,Coca-Cola 1.25L,Cold Drinks,4,302.59,2023-06-06,Pending
+ZPT100193,CUST3851,Kiran Nair,Fortune Sunflower Oil 1L,Oils,6,706.29,2023-07-14,Delivered
+ZPT100194,CUST1548,Harsh Malhotra,Good Day Cashew 87g,Biscuits,5,985.65,2023-06-14,Pending
+ZPT100195,CUST4684,Suresh Rao,Good Day Cashew 87g,Biscuits,9,135.72,2024-09-29,Returned
+ZPT100196,CUST3729,Aarav Shah,Parle-G Biscuits 100g,Biscuits,3,164.39,2023-05-17,Delivered
+ZPT100197,CUST3855,Nisha Pandey,Tata Salt 1kg,Staples,8,296.6,2023-05-08,Cancelled
+ZPT100198,CUST3492,Kavya Nair,Pilsbury Maida 1kg,Staples,3,753.45,2023-01-23,Pending
+ZPT100199,CUST2967,Sunita Rawat,Bournvita 500g,Beverages,7,341.39,2023-05-05,Cancelled
+ZPT100200,CUST2655,Harsh Malhotra,Epigamia Greek Yogurt 90g,Dairy,9,829.53,2024-06-06,Delivered
+ZPT100201,CUST2049,Varun Saxena,Fortune Sunflower Oil 1L,Oils,2,992.24,2024-02-01,Processing
+ZPT100202,CUST3028,Deepak Mishra,Mother Dairy Curd 400g,Dairy,7,72.77,2024-07-08,Delivered
+ZPT100203,CUST1122,Nikhil Chopra,Tata Salt 1kg,Staples,3,134.98,2024-03-24,Processing
+ZPT100204,CUST1711,Anjali Menon,Dettol Soap 75g,Personal Care,10,585.62,2023-07-01,Delivered
+ZPT100205,CUST4169,Arjun Patel,Amul Butter 500g,Dairy,5,143.77,2023-10-06,Pending
+ZPT100206,CUST3260,Rajesh Sinha,Bournvita 500g,Beverages,10,464.95,2023-02-08,Delivered
+ZPT100207,CUST1158,Lakshmi Bose,Red Bull 250ml,Energy Drinks,6,339.05,2023-08-11,Delivered
+ZPT100208,CUST1567,Sanjay Das,Epigamia Greek Yogurt 90g,Dairy,10,108.16,2023-02-04,Delivered
+ZPT100209,CUST1697,Vijay Kumar,Mother Dairy Curd 400g,Dairy,10,80.71,2024-05-15,Delivered
+ZPT100210,CUST3300,Lakshmi Bose,Surf Excel 1kg,Cleaning,2,594.16,2024-04-21,Delivered
+ZPT100211,CUST1296,Amit Sharma,Minute Maid Orange 1L,Juices,9,816.82,2024-03-04,Processing
+ZPT100212,CUST4304,Rajesh Sinha,Paper Boat Aam Panna 250ml,Juices,10,506.8,2023-06-02,Returned
+ZPT100213,CUST4055,Rohan Verma,Dettol Soap 75g,Personal Care,8,599.76,2024-09-27,Processing
+ZPT100214,CUST2521,Anita Dubey,Haldiram Bhujia 200g,Snacks,2,306.27,2024-12-05,Pending
+ZPT100215,CUST4423,Amit Sharma,MTR Poha 500g,Breakfast,10,226.98,2023-08-21,Delivered
+ZPT100216,CUST4863,Bhavna Yadav,Epigamia Greek Yogurt 90g,Dairy,10,247.46,2023-03-02,Delivered
+ZPT100217,CUST2232,Harsh Malhotra,Fortune Rice 5kg,Staples,3,111.55,2023-01-04,Processing
+ZPT100218,CUST2475,Sunita Rawat,India Gate Basmati 1kg,Staples,7,21.62,2024-02-17,Delivered
+ZPT100219,CUST1004,Manish Tiwari,Ariel Washing Powder 500g,Cleaning,6,918.93,2023-11-14,Pending
+ZPT100220,CUST4466,Preeti Trivedi,Pilsbury Maida 1kg,Staples,4,242.62,2024-08-22,Cancelled
+ZPT100221,CUST3558,Bhavna Yadav,Too Yumm Multigrain 60g,Snacks,2,924.33,2024-05-12,Delivered
+ZPT100222,CUST4005,Manish Tiwari,India Gate Basmati 1kg,Staples,8,594.18,2023-09-11,Cancelled
+ZPT100223,CUST3779,Sunita Rawat,Mother Dairy Curd 400g,Dairy,6,769.6,2024-02-21,Pending
+ZPT100224,CUST2287,Suresh Rao,Pilsbury Maida 1kg,Staples,9,522.38,2023-01-26,Cancelled
+ZPT100225,CUST4608,Aarav Shah,Lays Cream Onion 26g,Snacks,6,621.52,2023-06-11,Delivered
+ZPT100226,CUST3438,Pooja Reddy,Tata Salt 1kg,Staples,4,330.74,2023-03-06,Cancelled
+ZPT100227,CUST3490,Neha Gupta,Ariel Washing Powder 500g,Cleaning,2,505.19,2024-03-06,Returned
+ZPT100228,CUST1899,Pooja Reddy,Dettol Soap 75g,Personal Care,9,72.55,2023-08-21,Pending
+ZPT100229,CUST2402,Farhan Qureshi,Epigamia Greek Yogurt 90g,Dairy,5,170.38,2023-10-15,Pending
+ZPT100230,CUST4681,Lakshmi Bose,Bournvita 500g,Beverages,1,985.5,2023-07-19,Pending
+ZPT100231,CUST4804,Farhan Qureshi,Coca-Cola 1.25L,Cold Drinks,10,746.93,2023-03-31,Delivered
+ZPT100232,CUST3624,Farhan Qureshi,Fortune Sunflower Oil 1L,Oils,1,621.37,2023-03-11,Cancelled
+ZPT100233,CUST1586,Manish Tiwari,Red Bull 250ml,Energy Drinks,8,907.07,2023-04-11,Pending
+ZPT100234,CUST3643,Swati Kulkarni,Vim Dishwash Bar 200g,Cleaning,3,596.91,2024-03-08,Delivered
+ZPT100235,CUST1638,Sunita Rawat,Amul Butter 500g,Dairy,7,670.57,2024-09-23,Pending
+ZPT100236,CUST3328,Swati Kulkarni,Hide & Seek Biscuits 100g,Biscuits,7,836.6,2024-02-21,Delivered
+ZPT100237,CUST3646,Divya Pillai,Britannia Bread 400g,Bakery,3,444.56,2023-03-29,Delivered
+ZPT100238,CUST3061,Sunita Rawat,Minute Maid Orange 1L,Juices,8,671.14,2024-09-21,Delivered
+ZPT100239,CUST1510,Simran Kaur,MTR Poha 500g,Breakfast,6,717.93,2023-07-01,Processing
+ZPT100240,CUST4690,Sunita Rawat,Epigamia Greek Yogurt 90g,Dairy,9,613.88,2023-06-08,Delivered
+ZPT100241,CUST3035,Arjun Patel,Britannia Bread 400g,Bakery,10,131.6,2024-04-08,Delivered
+ZPT100242,CUST2759,Divya Pillai,Coca-Cola 1.25L,Cold Drinks,4,487.45,2023-06-27,Cancelled
+ZPT100243,CUST3343,Aarav Shah,Tropicana Guava 1L,Juices,8,206.42,2023-11-26,Delivered
+ZPT100244,CUST2744,Rahul Joshi,Lays Cream Onion 26g,Snacks,2,870.28,2023-07-23,Delivered
+ZPT100245,CUST4056,Simran Kaur,India Gate Basmati 1kg,Staples,8,891.05,2024-05-14,Returned
+ZPT100246,CUST2557,Riya Desai,Maggi Noodles 70g,Instant Food,9,852.08,2024-11-20,Pending
+ZPT100247,CUST2485,Kavya Nair,Fortune Rice 5kg,Staples,6,911.66,2024-08-26,Delivered
+ZPT100248,CUST4804,Gaurav Kapoor,Kellogg's Corn Flakes 250g,Breakfast,4,60.96,2024-10-26,Returned
+ZPT100249,CUST3717,Riya Desai,Colgate Toothpaste 200g,Personal Care,1,120.02,2024-06-08,Delivered
+ZPT100250,CUST4153,Meera Thomas,Lays Cream Onion 26g,Snacks,5,303.07,2023-12-08,Delivered
+ZPT100251,CUST4145,Aditi Choudhary,Nescafe Classic 50g,Beverages,9,996.9,2024-05-15,Delivered
+ZPT100252,CUST1271,Pranav Jain,Harpic Toilet Cleaner 500ml,Cleaning,5,12.65,2023-08-31,Delivered
+ZPT100253,CUST3804,Bhavna Yadav,Quaker Oats 500g,Breakfast,3,155.51,2023-11-11,Delivered
+ZPT100254,CUST1827,Lakshmi Bose,Ariel Washing Powder 500g,Cleaning,7,268.47,2023-12-30,Pending
+ZPT100255,CUST3132,Pranav Jain,Aashirvaad Atta 5kg,Staples,3,136.8,2024-01-01,Processing
+ZPT100256,CUST2409,Arjun Patel,Lay's Classic Chips 26g,Snacks,6,634.75,2024-11-18,Delivered
+ZPT100257,CUST3068,Farhan Qureshi,Good Day Cashew 87g,Biscuits,5,383.74,2023-10-05,Cancelled
+ZPT100258,CUST4913,Priya Mehta,Amul Milk 1L,Dairy,9,769.22,2023-11-22,Delivered
+ZPT100259,CUST2384,Preeti Trivedi,Maggi Noodles 70g,Instant Food,8,213.0,2024-03-17,Delivered
+ZPT100260,CUST3940,Varun Saxena,Pilsbury Maida 1kg,Staples,10,219.21,2023-05-07,Delivered
+ZPT100261,CUST1952,Nikhil Chopra,Quaker Oats 500g,Breakfast,10,650.83,2024-01-21,Processing
+ZPT100262,CUST3394,Bhavna Yadav,Fortune Sunflower Oil 1L,Oils,4,810.51,2023-08-31,Delivered
+ZPT100263,CUST4230,Simran Kaur,Saffola Gold Oil 1L,Oils,8,113.06,2024-09-18,Processing
+ZPT100264,CUST3122,Sneha Iyer,Minute Maid Orange 1L,Juices,6,437.88,2023-12-10,Delivered
+ZPT100265,CUST1247,Vijay Kumar,Lay's Classic Chips 26g,Snacks,2,643.38,2024-04-05,Cancelled
+ZPT100266,CUST4888,Aditi Choudhary,Sprite 750ml,Cold Drinks,7,131.01,2023-11-03,Delivered
+ZPT100267,CUST3311,Deepak Mishra,Paper Boat Aam Panna 250ml,Juices,4,352.54,2024-11-20,Delivered
+ZPT100268,CUST4912,Rajesh Sinha,Amul Milk 1L,Dairy,9,150.09,2023-10-11,Delivered
+ZPT100269,CUST1155,Manish Tiwari,Bournvita 500g,Beverages,7,634.9,2023-10-10,Delivered
+ZPT100270,CUST4842,Kavya Nair,Amul Milk 1L,Dairy,9,141.93,2023-01-18,Cancelled
+ZPT100271,CUST2442,Kavya Nair,Haldiram Bhujia 200g,Snacks,10,28.93,2023-06-09,Delivered
+ZPT100272,CUST3689,Pranav Jain,India Gate Basmati 1kg,Staples,4,845.35,2024-12-13,Cancelled
+ZPT100273,CUST2033,Preeti Trivedi,Minute Maid Orange 1L,Juices,7,751.88,2024-08-17,Cancelled
+ZPT100274,CUST2422,Rajesh Sinha,Quaker Oats 500g,Breakfast,4,307.9,2024-04-25,Pending
+ZPT100275,CUST1992,Anjali Menon,Maggi Noodles 70g,Instant Food,4,904.47,2023-09-17,Delivered
+ZPT100276,CUST4352,Preeti Trivedi,Aashirvaad Atta 5kg,Staples,7,162.93,2024-02-12,Delivered
+ZPT100277,CUST1886,Bhavna Yadav,Parle-G Biscuits 100g,Biscuits,8,788.42,2023-11-10,Pending
+ZPT100278,CUST4715,Pranav Jain,Fortune Sunflower Oil 1L,Oils,7,848.3,2024-04-25,Pending
+ZPT100279,CUST3841,Pooja Reddy,Coca-Cola 1.25L,Cold Drinks,1,47.52,2024-02-25,Delivered
+ZPT100280,CUST4712,Rajesh Sinha,Coca-Cola 1.25L,Cold Drinks,8,46.14,2023-06-22,Delivered
+ZPT100281,CUST3684,Mohit Bhatt,Too Yumm Multigrain 60g,Snacks,4,436.59,2023-02-07,Pending
+ZPT100282,CUST3572,Sunita Rawat,Coca-Cola 1.25L,Cold Drinks,5,34.87,2023-01-25,Delivered
+ZPT100283,CUST1229,Varun Saxena,Parle-G Biscuits 100g,Biscuits,9,733.9,2024-03-13,Cancelled
+ZPT100284,CUST4017,Arjun Patel,Fortune Sunflower Oil 1L,Oils,4,160.98,2023-11-10,Delivered
+ZPT100285,CUST4700,Amit Sharma,Saffola Gold Oil 1L,Oils,7,488.9,2024-09-13,Processing
+ZPT100286,CUST2481,Deepak Mishra,Britannia Bread 400g,Bakery,5,759.02,2023-02-21,Delivered
+ZPT100287,CUST3982,Nisha Pandey,Real Fruit Juice 1L,Juices,1,69.86,2023-08-21,Delivered
+ZPT100288,CUST4031,Tarun Banerjee,Sunfeast Dark Fantasy 75g,Biscuits,10,604.53,2023-01-24,Pending
+ZPT100289,CUST3235,Shreya Agarwal,Good Day Cashew 87g,Biscuits,4,979.7,2024-11-28,Pending
+ZPT100290,CUST3781,Mohit Bhatt,Good Day Cashew 87g,Biscuits,4,314.53,2024-01-13,Returned
+ZPT100291,CUST3234,Arjun Patel,Lays Cream Onion 26g,Snacks,10,628.54,2024-03-05,Delivered
+ZPT100292,CUST4909,Aditi Choudhary,Too Yumm Multigrain 60g,Snacks,7,167.57,2023-09-06,Delivered
+ZPT100293,CUST3147,Rohan Verma,Sunfeast Dark Fantasy 75g,Biscuits,3,913.51,2024-05-27,Pending
+ZPT100294,CUST4177,Sunita Rawat,Tata Salt 1kg,Staples,2,195.44,2024-09-11,Returned
+ZPT100295,CUST4898,Varun Saxena,Quaker Oats 500g,Breakfast,2,742.15,2023-01-19,Processing
+ZPT100296,CUST3871,Rohan Verma,Dove Shampoo 180ml,Personal Care,1,789.19,2024-04-29,Processing
+ZPT100297,CUST2251,Aarav Shah,Lay's Classic Chips 26g,Snacks,4,456.91,2023-10-28,Delivered
+ZPT100298,CUST3601,Shreya Agarwal,Tropicana Guava 1L,Juices,1,732.5,2024-05-12,Processing
+ZPT100299,CUST1604,Sanjay Das,Dettol Soap 75g,Personal Care,9,904.07,2024-03-02,Returned
+ZPT100300,CUST3390,Sanjay Das,Haldiram Bhujia 200g,Snacks,2,20.01,2023-04-30,Returned
+ZPT100301,CUST2192,Pranav Jain,Fortune Rice 5kg,Staples,9,86.13,2023-04-05,Delivered
+ZPT100302,CUST3688,Anita Dubey,Harpic Toilet Cleaner 500ml,Cleaning,3,471.4,2023-10-08,Cancelled
+ZPT100303,CUST3396,Anita Dubey,Tropicana Guava 1L,Juices,8,717.53,2024-08-19,Delivered
+ZPT100304,CUST1498,Gaurav Kapoor,Fortune Sunflower Oil 1L,Oils,3,56.52,2024-04-04,Pending
+ZPT100305,CUST1951,Bhavna Yadav,Too Yumm Multigrain 60g,Snacks,10,216.69,2024-03-10,Delivered
+ZPT100306,CUST1440,Rohan Verma,India Gate Basmati 1kg,Staples,4,643.82,2023-02-26,Pending
+ZPT100307,CUST3799,Pooja Reddy,Saffola Gold Oil 1L,Oils,9,146.26,2024-03-24,Processing
+ZPT100308,CUST1934,Kiran Nair,Lay's Classic Chips 26g,Snacks,7,492.74,2024-05-04,Processing
+ZPT100309,CUST4752,Aditi Choudhary,Good Day Cashew 87g,Biscuits,10,243.11,2024-12-14,Returned
+ZPT100310,CUST2723,Harsh Malhotra,Tropicana Guava 1L,Juices,6,722.51,2024-08-06,Delivered
+ZPT100311,CUST3509,Pranav Jain,Fortune Rice 5kg,Staples,9,280.16,2023-07-08,Delivered
+ZPT100312,CUST2635,Riya Desai,Fortune Sunflower Oil 1L,Oils,2,503.2,2023-11-07,Delivered
+ZPT100313,CUST1099,Pooja Reddy,Maggi Noodles 70g,Instant Food,9,410.28,2023-07-15,Returned
+ZPT100314,CUST4805,Farhan Qureshi,Nescafe Classic 50g,Beverages,6,550.89,2023-03-18,Delivered
+ZPT100315,CUST2330,Riya Desai,Dove Shampoo 180ml,Personal Care,3,719.8,2024-08-27,Delivered
+ZPT100316,CUST1987,Divya Pillai,Fortune Sunflower Oil 1L,Oils,10,245.26,2023-06-20,Returned
+ZPT100317,CUST3814,Gaurav Kapoor,Minute Maid Orange 1L,Juices,9,85.34,2024-09-28,Returned
+ZPT100318,CUST2822,Neha Gupta,Epigamia Greek Yogurt 90g,Dairy,5,833.17,2024-03-20,Processing
+ZPT100319,CUST2285,Riya Desai,Good Day Cashew 87g,Biscuits,6,445.13,2024-07-29,Delivered
+ZPT100320,CUST2037,Kiran Nair,Colgate Toothpaste 200g,Personal Care,5,838.59,2023-09-30,Delivered
+ZPT100321,CUST3295,Bhavna Yadav,MTR Poha 500g,Breakfast,5,470.96,2023-09-17,Cancelled
+ZPT100322,CUST4365,Mohit Bhatt,Good Day Cashew 87g,Biscuits,6,277.3,2023-11-18,Processing
+ZPT100323,CUST4352,Arjun Patel,Tata Salt 1kg,Staples,5,964.75,2024-07-07,Cancelled
+ZPT100324,CUST4940,Mohit Bhatt,Fortune Sunflower Oil 1L,Oils,7,164.94,2023-09-19,Delivered
+ZPT100325,CUST4415,Tarun Banerjee,Colgate Toothpaste 200g,Personal Care,1,495.51,2024-10-26,Pending
+ZPT100326,CUST4431,Pooja Reddy,Ariel Washing Powder 500g,Cleaning,3,940.45,2023-09-04,Delivered
+ZPT100327,CUST3776,Manish Tiwari,Ariel Washing Powder 500g,Cleaning,4,469.94,2023-10-20,Delivered
+ZPT100328,CUST4804,Vijay Kumar,Vim Dishwash Bar 200g,Cleaning,8,418.29,2024-08-12,Delivered
+ZPT100329,CUST1189,Manish Tiwari,Quaker Oats 500g,Breakfast,9,26.97,2024-03-30,Processing
+ZPT100330,CUST3857,Bhavna Yadav,Too Yumm Multigrain 60g,Snacks,9,162.77,2023-01-25,Delivered
+ZPT100331,CUST4856,Swati Kulkarni,Epigamia Greek Yogurt 90g,Dairy,1,404.16,2024-12-20,Cancelled
+ZPT100332,CUST3415,Mohit Bhatt,Coca-Cola 1.25L,Cold Drinks,10,518.92,2023-12-12,Pending
+ZPT100333,CUST3687,Tarun Banerjee,Tropicana Guava 1L,Juices,9,958.07,2023-02-17,Delivered
+ZPT100334,CUST4613,Tarun Banerjee,Too Yumm Multigrain 60g,Snacks,10,527.45,2023-03-05,Processing
+ZPT100335,CUST1854,Rajesh Sinha,Nescafe Classic 50g,Beverages,4,457.19,2024-12-12,Processing
+ZPT100336,CUST4096,Meera Thomas,Minute Maid Orange 1L,Juices,9,711.25,2023-03-03,Delivered
+ZPT100337,CUST3345,Manish Tiwari,Real Fruit Juice 1L,Juices,6,318.51,2023-07-24,Delivered
+ZPT100338,CUST2063,Amit Sharma,Red Bull 250ml,Energy Drinks,4,477.62,2023-08-17,Processing
+ZPT100339,CUST1090,Mohit Bhatt,Tata Salt 1kg,Staples,2,939.47,2024-12-09,Delivered
+ZPT100340,CUST4404,Gaurav Kapoor,Colgate Toothpaste 200g,Personal Care,3,600.62,2023-03-23,Pending
+ZPT100341,CUST1831,Vijay Kumar,Sprite 750ml,Cold Drinks,7,723.32,2024-04-16,Delivered
+ZPT100342,CUST2119,Nikhil Chopra,Tata Salt 1kg,Staples,2,722.5,2023-09-06,Delivered
+ZPT100343,CUST2704,Aarav Shah,Saffola Gold Oil 1L,Oils,8,830.91,2023-12-21,Pending
+ZPT100344,CUST3414,Preeti Trivedi,Surf Excel 1kg,Cleaning,3,120.63,2024-08-11,Processing
+ZPT100345,CUST2544,Harsh Malhotra,Dove Shampoo 180ml,Personal Care,10,883.72,2024-01-28,Delivered
+ZPT100346,CUST2271,Rahul Joshi,Dettol Soap 75g,Personal Care,3,629.93,2024-01-28,Delivered
+ZPT100347,CUST3942,Varun Saxena,Bournvita 500g,Beverages,4,396.51,2023-08-18,Returned
+ZPT100348,CUST4785,Rajesh Sinha,Pilsbury Maida 1kg,Staples,7,242.11,2024-05-21,Processing
+ZPT100349,CUST2657,Nisha Pandey,Kellogg's Corn Flakes 250g,Breakfast,8,633.67,2024-11-29,Delivered
+ZPT100350,CUST2932,Aarav Shah,Vim Dishwash Bar 200g,Cleaning,2,592.37,2024-01-26,Delivered
+ZPT100351,CUST4199,Anjali Menon,Bournvita 500g,Beverages,5,981.1,2023-11-20,Delivered
+ZPT100352,CUST4608,Anjali Menon,Aashirvaad Atta 5kg,Staples,4,450.16,2024-12-03,Delivered
+ZPT100353,CUST1056,Pranav Jain,Lays Cream Onion 26g,Snacks,4,908.33,2023-09-03,Delivered
+ZPT100354,CUST4578,Riya Desai,Red Bull 250ml,Energy Drinks,9,857.67,2024-09-20,Delivered
+ZPT100355,CUST3014,Divya Pillai,Quaker Oats 500g,Breakfast,6,866.58,2024-06-20,Processing
+ZPT100356,CUST1148,Meera Thomas,Pilsbury Maida 1kg,Staples,1,344.5,2023-12-14,Delivered
+ZPT100357,CUST3011,Anjali Menon,Real Fruit Juice 1L,Juices,5,401.3,2024-01-14,Delivered
+ZPT100358,CUST2423,Meera Thomas,Fortune Sunflower Oil 1L,Oils,6,769.56,2024-04-17,Pending
+ZPT100359,CUST2685,Tarun Banerjee,Ariel Washing Powder 500g,Cleaning,5,901.13,2024-02-20,Returned
+ZPT100360,CUST2088,Kavya Nair,Vim Dishwash Bar 200g,Cleaning,5,510.59,2023-03-01,Processing
+ZPT100361,CUST2498,Divya Pillai,Real Fruit Juice 1L,Juices,8,829.51,2024-02-22,Returned
+ZPT100362,CUST3544,Nisha Pandey,Lays Cream Onion 26g,Snacks,10,460.53,2024-10-26,Delivered
+ZPT100363,CUST4868,Simran Kaur,Saffola Gold Oil 1L,Oils,4,625.4,2024-04-17,Delivered
+ZPT100364,CUST3687,Anita Dubey,Amul Butter 500g,Dairy,6,387.79,2024-11-26,Processing
+ZPT100365,CUST3232,Rahul Joshi,Coca-Cola 1.25L,Cold Drinks,8,35.15,2024-09-04,Pending
+ZPT100366,CUST3248,Divya Pillai,Dove Shampoo 180ml,Personal Care,1,820.99,2024-09-27,Delivered
+ZPT100367,CUST2583,Suresh Rao,Aashirvaad Atta 5kg,Staples,9,298.08,2023-07-15,Delivered
+ZPT100368,CUST1606,Nikhil Chopra,Saffola Gold Oil 1L,Oils,3,906.79,2023-03-15,Returned
+ZPT100369,CUST4692,Ananya Singh,Coca-Cola 1.25L,Cold Drinks,1,814.41,2023-04-09,Cancelled
+ZPT100370,CUST3592,Rajesh Sinha,Dettol Soap 75g,Personal Care,9,670.13,2023-07-06,Delivered
+ZPT100371,CUST4712,Varun Saxena,Sunfeast Dark Fantasy 75g,Biscuits,1,259.49,2023-10-14,Returned
+ZPT100372,CUST4382,Anjali Menon,Lay's Classic Chips 26g,Snacks,7,757.91,2023-08-07,Delivered
+ZPT100373,CUST2964,Aditi Choudhary,Dove Shampoo 180ml,Personal Care,9,304.5,2024-01-18,Delivered
+ZPT100374,CUST3482,Divya Pillai,MTR Poha 500g,Breakfast,4,525.98,2023-07-19,Cancelled
+ZPT100375,CUST2201,Aditi Choudhary,Dove Shampoo 180ml,Personal Care,4,776.42,2023-05-12,Returned
+ZPT100376,CUST1434,Kiran Nair,Surf Excel 1kg,Cleaning,6,763.84,2024-12-17,Delivered
+ZPT100377,CUST2124,Pooja Reddy,Amul Milk 1L,Dairy,8,173.61,2023-12-27,Delivered
+ZPT100378,CUST4682,Bhavna Yadav,Mother Dairy Curd 400g,Dairy,6,375.52,2024-12-20,Delivered
+ZPT100379,CUST4303,Nisha Pandey,Red Bull 250ml,Energy Drinks,8,521.74,2024-05-21,Returned
+ZPT100380,CUST4916,Bhavna Yadav,Colgate Toothpaste 200g,Personal Care,8,134.92,2023-09-28,Delivered
+ZPT100381,CUST1537,Arjun Patel,Fortune Sunflower Oil 1L,Oils,9,529.9,2024-12-10,Delivered
+ZPT100382,CUST3939,Gaurav Kapoor,Real Fruit Juice 1L,Juices,4,258.66,2024-08-11,Delivered
+ZPT100383,CUST2649,Anjali Menon,Britannia Bread 400g,Bakery,5,328.44,2024-01-13,Delivered
+ZPT100384,CUST2354,Aditi Choudhary,Too Yumm Multigrain 60g,Snacks,1,75.96,2024-04-26,Delivered
+ZPT100385,CUST4665,Nikhil Chopra,Aashirvaad Atta 5kg,Staples,10,197.19,2024-12-26,Delivered
+ZPT100386,CUST2801,Divya Pillai,Fortune Rice 5kg,Staples,3,41.01,2023-05-28,Delivered
+ZPT100387,CUST2887,Aarav Shah,Good Day Cashew 87g,Biscuits,9,675.14,2024-05-06,Returned
+ZPT100388,CUST2159,Mohit Bhatt,Coca-Cola 1.25L,Cold Drinks,5,905.33,2024-12-12,Returned
+ZPT100389,CUST4697,Ananya Singh,Epigamia Greek Yogurt 90g,Dairy,3,247.46,2023-01-11,Delivered
+ZPT100390,CUST1629,Varun Saxena,Haldiram Bhujia 200g,Snacks,2,443.96,2024-01-04,Delivered
+ZPT100391,CUST1984,Anita Dubey,Nescafe Classic 50g,Beverages,9,387.84,2024-08-18,Pending
+ZPT100392,CUST2272,Swati Kulkarni,Tata Salt 1kg,Staples,8,568.62,2024-08-26,Cancelled
+ZPT100393,CUST1964,Ananya Singh,Lay's Classic Chips 26g,Snacks,9,308.66,2023-09-17,Cancelled
+ZPT100394,CUST4992,Divya Pillai,Sprite 750ml,Cold Drinks,10,283.92,2024-08-01,Delivered
+ZPT100395,CUST4158,Sanjay Das,Minute Maid Orange 1L,Juices,2,277.04,2024-06-15,Returned
+ZPT100396,CUST2575,Kiran Nair,Fortune Sunflower Oil 1L,Oils,7,664.61,2024-07-23,Returned
+ZPT100397,CUST4158,Amit Sharma,India Gate Basmati 1kg,Staples,3,554.81,2024-04-19,Delivered
+ZPT100398,CUST4806,Aditi Choudhary,Vim Dishwash Bar 200g,Cleaning,8,84.31,2024-08-31,Delivered
+ZPT100399,CUST4119,Kiran Nair,Red Bull 250ml,Energy Drinks,2,306.21,2023-06-08,Pending
+ZPT100400,CUST2341,Aarav Shah,Harpic Toilet Cleaner 500ml,Cleaning,3,21.66,2023-01-18,Delivered
+ZPT100401,CUST3742,Riya Desai,Fortune Rice 5kg,Staples,9,484.74,2024-11-06,Delivered
+ZPT100402,CUST2673,Sneha Iyer,Quaker Oats 500g,Breakfast,4,248.26,2023-11-15,Delivered
+ZPT100403,CUST2465,Bhavna Yadav,Britannia Bread 400g,Bakery,4,852.03,2024-02-29,Delivered
+ZPT100404,CUST3655,Meera Thomas,Quaker Oats 500g,Breakfast,4,824.65,2023-12-08,Delivered
+ZPT100405,CUST1845,Gaurav Kapoor,Kellogg's Corn Flakes 250g,Breakfast,8,185.58,2024-06-02,Pending
+ZPT100406,CUST2468,Aditi Choudhary,Britannia Bread 400g,Bakery,6,807.72,2023-04-30,Delivered
+ZPT100407,CUST4963,Sunita Rawat,India Gate Basmati 1kg,Staples,10,235.44,2023-06-22,Delivered
+ZPT100408,CUST3610,Priya Mehta,Ariel Washing Powder 500g,Cleaning,10,661.58,2024-09-24,Delivered
+ZPT100409,CUST2476,Meera Thomas,Colgate Toothpaste 200g,Personal Care,7,886.76,2024-08-19,Pending
+ZPT100410,CUST4516,Aarav Shah,MTR Poha 500g,Breakfast,6,607.18,2024-11-03,Returned
+ZPT100411,CUST1105,Simran Kaur,Kellogg's Corn Flakes 250g,Breakfast,10,394.74,2024-03-14,Delivered
+ZPT100412,CUST1279,Ananya Singh,Red Bull 250ml,Energy Drinks,4,721.13,2023-10-18,Delivered
+ZPT100413,CUST1253,Lakshmi Bose,Lay's Classic Chips 26g,Snacks,7,628.77,2023-01-06,Cancelled
+ZPT100414,CUST3909,Amit Sharma,Tropicana Guava 1L,Juices,6,218.08,2023-05-02,Processing
+ZPT100415,CUST4763,Preeti Trivedi,Paper Boat Aam Panna 250ml,Juices,4,75.22,2024-01-17,Delivered
+ZPT100416,CUST1738,Aarav Shah,Sunfeast Dark Fantasy 75g,Biscuits,3,907.99,2024-12-26,Delivered
+ZPT100417,CUST3441,Aditi Choudhary,Hide & Seek Biscuits 100g,Biscuits,7,604.35,2024-11-19,Cancelled
+ZPT100418,CUST1439,Nisha Pandey,Pilsbury Maida 1kg,Staples,8,979.76,2024-04-23,Returned
+ZPT100419,CUST4057,Sneha Iyer,Coca-Cola 1.25L,Cold Drinks,7,459.28,2023-12-12,Delivered
+ZPT100420,CUST2961,Ananya Singh,Paper Boat Aam Panna 250ml,Juices,7,873.25,2023-06-01,Processing
+ZPT100421,CUST2791,Mohit Bhatt,Harpic Toilet Cleaner 500ml,Cleaning,10,526.48,2023-07-13,Delivered
+ZPT100422,CUST3887,Rahul Joshi,Colgate Toothpaste 200g,Personal Care,2,624.6,2024-04-29,Delivered
+ZPT100423,CUST4933,Rahul Joshi,Haldiram Bhujia 200g,Snacks,1,42.42,2024-02-16,Delivered
+ZPT100424,CUST1168,Kiran Nair,Bournvita 500g,Beverages,4,880.98,2024-09-19,Delivered
+ZPT100425,CUST4657,Sunita Rawat,Pilsbury Maida 1kg,Staples,1,395.32,2024-07-28,Delivered
+ZPT100426,CUST4669,Kavya Nair,Lay's Classic Chips 26g,Snacks,4,227.48,2024-12-10,Delivered
+ZPT100427,CUST2556,Nisha Pandey,Lays Cream Onion 26g,Snacks,8,56.1,2023-07-16,Pending
+ZPT100428,CUST1938,Swati Kulkarni,Maggi Noodles 70g,Instant Food,8,15.98,2024-08-25,Pending
+ZPT100429,CUST1543,Arjun Patel,Ariel Washing Powder 500g,Cleaning,3,654.74,2023-09-22,Delivered
+ZPT100430,CUST4428,Pooja Reddy,Mother Dairy Curd 400g,Dairy,4,795.12,2023-05-13,Processing
+ZPT100431,CUST1488,Suresh Rao,Real Fruit Juice 1L,Juices,7,816.49,2023-09-09,Delivered
+ZPT100432,CUST1705,Neha Gupta,Minute Maid Orange 1L,Juices,6,294.24,2024-10-06,Delivered
+ZPT100433,CUST2615,Priya Mehta,Lays Cream Onion 26g,Snacks,4,574.56,2023-04-21,Delivered
+ZPT100434,CUST1572,Tarun Banerjee,Lay's Classic Chips 26g,Snacks,7,750.49,2023-11-01,Returned
+ZPT100435,CUST2688,Lakshmi Bose,Tropicana Guava 1L,Juices,8,318.66,2023-12-06,Returned
+ZPT100436,CUST3301,Bhavna Yadav,Nescafe Classic 50g,Beverages,6,849.76,2023-03-01,Cancelled
+ZPT100437,CUST1050,Kavya Nair,Kellogg's Corn Flakes 250g,Breakfast,3,331.95,2023-09-21,Returned
+ZPT100438,CUST2828,Ananya Singh,Saffola Gold Oil 1L,Oils,3,726.04,2024-04-14,Processing
+ZPT100439,CUST1668,Riya Desai,Kellogg's Corn Flakes 250g,Breakfast,2,408.86,2024-12-20,Pending
+ZPT100440,CUST4627,Nikhil Chopra,Quaker Oats 500g,Breakfast,8,72.38,2024-11-02,Pending
+ZPT100441,CUST4010,Sunita Rawat,Quaker Oats 500g,Breakfast,5,368.69,2024-11-03,Delivered
+ZPT100442,CUST2271,Kavya Nair,Aashirvaad Atta 5kg,Staples,6,639.89,2023-12-04,Returned
+ZPT100443,CUST2375,Riya Desai,Ariel Washing Powder 500g,Cleaning,10,334.4,2023-01-23,Cancelled
+ZPT100444,CUST4488,Manish Tiwari,Aashirvaad Atta 5kg,Staples,5,434.25,2023-07-01,Delivered
+ZPT100445,CUST1666,Priya Mehta,Hide & Seek Biscuits 100g,Biscuits,8,454.17,2024-10-17,Delivered
+ZPT100446,CUST4778,Kavya Nair,Real Fruit Juice 1L,Juices,5,94.54,2023-03-23,Delivered
+ZPT100447,CUST1904,Priya Mehta,Fortune Rice 5kg,Staples,10,451.22,2024-11-17,Delivered
+ZPT100448,CUST4455,Nikhil Chopra,Saffola Gold Oil 1L,Oils,1,217.37,2023-07-18,Delivered
+ZPT100449,CUST1742,Aditi Choudhary,Bournvita 500g,Beverages,3,783.64,2023-10-02,Cancelled
+ZPT100450,CUST3098,Ananya Singh,Parle-G Biscuits 100g,Biscuits,4,736.67,2023-09-16,Processing
+ZPT100451,CUST3135,Preeti Trivedi,Tata Salt 1kg,Staples,1,147.96,2023-02-24,Delivered
+ZPT100452,CUST4182,Anjali Menon,Kellogg's Corn Flakes 250g,Breakfast,9,157.2,2023-07-20,Delivered
+ZPT100453,CUST3269,Kavya Nair,Haldiram Bhujia 200g,Snacks,1,588.93,2024-10-10,Delivered
+ZPT100454,CUST2845,Pranav Jain,India Gate Basmati 1kg,Staples,7,254.09,2023-09-25,Delivered
+ZPT100455,CUST1029,Gaurav Kapoor,Lay's Classic Chips 26g,Snacks,8,695.45,2024-11-28,Returned
+ZPT100456,CUST2506,Rajesh Sinha,Hide & Seek Biscuits 100g,Biscuits,6,365.46,2024-05-05,Cancelled
+ZPT100457,CUST4135,Sunita Rawat,Tata Salt 1kg,Staples,5,358.65,2024-03-18,Delivered
+ZPT100458,CUST1117,Meera Thomas,Dettol Soap 75g,Personal Care,5,176.84,2023-01-30,Delivered
+ZPT100459,CUST4282,Divya Pillai,Mother Dairy Curd 400g,Dairy,9,925.41,2024-03-08,Processing
+ZPT100460,CUST2555,Ananya Singh,Coca-Cola 1.25L,Cold Drinks,6,891.16,2024-07-24,Delivered
+ZPT100461,CUST2523,Suresh Rao,Too Yumm Multigrain 60g,Snacks,9,329.07,2024-06-04,Pending
+ZPT100462,CUST4998,Anjali Menon,Aashirvaad Atta 5kg,Staples,7,843.87,2024-05-28,Returned
+ZPT100463,CUST3859,Harsh Malhotra,Bournvita 500g,Beverages,4,662.01,2024-04-10,Delivered
+ZPT100464,CUST2930,Varun Saxena,Paper Boat Aam Panna 250ml,Juices,5,97.25,2024-07-29,Cancelled
+ZPT100465,CUST3519,Sanjay Das,Sunfeast Dark Fantasy 75g,Biscuits,2,889.31,2024-01-01,Processing
+ZPT100466,CUST2236,Nikhil Chopra,Good Day Cashew 87g,Biscuits,3,751.09,2023-07-03,Delivered
+ZPT100467,CUST3902,Meera Thomas,Britannia Bread 400g,Bakery,5,113.5,2023-05-21,Pending
+ZPT100468,CUST1933,Bhavna Yadav,Good Day Cashew 87g,Biscuits,5,552.81,2023-06-10,Returned
+ZPT100469,CUST1495,Riya Desai,Surf Excel 1kg,Cleaning,9,162.08,2023-03-02,Processing
+ZPT100470,CUST1654,Suresh Rao,MTR Poha 500g,Breakfast,10,92.67,2024-01-06,Processing
+ZPT100471,CUST3276,Rahul Joshi,Pilsbury Maida 1kg,Staples,6,277.05,2023-03-17,Pending
+ZPT100472,CUST2706,Rajesh Sinha,Parle-G Biscuits 100g,Biscuits,10,639.72,2024-01-04,Delivered
+ZPT100473,CUST4280,Pranav Jain,Real Fruit Juice 1L,Juices,5,988.58,2023-09-12,Delivered
+ZPT100474,CUST1934,Bhavna Yadav,Mother Dairy Curd 400g,Dairy,10,388.9,2024-03-16,Cancelled
+ZPT100475,CUST2718,Priya Mehta,Colgate Toothpaste 200g,Personal Care,4,362.46,2023-11-13,Processing
+ZPT100476,CUST4190,Arjun Patel,Colgate Toothpaste 200g,Personal Care,4,724.72,2024-08-22,Delivered
+ZPT100477,CUST3973,Kiran Nair,Red Bull 250ml,Energy Drinks,3,147.83,2023-10-20,Cancelled
+ZPT100478,CUST2919,Meera Thomas,Epigamia Greek Yogurt 90g,Dairy,8,307.31,2023-09-04,Delivered
+ZPT100479,CUST2649,Tarun Banerjee,Amul Butter 500g,Dairy,8,315.91,2023-09-11,Delivered
+ZPT100480,CUST1712,Harsh Malhotra,Bournvita 500g,Beverages,2,98.65,2023-06-10,Delivered
+ZPT100481,CUST4877,Deepak Mishra,Surf Excel 1kg,Cleaning,6,505.35,2024-12-22,Delivered
+ZPT100482,CUST4998,Pranav Jain,Dettol Soap 75g,Personal Care,10,138.19,2023-07-11,Processing
+ZPT100483,CUST3855,Swati Kulkarni,Bournvita 500g,Beverages,4,715.11,2023-10-26,Delivered
+ZPT100484,CUST2108,Pranav Jain,Too Yumm Multigrain 60g,Snacks,2,268.67,2023-07-18,Delivered
+ZPT100485,CUST3318,Amit Sharma,Real Fruit Juice 1L,Juices,5,811.5,2023-04-28,Returned
+ZPT100486,CUST3498,Rahul Joshi,Surf Excel 1kg,Cleaning,9,542.53,2023-09-08,Delivered
+ZPT100487,CUST1748,Arjun Patel,Nescafe Classic 50g,Beverages,1,545.47,2023-01-03,Cancelled
+ZPT100488,CUST1409,Tarun Banerjee,Surf Excel 1kg,Cleaning,8,362.53,2023-04-07,Processing
+ZPT100489,CUST4816,Simran Kaur,Amul Butter 500g,Dairy,3,362.17,2023-02-01,Delivered
+ZPT100490,CUST4235,Shreya Agarwal,Ariel Washing Powder 500g,Cleaning,8,159.64,2023-04-14,Delivered
+ZPT100491,CUST4093,Sanjay Das,Haldiram Bhujia 200g,Snacks,6,926.6,2023-03-05,Delivered
+ZPT100492,CUST3649,Pooja Reddy,Ariel Washing Powder 500g,Cleaning,10,708.8,2024-02-10,Returned
+ZPT100493,CUST1482,Divya Pillai,Saffola Gold Oil 1L,Oils,2,869.5,2023-12-27,Delivered
+ZPT100494,CUST4719,Aarav Shah,Red Bull 250ml,Energy Drinks,1,744.48,2023-04-23,Delivered
+ZPT100495,CUST3455,Farhan Qureshi,Epigamia Greek Yogurt 90g,Dairy,1,255.28,2024-01-21,Delivered
+ZPT100496,CUST4002,Mohit Bhatt,Ariel Washing Powder 500g,Cleaning,1,818.82,2023-12-02,Delivered
+ZPT100497,CUST3371,Meera Thomas,Dove Shampoo 180ml,Personal Care,8,949.1,2023-02-01,Returned
+ZPT100498,CUST4632,Rajesh Sinha,Vim Dishwash Bar 200g,Cleaning,4,600.34,2023-05-27,Cancelled
+ZPT100499,CUST1679,Aarav Shah,Coca-Cola 1.25L,Cold Drinks,1,582.68,2023-10-04,Delivered
+ZPT100500,CUST2903,Pranav Jain,Haldiram Bhujia 200g,Snacks,8,920.04,2023-04-01,Delivered
+ZPT100501,CUST3297,Harsh Malhotra,India Gate Basmati 1kg,Staples,4,637.82,2023-10-29,Returned
+ZPT100502,CUST4624,Nisha Pandey,Bournvita 500g,Beverages,1,342.87,2023-10-31,Cancelled
+ZPT100503,CUST3302,Rahul Joshi,Saffola Gold Oil 1L,Oils,1,249.1,2023-07-16,Delivered
+ZPT100504,CUST4199,Rohan Verma,India Gate Basmati 1kg,Staples,8,810.34,2023-07-21,Cancelled
+ZPT100505,CUST1472,Divya Pillai,Aashirvaad Atta 5kg,Staples,10,374.18,2023-10-31,Delivered
+ZPT100506,CUST1963,Nisha Pandey,Red Bull 250ml,Energy Drinks,5,203.43,2023-07-21,Delivered
+ZPT100507,CUST4479,Deepak Mishra,Tropicana Guava 1L,Juices,4,359.37,2023-11-03,Delivered
+ZPT100508,CUST3905,Gaurav Kapoor,Minute Maid Orange 1L,Juices,5,904.25,2023-12-10,Delivered
+ZPT100509,CUST2246,Rohan Verma,Minute Maid Orange 1L,Juices,5,888.22,2024-08-31,Delivered
+ZPT100510,CUST2755,Vijay Kumar,Surf Excel 1kg,Cleaning,3,241.05,2024-10-13,Delivered
+ZPT100511,CUST1467,Deepak Mishra,Fortune Rice 5kg,Staples,8,467.61,2024-04-21,Delivered
+ZPT100512,CUST2391,Pranav Jain,Dettol Soap 75g,Personal Care,3,514.69,2024-11-02,Delivered
+ZPT100513,CUST3748,Meera Thomas,Saffola Gold Oil 1L,Oils,3,50.29,2024-06-03,Delivered
+ZPT100514,CUST2240,Bhavna Yadav,Too Yumm Multigrain 60g,Snacks,6,815.09,2024-08-05,Cancelled
+ZPT100515,CUST2415,Riya Desai,Saffola Gold Oil 1L,Oils,9,542.51,2023-01-17,Pending
+ZPT100516,CUST4057,Arjun Patel,Fortune Rice 5kg,Staples,10,58.47,2024-12-11,Returned
+ZPT100517,CUST1135,Divya Pillai,Haldiram Bhujia 200g,Snacks,8,951.47,2024-04-14,Delivered
+ZPT100518,CUST1395,Manish Tiwari,Amul Milk 1L,Dairy,9,779.38,2024-03-30,Delivered
+ZPT100519,CUST1770,Swati Kulkarni,Tropicana Guava 1L,Juices,7,350.16,2023-03-01,Cancelled
+ZPT100520,CUST4453,Simran Kaur,Mother Dairy Curd 400g,Dairy,2,519.81,2023-08-29,Delivered
+ZPT100521,CUST4668,Vijay Kumar,Lays Cream Onion 26g,Snacks,2,938.59,2024-12-25,Delivered
+ZPT100522,CUST3293,Swati Kulkarni,Too Yumm Multigrain 60g,Snacks,2,66.65,2024-11-04,Cancelled
+ZPT100523,CUST3966,Aarav Shah,Too Yumm Multigrain 60g,Snacks,3,241.16,2023-11-20,Returned
+ZPT100524,CUST1648,Rohan Verma,Fortune Rice 5kg,Staples,8,797.71,2024-07-14,Delivered
+ZPT100525,CUST4047,Sanjay Das,Vim Dishwash Bar 200g,Cleaning,8,14.59,2023-08-24,Delivered
+ZPT100526,CUST1469,Sunita Rawat,MTR Poha 500g,Breakfast,3,450.71,2024-07-06,Pending
+ZPT100527,CUST2760,Aarav Shah,Epigamia Greek Yogurt 90g,Dairy,7,647.45,2024-11-17,Delivered
+ZPT100528,CUST1287,Kavya Nair,Nescafe Classic 50g,Beverages,9,183.85,2024-01-12,Delivered
+ZPT100529,CUST3489,Ananya Singh,Saffola Gold Oil 1L,Oils,2,522.41,2024-09-20,Pending
+ZPT100530,CUST3750,Lakshmi Bose,Harpic Toilet Cleaner 500ml,Cleaning,7,720.59,2023-04-03,Pending
+ZPT100531,CUST2253,Meera Thomas,Fortune Sunflower Oil 1L,Oils,2,887.75,2024-09-12,Delivered
+ZPT100532,CUST2075,Suresh Rao,Real Fruit Juice 1L,Juices,4,605.67,2023-12-22,Processing
+ZPT100533,CUST2886,Ananya Singh,Good Day Cashew 87g,Biscuits,3,179.14,2023-05-09,Delivered
+ZPT100534,CUST3156,Rahul Joshi,Vim Dishwash Bar 200g,Cleaning,7,181.46,2023-09-01,Delivered
+ZPT100535,CUST3678,Swati Kulkarni,Coca-Cola 1.25L,Cold Drinks,1,323.51,2024-03-14,Pending
+ZPT100536,CUST3689,Lakshmi Bose,Fortune Sunflower Oil 1L,Oils,10,619.46,2023-07-18,Delivered
+ZPT100537,CUST1193,Anjali Menon,Sprite 750ml,Cold Drinks,8,746.91,2023-12-23,Delivered
+ZPT100538,CUST1612,Simran Kaur,Coca-Cola 1.25L,Cold Drinks,5,732.17,2023-02-05,Delivered
+ZPT100539,CUST3221,Neha Gupta,Pilsbury Maida 1kg,Staples,6,526.58,2023-11-06,Returned
+ZPT100540,CUST2886,Harsh Malhotra,Tata Salt 1kg,Staples,6,364.89,2023-03-14,Processing
+ZPT100541,CUST1844,Sanjay Das,Sunfeast Dark Fantasy 75g,Biscuits,10,944.15,2024-05-15,Cancelled
+ZPT100542,CUST4877,Anita Dubey,Ariel Washing Powder 500g,Cleaning,5,435.0,2023-12-18,Pending
+ZPT100543,CUST4430,Divya Pillai,Sprite 750ml,Cold Drinks,5,575.56,2024-07-09,Processing
+ZPT100544,CUST3851,Suresh Rao,Hide & Seek Biscuits 100g,Biscuits,9,843.93,2024-12-13,Delivered
+ZPT100545,CUST1314,Lakshmi Bose,Sprite 750ml,Cold Drinks,8,62.47,2024-10-28,Delivered
+ZPT100546,CUST4684,Mohit Bhatt,Coca-Cola 1.25L,Cold Drinks,4,144.87,2023-11-08,Delivered
+ZPT100547,CUST3906,Shreya Agarwal,Amul Milk 1L,Dairy,3,685.49,2024-06-17,Delivered
+ZPT100548,CUST4736,Lakshmi Bose,Tropicana Guava 1L,Juices,1,976.36,2024-01-27,Cancelled
+ZPT100549,CUST3183,Aditi Choudhary,Tata Salt 1kg,Staples,10,392.61,2023-09-28,Cancelled
+ZPT100550,CUST2098,Preeti Trivedi,MTR Poha 500g,Breakfast,8,544.63,2024-03-16,Delivered
+ZPT100551,CUST4825,Pranav Jain,Tropicana Guava 1L,Juices,10,910.9,2024-06-22,Delivered
+ZPT100552,CUST2200,Deepak Mishra,Quaker Oats 500g,Breakfast,1,42.02,2024-01-23,Delivered
+ZPT100553,CUST4431,Simran Kaur,Minute Maid Orange 1L,Juices,4,119.67,2023-12-23,Delivered
+ZPT100554,CUST4014,Kavya Nair,Good Day Cashew 87g,Biscuits,3,610.26,2024-04-19,Delivered
+ZPT100555,CUST3918,Neha Gupta,Real Fruit Juice 1L,Juices,6,141.49,2023-09-02,Delivered
+ZPT100556,CUST2619,Priya Mehta,Britannia Bread 400g,Bakery,10,611.88,2023-11-28,Delivered
+ZPT100557,CUST2352,Gaurav Kapoor,Maggi Noodles 70g,Instant Food,2,538.7,2024-09-01,Delivered
+ZPT100558,CUST1914,Kiran Nair,India Gate Basmati 1kg,Staples,2,305.33,2024-07-14,Delivered
+ZPT100559,CUST2867,Anita Dubey,Fortune Sunflower Oil 1L,Oils,10,332.28,2024-04-08,Cancelled
+ZPT100560,CUST1751,Vijay Kumar,Hide & Seek Biscuits 100g,Biscuits,4,559.21,2023-06-18,Delivered
+ZPT100561,CUST1710,Aarav Shah,Tropicana Guava 1L,Juices,6,189.99,2024-08-07,Pending
+ZPT100562,CUST4317,Sanjay Das,Amul Butter 500g,Dairy,1,463.7,2023-05-25,Delivered
+ZPT100563,CUST2562,Swati Kulkarni,Pilsbury Maida 1kg,Staples,6,167.65,2024-01-01,Delivered
+ZPT100564,CUST1973,Varun Saxena,Too Yumm Multigrain 60g,Snacks,9,241.94,2023-12-29,Pending
+ZPT100565,CUST2297,Varun Saxena,MTR Poha 500g,Breakfast,8,371.35,2023-02-28,Cancelled
+ZPT100566,CUST3519,Gaurav Kapoor,Nescafe Classic 50g,Beverages,8,442.46,2023-04-15,Delivered
+ZPT100567,CUST2423,Riya Desai,Haldiram Bhujia 200g,Snacks,8,957.15,2024-06-18,Pending
+ZPT100568,CUST3609,Anjali Menon,Colgate Toothpaste 200g,Personal Care,8,662.69,2023-10-16,Delivered
+ZPT100569,CUST3444,Aarav Shah,Hide & Seek Biscuits 100g,Biscuits,5,776.08,2023-07-21,Cancelled
+ZPT100570,CUST4537,Harsh Malhotra,Surf Excel 1kg,Cleaning,1,498.09,2024-01-29,Delivered
+ZPT100571,CUST4365,Aditi Choudhary,Too Yumm Multigrain 60g,Snacks,8,476.61,2023-03-14,Delivered
+ZPT100572,CUST3821,Aarav Shah,Lays Cream Onion 26g,Snacks,5,106.45,2024-06-26,Cancelled
+ZPT100573,CUST4929,Harsh Malhotra,Amul Butter 500g,Dairy,2,912.32,2023-07-17,Delivered
+ZPT100574,CUST2603,Shreya Agarwal,Lays Cream Onion 26g,Snacks,8,442.0,2023-08-16,Cancelled
+ZPT100575,CUST3715,Aarav Shah,Lays Cream Onion 26g,Snacks,5,775.09,2023-03-06,Returned
+ZPT100576,CUST4047,Tarun Banerjee,Hide & Seek Biscuits 100g,Biscuits,1,435.66,2023-09-30,Delivered
+ZPT100577,CUST1960,Gaurav Kapoor,Aashirvaad Atta 5kg,Staples,1,903.94,2023-09-08,Delivered
+ZPT100578,CUST2700,Kiran Nair,Good Day Cashew 87g,Biscuits,2,156.88,2024-09-06,Pending
+ZPT100579,CUST4682,Tarun Banerjee,Parle-G Biscuits 100g,Biscuits,8,710.64,2023-02-01,Delivered
+ZPT100580,CUST4477,Pranav Jain,Good Day Cashew 87g,Biscuits,5,644.17,2024-08-10,Delivered
+ZPT100581,CUST4951,Rohan Verma,Ariel Washing Powder 500g,Cleaning,4,204.63,2023-11-06,Returned
+ZPT100582,CUST2243,Pranav Jain,Vim Dishwash Bar 200g,Cleaning,6,446.69,2023-02-06,Processing
+ZPT100583,CUST2979,Preeti Trivedi,Too Yumm Multigrain 60g,Snacks,3,149.74,2023-10-09,Delivered
+ZPT100584,CUST3846,Meera Thomas,Good Day Cashew 87g,Biscuits,7,328.86,2023-03-31,Delivered
+ZPT100585,CUST2835,Nikhil Chopra,Sprite 750ml,Cold Drinks,3,868.76,2024-05-18,Delivered
+ZPT100586,CUST3697,Aditi Choudhary,India Gate Basmati 1kg,Staples,10,719.17,2023-06-25,Delivered
+ZPT100587,CUST3600,Rahul Joshi,Hide & Seek Biscuits 100g,Biscuits,8,381.28,2024-07-19,Pending
+ZPT100588,CUST3203,Anita Dubey,Nescafe Classic 50g,Beverages,9,396.78,2024-08-09,Delivered
+ZPT100589,CUST3945,Mohit Bhatt,Amul Butter 500g,Dairy,3,321.76,2023-10-07,Processing
+ZPT100590,CUST1369,Lakshmi Bose,Tata Salt 1kg,Staples,7,138.03,2023-10-18,Cancelled
+ZPT100591,CUST1822,Pooja Reddy,India Gate Basmati 1kg,Staples,2,645.25,2023-12-02,Cancelled
+ZPT100592,CUST2271,Simran Kaur,Dove Shampoo 180ml,Personal Care,3,609.64,2023-02-05,Cancelled
+ZPT100593,CUST4954,Aarav Shah,Coca-Cola 1.25L,Cold Drinks,1,597.54,2023-06-17,Delivered
+ZPT100594,CUST3436,Sneha Iyer,Lays Cream Onion 26g,Snacks,5,720.12,2024-03-25,Pending
+ZPT100595,CUST3968,Simran Kaur,Amul Milk 1L,Dairy,8,431.95,2023-04-02,Delivered
+ZPT100596,CUST4284,Bhavna Yadav,Tata Salt 1kg,Staples,2,577.2,2023-07-01,Delivered
+ZPT100597,CUST3972,Rahul Joshi,Amul Milk 1L,Dairy,5,664.98,2023-07-17,Returned
+ZPT100598,CUST1262,Sunita Rawat,Lay's Classic Chips 26g,Snacks,1,649.43,2023-01-10,Delivered
+ZPT100599,CUST4278,Nikhil Chopra,Mother Dairy Curd 400g,Dairy,7,814.72,2024-04-26,Delivered
+ZPT100600,CUST4590,Mohit Bhatt,Lay's Classic Chips 26g,Snacks,10,521.54,2023-01-26,Pending
+ZPT100601,CUST1653,Arjun Patel,Pilsbury Maida 1kg,Staples,7,80.89,2024-10-31,Cancelled
+ZPT100602,CUST3011,Gaurav Kapoor,Dettol Soap 75g,Personal Care,1,505.09,2024-02-21,Delivered
+ZPT100603,CUST4810,Nisha Pandey,Maggi Noodles 70g,Instant Food,3,611.21,2024-12-11,Processing
+ZPT100604,CUST3859,Pranav Jain,Lay's Classic Chips 26g,Snacks,7,287.87,2024-11-03,Cancelled
+ZPT100605,CUST4526,Swati Kulkarni,Surf Excel 1kg,Cleaning,7,573.25,2024-11-10,Delivered
+ZPT100606,CUST4247,Gaurav Kapoor,Quaker Oats 500g,Breakfast,9,241.18,2024-02-14,Delivered
+ZPT100607,CUST4033,Sneha Iyer,Sunfeast Dark Fantasy 75g,Biscuits,4,250.21,2023-10-26,Pending
+ZPT100608,CUST2606,Kiran Nair,Kellogg's Corn Flakes 250g,Breakfast,7,424.23,2023-01-21,Delivered
+ZPT100609,CUST3650,Nikhil Chopra,Dettol Soap 75g,Personal Care,6,385.66,2023-04-14,Returned
+ZPT100610,CUST2820,Suresh Rao,Vim Dishwash Bar 200g,Cleaning,10,273.21,2023-06-14,Delivered
+ZPT100611,CUST4834,Vijay Kumar,Lay's Classic Chips 26g,Snacks,5,887.22,2023-05-04,Delivered
+ZPT100612,CUST4322,Simran Kaur,Coca-Cola 1.25L,Cold Drinks,9,603.73,2024-03-19,Delivered
+ZPT100613,CUST4497,Sunita Rawat,Haldiram Bhujia 200g,Snacks,1,816.47,2024-04-10,Delivered
+ZPT100614,CUST4701,Amit Sharma,Harpic Toilet Cleaner 500ml,Cleaning,5,169.05,2023-10-20,Delivered
+ZPT100615,CUST2241,Sneha Iyer,Quaker Oats 500g,Breakfast,8,195.7,2023-07-27,Delivered
+ZPT100616,CUST4536,Sunita Rawat,Dettol Soap 75g,Personal Care,7,69.06,2024-02-23,Pending
+ZPT100617,CUST2577,Neha Gupta,Minute Maid Orange 1L,Juices,10,900.58,2024-06-09,Delivered
+ZPT100618,CUST4882,Rajesh Sinha,Saffola Gold Oil 1L,Oils,6,422.81,2023-04-25,Returned
+ZPT100619,CUST4967,Sneha Iyer,Amul Butter 500g,Dairy,8,216.64,2024-11-26,Pending
+ZPT100620,CUST3134,Tarun Banerjee,Tropicana Guava 1L,Juices,7,847.24,2023-11-30,Delivered
+ZPT100621,CUST4241,Riya Desai,Parle-G Biscuits 100g,Biscuits,8,787.87,2023-07-18,Delivered
+ZPT100622,CUST4114,Rajesh Sinha,Colgate Toothpaste 200g,Personal Care,2,497.24,2024-02-03,Returned
+ZPT100623,CUST1426,Nikhil Chopra,Haldiram Bhujia 200g,Snacks,8,84.05,2024-09-21,Delivered
+ZPT100624,CUST4847,Swati Kulkarni,Lays Cream Onion 26g,Snacks,5,893.2,2023-05-05,Delivered
+ZPT100625,CUST2998,Divya Pillai,Dettol Soap 75g,Personal Care,10,903.95,2024-04-12,Delivered
+ZPT100626,CUST3408,Tarun Banerjee,Lay's Classic Chips 26g,Snacks,4,679.39,2024-05-31,Returned
+ZPT100627,CUST1257,Amit Sharma,Mother Dairy Curd 400g,Dairy,4,37.71,2023-11-11,Delivered
+ZPT100628,CUST4400,Rohan Verma,Surf Excel 1kg,Cleaning,7,668.84,2024-09-10,Returned
+ZPT100629,CUST4601,Ananya Singh,Coca-Cola 1.25L,Cold Drinks,7,851.27,2023-04-20,Returned
+ZPT100630,CUST1197,Mohit Bhatt,Too Yumm Multigrain 60g,Snacks,7,577.42,2024-08-20,Delivered
+ZPT100631,CUST1723,Anita Dubey,Aashirvaad Atta 5kg,Staples,10,422.06,2024-06-04,Delivered
+ZPT100632,CUST3281,Rajesh Sinha,Dettol Soap 75g,Personal Care,4,670.92,2023-05-11,Delivered
+ZPT100633,CUST2563,Vijay Kumar,Amul Butter 500g,Dairy,6,455.16,2023-08-01,Processing
+ZPT100634,CUST2055,Nisha Pandey,Paper Boat Aam Panna 250ml,Juices,1,398.78,2024-05-24,Delivered
+ZPT100635,CUST2918,Swati Kulkarni,Britannia Bread 400g,Bakery,1,374.3,2024-01-07,Returned
+ZPT100636,CUST2040,Shreya Agarwal,Pilsbury Maida 1kg,Staples,7,741.3,2024-01-08,Cancelled
+ZPT100637,CUST1987,Farhan Qureshi,Coca-Cola 1.25L,Cold Drinks,4,797.04,2023-08-10,Delivered
+ZPT100638,CUST3902,Simran Kaur,Colgate Toothpaste 200g,Personal Care,1,678.65,2024-10-10,Cancelled
+ZPT100639,CUST4544,Tarun Banerjee,Nescafe Classic 50g,Beverages,6,608.2,2024-11-26,Cancelled
+ZPT100640,CUST1407,Ananya Singh,Hide & Seek Biscuits 100g,Biscuits,4,105.39,2024-06-25,Processing
+ZPT100641,CUST4553,Aarav Shah,Red Bull 250ml,Energy Drinks,3,411.41,2024-03-02,Delivered
+ZPT100642,CUST4480,Rajesh Sinha,Maggi Noodles 70g,Instant Food,1,431.77,2024-06-04,Delivered
+ZPT100643,CUST3715,Rahul Joshi,Parle-G Biscuits 100g,Biscuits,10,697.01,2023-04-28,Returned
+ZPT100644,CUST4695,Simran Kaur,Saffola Gold Oil 1L,Oils,6,714.57,2024-05-27,Returned
+ZPT100645,CUST3760,Sunita Rawat,Lay's Classic Chips 26g,Snacks,3,878.14,2024-01-27,Returned
+ZPT100646,CUST3210,Farhan Qureshi,Red Bull 250ml,Energy Drinks,5,519.46,2024-03-07,Delivered
+ZPT100647,CUST1866,Simran Kaur,Nescafe Classic 50g,Beverages,7,902.21,2024-04-25,Processing
+ZPT100648,CUST4342,Gaurav Kapoor,Britannia Bread 400g,Bakery,5,888.43,2024-04-21,Pending
+ZPT100649,CUST4274,Suresh Rao,Harpic Toilet Cleaner 500ml,Cleaning,4,330.75,2023-11-19,Processing
+ZPT100650,CUST3565,Mohit Bhatt,Britannia Bread 400g,Bakery,9,370.36,2024-08-16,Delivered
+ZPT100651,CUST1549,Shreya Agarwal,Parle-G Biscuits 100g,Biscuits,7,157.52,2023-08-14,Delivered
+ZPT100652,CUST4386,Anita Dubey,Maggi Noodles 70g,Instant Food,1,142.34,2024-08-17,Delivered
+ZPT100653,CUST3404,Pranav Jain,Tata Salt 1kg,Staples,2,833.11,2023-10-29,Delivered
+ZPT100654,CUST1880,Varun Saxena,Britannia Bread 400g,Bakery,8,756.44,2023-07-10,Delivered
+ZPT100655,CUST3134,Lakshmi Bose,Coca-Cola 1.25L,Cold Drinks,9,715.11,2023-02-19,Delivered
+ZPT100656,CUST2903,Swati Kulkarni,Hide & Seek Biscuits 100g,Biscuits,3,114.46,2023-10-30,Delivered
+ZPT100657,CUST3842,Arjun Patel,Fortune Sunflower Oil 1L,Oils,2,864.91,2023-09-30,Delivered
+ZPT100658,CUST3051,Kiran Nair,Bournvita 500g,Beverages,6,834.74,2024-11-06,Returned
+ZPT100659,CUST2244,Riya Desai,Amul Milk 1L,Dairy,2,979.65,2023-04-14,Returned
+ZPT100660,CUST1002,Sneha Iyer,Fortune Sunflower Oil 1L,Oils,10,421.51,2024-12-10,Delivered
+ZPT100661,CUST3176,Deepak Mishra,Nescafe Classic 50g,Beverages,3,30.02,2023-08-22,Returned
+ZPT100662,CUST1685,Neha Gupta,MTR Poha 500g,Breakfast,10,778.93,2023-11-14,Delivered
+ZPT100663,CUST2385,Sunita Rawat,Tropicana Guava 1L,Juices,2,347.12,2023-01-20,Delivered
+ZPT100664,CUST4426,Aarav Shah,Aashirvaad Atta 5kg,Staples,10,933.92,2023-03-10,Delivered
+ZPT100665,CUST2097,Rahul Joshi,Sunfeast Dark Fantasy 75g,Biscuits,10,51.2,2024-01-14,Delivered
+ZPT100666,CUST2031,Preeti Trivedi,Fortune Sunflower Oil 1L,Oils,7,882.32,2023-09-18,Delivered
+ZPT100667,CUST3105,Priya Mehta,Lay's Classic Chips 26g,Snacks,2,629.79,2024-05-24,Cancelled
+ZPT100668,CUST2386,Vijay Kumar,Parle-G Biscuits 100g,Biscuits,9,500.91,2024-05-21,Pending
+ZPT100669,CUST1148,Kiran Nair,Haldiram Bhujia 200g,Snacks,5,761.85,2023-12-11,Delivered
+ZPT100670,CUST4039,Farhan Qureshi,Surf Excel 1kg,Cleaning,1,237.02,2023-06-27,Pending
+ZPT100671,CUST4116,Rahul Joshi,Nescafe Classic 50g,Beverages,7,493.13,2024-06-20,Returned
+ZPT100672,CUST2102,Swati Kulkarni,Aashirvaad Atta 5kg,Staples,5,771.16,2023-03-03,Cancelled
+ZPT100673,CUST4197,Bhavna Yadav,Tata Salt 1kg,Staples,4,359.4,2024-12-28,Cancelled
+ZPT100674,CUST2617,Shreya Agarwal,Lay's Classic Chips 26g,Snacks,10,883.45,2023-05-24,Delivered
+ZPT100675,CUST2852,Pooja Reddy,Vim Dishwash Bar 200g,Cleaning,9,517.44,2023-10-14,Delivered
+ZPT100676,CUST4675,Simran Kaur,Surf Excel 1kg,Cleaning,6,683.94,2024-01-15,Pending
+ZPT100677,CUST3314,Vijay Kumar,Coca-Cola 1.25L,Cold Drinks,10,663.46,2024-07-16,Delivered
+ZPT100678,CUST3517,Rohan Verma,Tropicana Guava 1L,Juices,2,283.81,2024-10-15,Delivered
+ZPT100679,CUST3968,Anjali Menon,Harpic Toilet Cleaner 500ml,Cleaning,5,625.27,2024-04-29,Returned
+ZPT100680,CUST4981,Mohit Bhatt,Fortune Rice 5kg,Staples,7,672.09,2023-04-23,Processing
+ZPT100681,CUST4358,Neha Gupta,Hide & Seek Biscuits 100g,Biscuits,3,183.76,2023-12-02,Delivered
+ZPT100682,CUST2300,Kiran Nair,Amul Milk 1L,Dairy,1,393.79,2023-11-17,Processing
+ZPT100683,CUST2686,Gaurav Kapoor,Good Day Cashew 87g,Biscuits,1,125.54,2023-05-09,Delivered
+ZPT100684,CUST1264,Neha Gupta,Sunfeast Dark Fantasy 75g,Biscuits,2,802.88,2024-06-27,Cancelled
+ZPT100685,CUST3110,Sanjay Das,Hide & Seek Biscuits 100g,Biscuits,10,572.83,2023-01-28,Delivered
+ZPT100686,CUST2503,Rajesh Sinha,Fortune Rice 5kg,Staples,3,477.28,2024-06-14,Processing
+ZPT100687,CUST4802,Gaurav Kapoor,Haldiram Bhujia 200g,Snacks,8,740.91,2024-02-24,Delivered
+ZPT100688,CUST4825,Sanjay Das,Colgate Toothpaste 200g,Personal Care,10,287.95,2024-10-16,Cancelled
+ZPT100689,CUST3414,Neha Gupta,Surf Excel 1kg,Cleaning,6,765.02,2024-10-24,Returned
+ZPT100690,CUST1345,Rajesh Sinha,Tata Salt 1kg,Staples,4,845.28,2023-07-24,Processing
+ZPT100691,CUST4337,Swati Kulkarni,Sunfeast Dark Fantasy 75g,Biscuits,3,425.14,2024-02-09,Delivered
+ZPT100692,CUST4193,Simran Kaur,Fortune Sunflower Oil 1L,Oils,3,646.52,2024-04-30,Processing
+ZPT100693,CUST3846,Pooja Reddy,Fortune Sunflower Oil 1L,Oils,10,315.67,2023-07-09,Cancelled
+ZPT100694,CUST2988,Pranav Jain,Red Bull 250ml,Energy Drinks,8,996.33,2023-04-13,Delivered
+ZPT100695,CUST2296,Kavya Nair,Saffola Gold Oil 1L,Oils,3,369.53,2024-06-07,Delivered
+ZPT100696,CUST3508,Preeti Trivedi,Fortune Rice 5kg,Staples,5,20.93,2023-04-09,Processing
+ZPT100697,CUST4844,Aarav Shah,Pilsbury Maida 1kg,Staples,4,844.34,2023-08-12,Pending
+ZPT100698,CUST4370,Farhan Qureshi,Parle-G Biscuits 100g,Biscuits,1,268.28,2023-06-26,Processing
+ZPT100699,CUST4823,Nisha Pandey,Saffola Gold Oil 1L,Oils,4,429.38,2024-12-06,Returned
+ZPT100700,CUST2981,Tarun Banerjee,India Gate Basmati 1kg,Staples,5,613.21,2024-12-17,Delivered
+ZPT100701,CUST1124,Arjun Patel,Quaker Oats 500g,Breakfast,6,450.59,2024-12-21,Delivered
+ZPT100702,CUST4676,Anita Dubey,Quaker Oats 500g,Breakfast,3,310.4,2023-10-09,Pending
+ZPT100703,CUST2065,Pooja Reddy,Pilsbury Maida 1kg,Staples,7,589.3,2023-05-09,Delivered
+ZPT100704,CUST1509,Vijay Kumar,Quaker Oats 500g,Breakfast,1,258.1,2024-11-03,Cancelled
+ZPT100705,CUST4494,Varun Saxena,Nescafe Classic 50g,Beverages,3,729.11,2023-11-26,Delivered
+ZPT100706,CUST2367,Nikhil Chopra,Britannia Bread 400g,Bakery,6,771.55,2023-12-10,Returned
+ZPT100707,CUST2286,Kiran Nair,India Gate Basmati 1kg,Staples,8,913.71,2024-07-21,Pending
+ZPT100708,CUST3471,Farhan Qureshi,Colgate Toothpaste 200g,Personal Care,5,641.87,2024-05-12,Cancelled
+ZPT100709,CUST3953,Kiran Nair,Vim Dishwash Bar 200g,Cleaning,10,287.68,2024-11-15,Delivered
+ZPT100710,CUST3732,Kavya Nair,Pilsbury Maida 1kg,Staples,4,618.59,2023-10-23,Returned
+ZPT100711,CUST3391,Manish Tiwari,Lay's Classic Chips 26g,Snacks,7,888.39,2024-09-26,Delivered
+ZPT100712,CUST3211,Sunita Rawat,MTR Poha 500g,Breakfast,4,806.98,2024-03-14,Processing
+ZPT100713,CUST2450,Amit Sharma,Paper Boat Aam Panna 250ml,Juices,9,774.64,2024-03-15,Delivered
+ZPT100714,CUST4147,Gaurav Kapoor,Kellogg's Corn Flakes 250g,Breakfast,5,384.21,2023-06-16,Cancelled
+ZPT100715,CUST2619,Kiran Nair,Dove Shampoo 180ml,Personal Care,4,217.27,2023-10-04,Delivered
+ZPT100716,CUST3524,Pranav Jain,Britannia Bread 400g,Bakery,7,676.38,2024-08-02,Pending
+ZPT100717,CUST3768,Tarun Banerjee,Good Day Cashew 87g,Biscuits,2,151.27,2024-06-04,Cancelled
+ZPT100718,CUST4258,Arjun Patel,Ariel Washing Powder 500g,Cleaning,1,397.57,2024-05-26,Delivered
+ZPT100719,CUST4774,Riya Desai,Epigamia Greek Yogurt 90g,Dairy,10,593.26,2023-08-28,Delivered
+ZPT100720,CUST1076,Preeti Trivedi,Epigamia Greek Yogurt 90g,Dairy,9,946.81,2023-09-13,Returned
+ZPT100721,CUST3703,Pooja Reddy,Kellogg's Corn Flakes 250g,Breakfast,3,234.54,2024-05-22,Delivered
+ZPT100722,CUST3284,Ananya Singh,Colgate Toothpaste 200g,Personal Care,1,247.43,2023-10-20,Delivered
+ZPT100723,CUST3979,Sneha Iyer,Good Day Cashew 87g,Biscuits,7,468.74,2024-02-04,Cancelled
+ZPT100724,CUST1907,Rajesh Sinha,Tata Salt 1kg,Staples,3,670.14,2024-12-22,Delivered
+ZPT100725,CUST4578,Aarav Shah,Kellogg's Corn Flakes 250g,Breakfast,1,304.33,2023-12-18,Cancelled
+ZPT100726,CUST3368,Arjun Patel,Epigamia Greek Yogurt 90g,Dairy,4,393.81,2024-07-25,Returned
+ZPT100727,CUST1025,Neha Gupta,Red Bull 250ml,Energy Drinks,7,70.56,2024-06-02,Cancelled
+ZPT100728,CUST1622,Varun Saxena,Red Bull 250ml,Energy Drinks,8,103.63,2024-04-30,Returned
+ZPT100729,CUST3958,Priya Mehta,Parle-G Biscuits 100g,Biscuits,1,349.55,2024-07-16,Cancelled
+ZPT100730,CUST4067,Pooja Reddy,Too Yumm Multigrain 60g,Snacks,1,95.03,2024-11-24,Cancelled
+ZPT100731,CUST2700,Shreya Agarwal,Haldiram Bhujia 200g,Snacks,5,206.01,2024-02-25,Delivered
+ZPT100732,CUST1987,Simran Kaur,Mother Dairy Curd 400g,Dairy,5,340.37,2024-08-20,Delivered
+ZPT100733,CUST2970,Rohan Verma,Mother Dairy Curd 400g,Dairy,10,190.93,2023-03-11,Cancelled
+ZPT100734,CUST3068,Swati Kulkarni,Minute Maid Orange 1L,Juices,6,839.78,2023-03-05,Delivered
+ZPT100735,CUST2782,Meera Thomas,Red Bull 250ml,Energy Drinks,3,193.3,2023-04-23,Delivered
+ZPT100736,CUST2185,Neha Gupta,Quaker Oats 500g,Breakfast,9,519.51,2023-10-11,Processing
+ZPT100737,CUST2918,Amit Sharma,Red Bull 250ml,Energy Drinks,3,144.82,2023-03-17,Pending
+ZPT100738,CUST1341,Amit Sharma,Britannia Bread 400g,Bakery,2,497.77,2023-03-11,Processing
+ZPT100739,CUST4641,Pooja Reddy,Too Yumm Multigrain 60g,Snacks,7,181.09,2024-03-09,Pending
+ZPT100740,CUST4664,Swati Kulkarni,Tropicana Guava 1L,Juices,3,223.76,2023-05-13,Delivered
+ZPT100741,CUST3045,Rajesh Sinha,Kellogg's Corn Flakes 250g,Breakfast,8,867.52,2023-10-09,Pending
+ZPT100742,CUST2955,Gaurav Kapoor,Pilsbury Maida 1kg,Staples,9,130.79,2023-03-23,Processing
+ZPT100743,CUST3784,Neha Gupta,Ariel Washing Powder 500g,Cleaning,7,66.27,2024-07-25,Delivered
+ZPT100744,CUST1634,Sunita Rawat,Fortune Rice 5kg,Staples,10,942.13,2023-03-27,Pending
+ZPT100745,CUST3943,Rohan Verma,Epigamia Greek Yogurt 90g,Dairy,1,391.24,2024-03-07,Delivered
+ZPT100746,CUST1297,Aditi Choudhary,Sprite 750ml,Cold Drinks,8,137.48,2024-10-30,Cancelled
+ZPT100747,CUST2210,Riya Desai,Tata Salt 1kg,Staples,2,491.16,2024-09-01,Delivered
+ZPT100748,CUST3625,Pooja Reddy,Lay's Classic Chips 26g,Snacks,3,601.86,2024-04-22,Pending
+ZPT100749,CUST2497,Neha Gupta,MTR Poha 500g,Breakfast,2,470.29,2023-11-23,Delivered
+ZPT100750,CUST1920,Meera Thomas,Maggi Noodles 70g,Instant Food,4,979.9,2023-05-03,Returned
+ZPT100751,CUST2000,Simran Kaur,Lays Cream Onion 26g,Snacks,7,215.05,2023-06-13,Processing
+ZPT100752,CUST3810,Manish Tiwari,Haldiram Bhujia 200g,Snacks,10,811.53,2024-04-30,Cancelled
+ZPT100753,CUST2673,Riya Desai,Coca-Cola 1.25L,Cold Drinks,2,20.82,2023-11-16,Pending
+ZPT100754,CUST2347,Sanjay Das,Lays Cream Onion 26g,Snacks,2,170.92,2024-07-27,Delivered
+ZPT100755,CUST4835,Manish Tiwari,Colgate Toothpaste 200g,Personal Care,1,644.57,2023-03-14,Cancelled
+ZPT100756,CUST1876,Tarun Banerjee,Dettol Soap 75g,Personal Care,1,809.84,2024-12-21,Processing
+ZPT100757,CUST1983,Kavya Nair,Good Day Cashew 87g,Biscuits,4,871.25,2024-04-26,Returned
+ZPT100758,CUST2103,Preeti Trivedi,Tropicana Guava 1L,Juices,10,168.03,2024-11-09,Delivered
+ZPT100759,CUST2163,Mohit Bhatt,Minute Maid Orange 1L,Juices,7,20.06,2023-06-01,Delivered
+ZPT100760,CUST3809,Aditi Choudhary,Britannia Bread 400g,Bakery,8,94.51,2024-03-07,Cancelled
+ZPT100761,CUST2698,Rohan Verma,Colgate Toothpaste 200g,Personal Care,6,548.95,2023-10-09,Returned
+ZPT100762,CUST2286,Neha Gupta,Tata Salt 1kg,Staples,9,616.91,2023-04-12,Pending
+ZPT100763,CUST4630,Aarav Shah,Minute Maid Orange 1L,Juices,4,863.3,2024-01-22,Processing
+ZPT100764,CUST3743,Arjun Patel,Ariel Washing Powder 500g,Cleaning,2,342.41,2024-10-06,Delivered
+ZPT100765,CUST4040,Pranav Jain,Good Day Cashew 87g,Biscuits,8,397.01,2023-05-11,Delivered
+ZPT100766,CUST2984,Sunita Rawat,Good Day Cashew 87g,Biscuits,8,903.38,2023-04-11,Pending
+ZPT100767,CUST4202,Meera Thomas,Colgate Toothpaste 200g,Personal Care,4,700.13,2024-09-19,Delivered
+ZPT100768,CUST2734,Meera Thomas,Good Day Cashew 87g,Biscuits,8,909.51,2024-02-17,Cancelled
+ZPT100769,CUST2123,Neha Gupta,Harpic Toilet Cleaner 500ml,Cleaning,7,819.66,2023-08-23,Returned
+ZPT100770,CUST2680,Mohit Bhatt,Good Day Cashew 87g,Biscuits,7,234.03,2023-06-16,Returned
+ZPT100771,CUST2034,Priya Mehta,Dettol Soap 75g,Personal Care,7,723.08,2024-05-31,Delivered
+ZPT100772,CUST4666,Mohit Bhatt,Coca-Cola 1.25L,Cold Drinks,6,283.36,2024-02-06,Delivered
+ZPT100773,CUST1098,Preeti Trivedi,Epigamia Greek Yogurt 90g,Dairy,9,869.75,2023-05-28,Delivered
+ZPT100774,CUST3764,Priya Mehta,Fortune Sunflower Oil 1L,Oils,4,307.72,2024-11-17,Processing
+ZPT100775,CUST1799,Riya Desai,Sprite 750ml,Cold Drinks,9,286.44,2023-03-21,Delivered
+ZPT100776,CUST3392,Shreya Agarwal,Nescafe Classic 50g,Beverages,1,653.61,2023-10-17,Delivered
+ZPT100777,CUST3028,Tarun Banerjee,Saffola Gold Oil 1L,Oils,2,257.29,2023-08-27,Delivered
+ZPT100778,CUST4665,Sneha Iyer,Sprite 750ml,Cold Drinks,4,22.11,2024-08-01,Delivered
+ZPT100779,CUST1819,Swati Kulkarni,Saffola Gold Oil 1L,Oils,6,471.05,2023-05-20,Delivered
+ZPT100780,CUST2057,Anita Dubey,Tropicana Guava 1L,Juices,2,832.24,2023-04-27,Processing
+ZPT100781,CUST3202,Neha Gupta,Epigamia Greek Yogurt 90g,Dairy,2,134.25,2024-08-28,Delivered
+ZPT100782,CUST3744,Gaurav Kapoor,Hide & Seek Biscuits 100g,Biscuits,3,443.62,2024-04-17,Delivered
+ZPT100783,CUST1571,Rahul Joshi,Lays Cream Onion 26g,Snacks,4,985.06,2024-05-05,Pending
+ZPT100784,CUST3515,Neha Gupta,Hide & Seek Biscuits 100g,Biscuits,1,173.54,2024-07-22,Delivered
+ZPT100785,CUST1773,Neha Gupta,Kellogg's Corn Flakes 250g,Breakfast,10,816.32,2024-07-08,Delivered
+ZPT100786,CUST3613,Neha Gupta,Britannia Bread 400g,Bakery,1,994.54,2023-03-17,Processing
+ZPT100787,CUST4875,Rahul Joshi,Surf Excel 1kg,Cleaning,9,247.61,2023-07-08,Delivered
+ZPT100788,CUST2320,Aditi Choudhary,Parle-G Biscuits 100g,Biscuits,2,756.31,2023-06-17,Processing
+ZPT100789,CUST2947,Anjali Menon,Lays Cream Onion 26g,Snacks,3,285.98,2024-09-04,Returned
+ZPT100790,CUST4008,Kavya Nair,Amul Milk 1L,Dairy,8,420.25,2023-02-26,Returned
+ZPT100791,CUST3240,Deepak Mishra,Saffola Gold Oil 1L,Oils,7,560.42,2024-11-20,Cancelled
+ZPT100792,CUST2901,Priya Mehta,Harpic Toilet Cleaner 500ml,Cleaning,4,401.9,2023-02-15,Delivered
+ZPT100793,CUST4571,Harsh Malhotra,Surf Excel 1kg,Cleaning,6,220.41,2024-04-03,Delivered
+ZPT100794,CUST2349,Tarun Banerjee,Bournvita 500g,Beverages,7,266.74,2024-01-06,Cancelled
+ZPT100795,CUST4463,Rajesh Sinha,Kellogg's Corn Flakes 250g,Breakfast,6,811.12,2023-07-25,Delivered
+ZPT100796,CUST4239,Bhavna Yadav,Kellogg's Corn Flakes 250g,Breakfast,4,626.16,2023-06-24,Returned
+ZPT100797,CUST4000,Sanjay Das,Ariel Washing Powder 500g,Cleaning,7,403.65,2024-04-04,Cancelled
+ZPT100798,CUST3176,Suresh Rao,MTR Poha 500g,Breakfast,5,10.23,2024-02-21,Returned
+ZPT100799,CUST1633,Vijay Kumar,Tropicana Guava 1L,Juices,6,343.19,2023-04-17,Returned
+ZPT100800,CUST1943,Harsh Malhotra,Hide & Seek Biscuits 100g,Biscuits,6,235.94,2023-01-26,Delivered
+ZPT100801,CUST3199,Anjali Menon,Quaker Oats 500g,Breakfast,4,628.89,2024-04-13,Delivered
+ZPT100802,CUST1080,Deepak Mishra,Pilsbury Maida 1kg,Staples,2,549.14,2024-04-01,Processing
+ZPT100803,CUST4954,Rohan Verma,Hide & Seek Biscuits 100g,Biscuits,7,207.74,2023-04-07,Delivered
+ZPT100804,CUST2079,Meera Thomas,Maggi Noodles 70g,Instant Food,4,555.55,2024-09-14,Delivered
+ZPT100805,CUST4249,Simran Kaur,Tata Salt 1kg,Staples,10,282.89,2024-01-05,Processing
+ZPT100806,CUST3964,Sneha Iyer,Tropicana Guava 1L,Juices,5,399.05,2024-08-08,Pending
+ZPT100807,CUST1380,Kiran Nair,MTR Poha 500g,Breakfast,5,316.81,2023-06-12,Returned
+ZPT100808,CUST4417,Divya Pillai,Amul Butter 500g,Dairy,7,379.11,2024-09-02,Pending
+ZPT100809,CUST1617,Ananya Singh,Fortune Rice 5kg,Staples,1,574.42,2024-02-22,Delivered
+ZPT100810,CUST3522,Vijay Kumar,Lay's Classic Chips 26g,Snacks,4,356.69,2024-12-08,Processing
+ZPT100811,CUST2643,Sunita Rawat,Sprite 750ml,Cold Drinks,9,852.49,2023-10-21,Delivered
+ZPT100812,CUST4017,Mohit Bhatt,Coca-Cola 1.25L,Cold Drinks,7,300.36,2023-08-24,Delivered
+ZPT100813,CUST4038,Anjali Menon,Mother Dairy Curd 400g,Dairy,9,120.54,2023-05-16,Cancelled
+ZPT100814,CUST2735,Divya Pillai,Parle-G Biscuits 100g,Biscuits,9,667.88,2024-10-14,Pending
+ZPT100815,CUST1067,Arjun Patel,Dettol Soap 75g,Personal Care,7,121.83,2023-06-30,Delivered
+ZPT100816,CUST4706,Arjun Patel,Amul Butter 500g,Dairy,8,599.11,2023-03-04,Pending
+ZPT100817,CUST3539,Priya Mehta,Lays Cream Onion 26g,Snacks,9,417.42,2024-09-29,Delivered
+ZPT100818,CUST1599,Simran Kaur,Harpic Toilet Cleaner 500ml,Cleaning,9,52.42,2023-01-14,Delivered
+ZPT100819,CUST3094,Manish Tiwari,MTR Poha 500g,Breakfast,8,768.05,2024-07-15,Delivered
+ZPT100820,CUST3151,Aarav Shah,Ariel Washing Powder 500g,Cleaning,7,355.88,2024-09-04,Delivered
+ZPT100821,CUST4154,Anjali Menon,Red Bull 250ml,Energy Drinks,6,435.19,2024-04-09,Processing
+ZPT100822,CUST3187,Bhavna Yadav,Quaker Oats 500g,Breakfast,9,604.43,2023-09-11,Cancelled
+ZPT100823,CUST3099,Priya Mehta,MTR Poha 500g,Breakfast,6,40.0,2023-08-22,Returned
+ZPT100824,CUST2192,Anita Dubey,Paper Boat Aam Panna 250ml,Juices,9,959.89,2023-11-06,Delivered
+ZPT100825,CUST3363,Shreya Agarwal,Colgate Toothpaste 200g,Personal Care,3,79.89,2024-11-13,Delivered
+ZPT100826,CUST1860,Preeti Trivedi,Coca-Cola 1.25L,Cold Drinks,5,513.34,2024-01-26,Delivered
+ZPT100827,CUST1297,Priya Mehta,Dettol Soap 75g,Personal Care,9,867.58,2023-06-01,Delivered
+ZPT100828,CUST4462,Pooja Reddy,Good Day Cashew 87g,Biscuits,8,319.94,2023-03-31,Processing
+ZPT100829,CUST2816,Pranav Jain,Lays Cream Onion 26g,Snacks,5,991.65,2023-11-29,Delivered
+ZPT100830,CUST4422,Swati Kulkarni,Too Yumm Multigrain 60g,Snacks,2,652.18,2024-09-07,Pending
+ZPT100831,CUST4424,Farhan Qureshi,Real Fruit Juice 1L,Juices,8,411.89,2024-02-19,Processing
+ZPT100832,CUST2667,Tarun Banerjee,Aashirvaad Atta 5kg,Staples,8,150.29,2024-05-15,Delivered
+ZPT100833,CUST4485,Anjali Menon,Real Fruit Juice 1L,Juices,4,794.69,2023-05-15,Pending
+ZPT100834,CUST2644,Anjali Menon,Coca-Cola 1.25L,Cold Drinks,1,379.74,2024-09-19,Pending
+ZPT100835,CUST2557,Pranav Jain,Dove Shampoo 180ml,Personal Care,7,912.66,2024-11-29,Returned
+ZPT100836,CUST2497,Priya Mehta,Pilsbury Maida 1kg,Staples,7,602.91,2024-01-17,Cancelled
+ZPT100837,CUST1456,Tarun Banerjee,Parle-G Biscuits 100g,Biscuits,2,420.31,2024-02-13,Delivered
+ZPT100838,CUST4274,Pooja Reddy,Minute Maid Orange 1L,Juices,6,486.33,2024-10-11,Processing
+ZPT100839,CUST1155,Meera Thomas,Bournvita 500g,Beverages,8,201.67,2024-08-15,Pending
+ZPT100840,CUST4402,Sneha Iyer,Saffola Gold Oil 1L,Oils,8,545.52,2023-01-16,Delivered
+ZPT100841,CUST1128,Amit Sharma,Real Fruit Juice 1L,Juices,5,274.41,2024-08-28,Delivered
+ZPT100842,CUST4011,Pranav Jain,India Gate Basmati 1kg,Staples,10,163.36,2023-06-30,Delivered
+ZPT100843,CUST2680,Bhavna Yadav,Amul Butter 500g,Dairy,5,607.44,2023-06-11,Delivered
+ZPT100844,CUST3742,Priya Mehta,Tata Salt 1kg,Staples,9,510.65,2023-01-16,Delivered
+ZPT100845,CUST1530,Swati Kulkarni,Vim Dishwash Bar 200g,Cleaning,6,252.24,2024-02-17,Returned
+ZPT100846,CUST3295,Kiran Nair,MTR Poha 500g,Breakfast,5,49.57,2023-06-13,Returned
+ZPT100847,CUST2907,Divya Pillai,Hide & Seek Biscuits 100g,Biscuits,8,213.37,2024-03-10,Cancelled
+ZPT100848,CUST4724,Nikhil Chopra,MTR Poha 500g,Breakfast,7,560.48,2024-03-12,Delivered
+ZPT100849,CUST3385,Lakshmi Bose,India Gate Basmati 1kg,Staples,7,204.54,2023-09-14,Delivered
+ZPT100850,CUST1400,Mohit Bhatt,Amul Milk 1L,Dairy,2,413.51,2023-04-27,Delivered
+ZPT100851,CUST3487,Nikhil Chopra,Dove Shampoo 180ml,Personal Care,5,802.78,2024-10-31,Returned
+ZPT100852,CUST1781,Preeti Trivedi,Too Yumm Multigrain 60g,Snacks,8,143.68,2024-05-19,Delivered
+ZPT100853,CUST3677,Riya Desai,Amul Milk 1L,Dairy,3,529.31,2024-06-09,Delivered
+ZPT100854,CUST3963,Anjali Menon,Hide & Seek Biscuits 100g,Biscuits,9,824.76,2024-09-19,Pending
+ZPT100855,CUST3122,Preeti Trivedi,Surf Excel 1kg,Cleaning,7,759.49,2024-10-06,Delivered
+ZPT100856,CUST1107,Neha Gupta,Aashirvaad Atta 5kg,Staples,5,173.42,2024-11-13,Delivered
+ZPT100857,CUST3807,Pooja Reddy,Amul Milk 1L,Dairy,4,317.84,2023-10-19,Processing
+ZPT100858,CUST4549,Preeti Trivedi,Lays Cream Onion 26g,Snacks,10,793.32,2024-11-26,Pending
+ZPT100859,CUST1752,Gaurav Kapoor,Lay's Classic Chips 26g,Snacks,4,910.84,2023-06-23,Cancelled
+ZPT100860,CUST1943,Pooja Reddy,Vim Dishwash Bar 200g,Cleaning,5,15.66,2024-04-17,Delivered
+ZPT100861,CUST2912,Varun Saxena,Harpic Toilet Cleaner 500ml,Cleaning,9,206.93,2024-07-18,Returned
+ZPT100862,CUST1729,Aditi Choudhary,Vim Dishwash Bar 200g,Cleaning,6,637.62,2023-04-17,Delivered
+ZPT100863,CUST3739,Neha Gupta,Amul Milk 1L,Dairy,10,677.03,2023-03-05,Processing
+ZPT100864,CUST4047,Mohit Bhatt,Colgate Toothpaste 200g,Personal Care,7,629.12,2024-03-20,Delivered
+ZPT100865,CUST4025,Harsh Malhotra,Amul Butter 500g,Dairy,1,388.66,2024-08-28,Processing
+ZPT100866,CUST1192,Kiran Nair,Dettol Soap 75g,Personal Care,3,90.46,2023-01-10,Delivered
+ZPT100867,CUST3585,Gaurav Kapoor,Kellogg's Corn Flakes 250g,Breakfast,1,587.5,2024-09-17,Cancelled
+ZPT100868,CUST2281,Deepak Mishra,Dettol Soap 75g,Personal Care,10,548.08,2023-11-23,Cancelled
+ZPT100869,CUST3371,Divya Pillai,Amul Butter 500g,Dairy,3,374.09,2023-05-14,Delivered
+ZPT100870,CUST2535,Varun Saxena,Hide & Seek Biscuits 100g,Biscuits,7,51.82,2023-05-12,Processing
+ZPT100871,CUST1935,Gaurav Kapoor,Fortune Sunflower Oil 1L,Oils,8,689.85,2024-06-04,Pending
+ZPT100872,CUST2728,Amit Sharma,Minute Maid Orange 1L,Juices,10,118.07,2024-12-26,Cancelled
+ZPT100873,CUST3336,Lakshmi Bose,Parle-G Biscuits 100g,Biscuits,8,807.84,2024-10-23,Returned
+ZPT100874,CUST3756,Ananya Singh,Nescafe Classic 50g,Beverages,1,912.58,2023-11-27,Processing
+ZPT100875,CUST3496,Neha Gupta,Harpic Toilet Cleaner 500ml,Cleaning,10,250.1,2023-07-30,Delivered
+ZPT100876,CUST3892,Anjali Menon,Nescafe Classic 50g,Beverages,3,756.05,2024-04-19,Delivered
+ZPT100877,CUST4460,Aarav Shah,Lay's Classic Chips 26g,Snacks,10,882.13,2023-11-08,Processing
+ZPT100878,CUST1685,Sunita Rawat,Fortune Rice 5kg,Staples,9,243.82,2023-05-16,Delivered
+ZPT100879,CUST4823,Amit Sharma,Vim Dishwash Bar 200g,Cleaning,3,616.83,2024-11-14,Processing
+ZPT100880,CUST4056,Anjali Menon,Dove Shampoo 180ml,Personal Care,3,930.45,2023-12-23,Delivered
+ZPT100881,CUST2322,Manish Tiwari,Fortune Sunflower Oil 1L,Oils,3,598.85,2023-11-05,Returned
+ZPT100882,CUST4256,Suresh Rao,Tropicana Guava 1L,Juices,10,431.36,2023-10-14,Processing
+ZPT100883,CUST2430,Pranav Jain,Epigamia Greek Yogurt 90g,Dairy,8,733.5,2024-12-19,Delivered
+ZPT100884,CUST2899,Amit Sharma,Sunfeast Dark Fantasy 75g,Biscuits,2,718.96,2024-07-05,Returned
+ZPT100885,CUST4037,Anjali Menon,Dove Shampoo 180ml,Personal Care,7,684.04,2023-08-02,Delivered
+ZPT100886,CUST3786,Harsh Malhotra,Bournvita 500g,Beverages,7,73.14,2024-07-03,Cancelled
+ZPT100887,CUST3575,Aarav Shah,Minute Maid Orange 1L,Juices,10,147.39,2023-05-25,Delivered
+ZPT100888,CUST4531,Nikhil Chopra,Too Yumm Multigrain 60g,Snacks,1,107.19,2023-12-31,Pending
+ZPT100889,CUST4187,Neha Gupta,Tata Salt 1kg,Staples,10,386.39,2023-01-31,Cancelled
+ZPT100890,CUST4127,Gaurav Kapoor,Britannia Bread 400g,Bakery,8,203.85,2023-04-18,Processing
+ZPT100891,CUST3551,Rajesh Sinha,Dettol Soap 75g,Personal Care,5,209.35,2024-11-08,Delivered
+ZPT100892,CUST1068,Kiran Nair,Quaker Oats 500g,Breakfast,1,734.84,2024-03-03,Cancelled
+ZPT100893,CUST2675,Varun Saxena,Sunfeast Dark Fantasy 75g,Biscuits,8,540.01,2024-01-09,Returned
+ZPT100894,CUST2194,Suresh Rao,Surf Excel 1kg,Cleaning,6,828.29,2024-02-11,Returned
+ZPT100895,CUST3885,Kiran Nair,MTR Poha 500g,Breakfast,10,922.4,2024-05-14,Delivered
+ZPT100896,CUST2488,Arjun Patel,Kellogg's Corn Flakes 250g,Breakfast,9,495.63,2023-01-07,Delivered
+ZPT100897,CUST2894,Swati Kulkarni,Good Day Cashew 87g,Biscuits,8,919.61,2024-04-12,Pending
+ZPT100898,CUST1481,Varun Saxena,Hide & Seek Biscuits 100g,Biscuits,5,489.7,2023-09-14,Delivered
+ZPT100899,CUST3937,Riya Desai,Surf Excel 1kg,Cleaning,1,992.17,2023-08-24,Delivered
+ZPT100900,CUST3675,Arjun Patel,Mother Dairy Curd 400g,Dairy,2,79.92,2024-05-10,Delivered
+ZPT100901,CUST1978,Preeti Trivedi,Bournvita 500g,Beverages,1,252.96,2023-11-11,Cancelled
+ZPT100902,CUST2673,Rahul Joshi,Dove Shampoo 180ml,Personal Care,8,261.3,2023-04-16,Returned
+ZPT100903,CUST2259,Gaurav Kapoor,Fortune Rice 5kg,Staples,7,102.14,2024-09-19,Pending
+ZPT100904,CUST2821,Neha Gupta,Epigamia Greek Yogurt 90g,Dairy,9,688.5,2023-05-25,Delivered
+ZPT100905,CUST1802,Simran Kaur,Haldiram Bhujia 200g,Snacks,9,214.45,2023-03-05,Delivered
+ZPT100906,CUST3857,Anjali Menon,Colgate Toothpaste 200g,Personal Care,6,439.82,2023-08-16,Processing
+ZPT100907,CUST2264,Pranav Jain,Lay's Classic Chips 26g,Snacks,4,577.67,2023-04-10,Delivered
+ZPT100908,CUST3242,Bhavna Yadav,Epigamia Greek Yogurt 90g,Dairy,1,485.21,2024-02-22,Processing
+ZPT100909,CUST3546,Kiran Nair,Tata Salt 1kg,Staples,2,877.26,2023-03-03,Delivered
+ZPT100910,CUST4223,Lakshmi Bose,Aashirvaad Atta 5kg,Staples,3,60.55,2024-02-18,Delivered
+ZPT100911,CUST3436,Aditi Choudhary,Amul Milk 1L,Dairy,10,264.59,2023-05-09,Processing
+ZPT100912,CUST1156,Farhan Qureshi,Quaker Oats 500g,Breakfast,4,40.28,2024-11-26,Pending
+ZPT100913,CUST2106,Gaurav Kapoor,Paper Boat Aam Panna 250ml,Juices,6,133.08,2023-07-23,Delivered
+ZPT100914,CUST1377,Priya Mehta,Bournvita 500g,Beverages,9,977.32,2024-12-26,Pending
+ZPT100915,CUST4544,Lakshmi Bose,Pilsbury Maida 1kg,Staples,3,323.7,2024-08-08,Delivered
+ZPT100916,CUST1475,Kiran Nair,Dettol Soap 75g,Personal Care,7,108.16,2023-08-13,Delivered
+ZPT100917,CUST2545,Arjun Patel,India Gate Basmati 1kg,Staples,8,293.23,2023-09-27,Cancelled
+ZPT100918,CUST3958,Deepak Mishra,Epigamia Greek Yogurt 90g,Dairy,3,151.11,2023-09-27,Delivered
+ZPT100919,CUST3084,Vijay Kumar,Pilsbury Maida 1kg,Staples,5,700.26,2023-03-03,Delivered
+ZPT100920,CUST3408,Riya Desai,Hide & Seek Biscuits 100g,Biscuits,3,48.41,2023-08-02,Pending
+ZPT100921,CUST4544,Swati Kulkarni,MTR Poha 500g,Breakfast,3,708.85,2023-07-10,Delivered
+ZPT100922,CUST4504,Simran Kaur,Nescafe Classic 50g,Beverages,2,954.92,2023-10-13,Delivered
+ZPT100923,CUST2321,Riya Desai,Parle-G Biscuits 100g,Biscuits,6,79.28,2024-12-15,Pending
+ZPT100924,CUST3439,Rohan Verma,Parle-G Biscuits 100g,Biscuits,2,383.64,2023-10-28,Delivered
+ZPT100925,CUST4386,Kiran Nair,Mother Dairy Curd 400g,Dairy,1,413.21,2024-07-19,Cancelled
+ZPT100926,CUST1960,Swati Kulkarni,Nescafe Classic 50g,Beverages,2,174.0,2023-05-20,Processing
+ZPT100927,CUST3474,Pooja Reddy,Lay's Classic Chips 26g,Snacks,1,189.41,2023-10-31,Delivered
+ZPT100928,CUST3334,Neha Gupta,Red Bull 250ml,Energy Drinks,5,33.65,2024-06-04,Cancelled
+ZPT100929,CUST3068,Neha Gupta,Lays Cream Onion 26g,Snacks,9,475.08,2023-05-02,Delivered
+ZPT100930,CUST4641,Sneha Iyer,MTR Poha 500g,Breakfast,8,36.38,2023-11-13,Processing
+ZPT100931,CUST1694,Shreya Agarwal,Vim Dishwash Bar 200g,Cleaning,6,18.68,2023-11-20,Delivered
+ZPT100932,CUST4786,Kiran Nair,Bournvita 500g,Beverages,4,131.05,2023-06-01,Delivered
+ZPT100933,CUST3625,Bhavna Yadav,Coca-Cola 1.25L,Cold Drinks,7,833.98,2023-10-13,Delivered
+ZPT100934,CUST2017,Farhan Qureshi,Bournvita 500g,Beverages,8,121.61,2023-02-06,Pending
+ZPT100935,CUST1261,Nisha Pandey,MTR Poha 500g,Breakfast,6,852.93,2023-09-13,Delivered
+ZPT100936,CUST1508,Neha Gupta,Sprite 750ml,Cold Drinks,8,686.33,2023-07-04,Pending
+ZPT100937,CUST1560,Meera Thomas,Britannia Bread 400g,Bakery,1,213.34,2024-09-27,Cancelled
+ZPT100938,CUST2645,Nikhil Chopra,Minute Maid Orange 1L,Juices,1,587.24,2024-10-09,Pending
+ZPT100939,CUST4096,Deepak Mishra,Bournvita 500g,Beverages,5,594.67,2023-04-28,Delivered
+ZPT100940,CUST2762,Meera Thomas,Dettol Soap 75g,Personal Care,1,947.15,2024-05-10,Delivered
+ZPT100941,CUST4395,Aarav Shah,Mother Dairy Curd 400g,Dairy,6,38.76,2024-04-10,Processing
+ZPT100942,CUST2446,Vijay Kumar,Real Fruit Juice 1L,Juices,7,628.71,2024-02-05,Processing
+ZPT100943,CUST2494,Anjali Menon,Minute Maid Orange 1L,Juices,10,594.48,2023-04-20,Processing
+ZPT100944,CUST1464,Aarav Shah,Bournvita 500g,Beverages,6,98.89,2024-06-29,Delivered
+ZPT100945,CUST3349,Pooja Reddy,Real Fruit Juice 1L,Juices,1,743.76,2024-03-21,Returned
+ZPT100946,CUST4802,Vijay Kumar,Hide & Seek Biscuits 100g,Biscuits,7,60.28,2023-10-01,Delivered
+ZPT100947,CUST4739,Farhan Qureshi,Surf Excel 1kg,Cleaning,3,242.37,2024-03-14,Processing
+ZPT100948,CUST4804,Amit Sharma,Ariel Washing Powder 500g,Cleaning,5,723.31,2023-04-18,Returned
+ZPT100949,CUST2446,Kiran Nair,Red Bull 250ml,Energy Drinks,9,951.06,2023-01-29,Delivered
+ZPT100950,CUST3701,Nisha Pandey,Vim Dishwash Bar 200g,Cleaning,6,846.71,2024-12-25,Pending
+ZPT100951,CUST3182,Deepak Mishra,Sprite 750ml,Cold Drinks,9,195.75,2024-06-19,Delivered
+ZPT100952,CUST4116,Ananya Singh,Epigamia Greek Yogurt 90g,Dairy,10,915.83,2024-05-19,Delivered
+ZPT100953,CUST3144,Priya Mehta,Colgate Toothpaste 200g,Personal Care,7,629.63,2024-01-29,Delivered
+ZPT100954,CUST2589,Sunita Rawat,Bournvita 500g,Beverages,5,401.32,2023-05-28,Delivered
+ZPT100955,CUST4854,Rahul Joshi,Maggi Noodles 70g,Instant Food,9,212.92,2023-01-10,Processing
+ZPT100956,CUST2229,Anjali Menon,Harpic Toilet Cleaner 500ml,Cleaning,8,766.32,2023-12-04,Pending
+ZPT100957,CUST3002,Amit Sharma,Sprite 750ml,Cold Drinks,5,71.44,2023-12-13,Delivered
+ZPT100958,CUST1621,Nikhil Chopra,Dettol Soap 75g,Personal Care,8,691.09,2023-07-06,Returned
+ZPT100959,CUST2566,Sunita Rawat,Fortune Sunflower Oil 1L,Oils,9,935.66,2023-09-25,Delivered
+ZPT100960,CUST4321,Sanjay Das,Too Yumm Multigrain 60g,Snacks,6,119.81,2024-01-02,Processing
+ZPT100961,CUST1743,Arjun Patel,Sunfeast Dark Fantasy 75g,Biscuits,1,905.0,2024-12-28,Delivered
+ZPT100962,CUST1575,Tarun Banerjee,Ariel Washing Powder 500g,Cleaning,10,527.8,2024-05-18,Pending
+ZPT100963,CUST1806,Shreya Agarwal,Parle-G Biscuits 100g,Biscuits,7,383.07,2024-11-28,Delivered
+ZPT100964,CUST1119,Shreya Agarwal,Red Bull 250ml,Energy Drinks,6,572.75,2024-03-06,Returned
+ZPT100965,CUST2758,Pranav Jain,Too Yumm Multigrain 60g,Snacks,4,43.18,2024-11-30,Processing
+ZPT100966,CUST2653,Aditi Choudhary,Ariel Washing Powder 500g,Cleaning,2,353.49,2024-12-25,Delivered
+ZPT100967,CUST1890,Meera Thomas,Parle-G Biscuits 100g,Biscuits,8,603.62,2023-04-03,Delivered
+ZPT100968,CUST4760,Lakshmi Bose,MTR Poha 500g,Breakfast,4,17.75,2023-11-20,Returned
+ZPT100969,CUST2814,Aditi Choudhary,Vim Dishwash Bar 200g,Cleaning,8,356.32,2023-03-23,Pending
+ZPT100970,CUST2045,Rajesh Sinha,Coca-Cola 1.25L,Cold Drinks,6,150.34,2024-01-14,Cancelled
+ZPT100971,CUST4474,Gaurav Kapoor,Epigamia Greek Yogurt 90g,Dairy,9,546.34,2024-06-23,Delivered
+ZPT100972,CUST3682,Anita Dubey,Paper Boat Aam Panna 250ml,Juices,7,772.58,2024-03-22,Delivered
+ZPT100973,CUST2879,Mohit Bhatt,Aashirvaad Atta 5kg,Staples,9,437.65,2023-08-02,Delivered
+ZPT100974,CUST3110,Ananya Singh,Coca-Cola 1.25L,Cold Drinks,9,141.72,2023-05-23,Delivered
+ZPT100975,CUST3016,Varun Saxena,Aashirvaad Atta 5kg,Staples,6,297.46,2023-06-20,Delivered
+ZPT100976,CUST3216,Rohan Verma,Maggi Noodles 70g,Instant Food,3,541.73,2023-07-07,Delivered
+ZPT100977,CUST4095,Manish Tiwari,Aashirvaad Atta 5kg,Staples,3,737.18,2024-05-31,Returned
+ZPT100978,CUST1420,Arjun Patel,Dettol Soap 75g,Personal Care,8,499.87,2023-06-13,Processing
+ZPT100979,CUST2802,Rajesh Sinha,Coca-Cola 1.25L,Cold Drinks,8,919.5,2023-09-01,Processing
+ZPT100980,CUST1923,Tarun Banerjee,Tata Salt 1kg,Staples,7,561.41,2023-06-29,Pending
+ZPT100981,CUST4026,Kiran Nair,Tata Salt 1kg,Staples,6,110.22,2024-10-27,Processing
+ZPT100982,CUST2075,Rohan Verma,India Gate Basmati 1kg,Staples,8,906.93,2024-07-17,Delivered
+ZPT100983,CUST2186,Tarun Banerjee,Pilsbury Maida 1kg,Staples,8,98.73,2024-05-11,Delivered
+ZPT100984,CUST4867,Neha Gupta,Coca-Cola 1.25L,Cold Drinks,5,597.16,2024-03-01,Delivered
+ZPT100985,CUST1987,Kavya Nair,Dove Shampoo 180ml,Personal Care,6,394.56,2024-11-21,Delivered
+ZPT100986,CUST4241,Kavya Nair,Pilsbury Maida 1kg,Staples,7,528.58,2024-06-17,Delivered
+ZPT100987,CUST4961,Kavya Nair,Minute Maid Orange 1L,Juices,9,561.57,2024-06-19,Returned
+ZPT100988,CUST2273,Kavya Nair,Amul Butter 500g,Dairy,5,92.7,2024-02-06,Cancelled
+ZPT100989,CUST4279,Meera Thomas,Sprite 750ml,Cold Drinks,9,358.16,2024-02-19,Delivered
+ZPT100990,CUST3993,Divya Pillai,MTR Poha 500g,Breakfast,2,758.64,2024-12-11,Delivered
+ZPT100991,CUST4954,Arjun Patel,India Gate Basmati 1kg,Staples,3,256.68,2023-09-18,Cancelled
+ZPT100992,CUST1203,Tarun Banerjee,Tropicana Guava 1L,Juices,5,885.24,2023-07-27,Pending
+ZPT100993,CUST1513,Vijay Kumar,Lay's Classic Chips 26g,Snacks,9,721.43,2023-01-31,Pending
+ZPT100994,CUST3432,Manish Tiwari,Ariel Washing Powder 500g,Cleaning,9,867.92,2024-05-13,Pending
+ZPT100995,CUST3855,Nikhil Chopra,Fortune Rice 5kg,Staples,8,10.12,2023-04-25,Delivered
+ZPT100996,CUST2500,Bhavna Yadav,Sunfeast Dark Fantasy 75g,Biscuits,6,957.36,2024-01-10,Processing
+ZPT100997,CUST1878,Vijay Kumar,Amul Milk 1L,Dairy,6,495.77,2024-05-18,Processing
+ZPT100998,CUST2601,Aditi Choudhary,Surf Excel 1kg,Cleaning,6,125.07,2024-05-08,Returned
+ZPT100999,CUST1867,Aarav Shah,Tata Salt 1kg,Staples,8,669.83,2024-08-19,Delivered
+ZPT101000,CUST2250,Rajesh Sinha,Coca-Cola 1.25L,Cold Drinks,9,526.88,2024-03-12,Processing
+ZPT101001,CUST1098,Nikhil Chopra,Fortune Rice 5kg,Staples,8,58.4,2024-12-27,Delivered
+ZPT101002,CUST1911,Bhavna Yadav,Mother Dairy Curd 400g,Dairy,7,764.7,2023-06-18,Delivered
+ZPT101003,CUST2981,Gaurav Kapoor,Real Fruit Juice 1L,Juices,8,427.59,2023-09-12,Delivered
+ZPT101004,CUST4960,Gaurav Kapoor,Epigamia Greek Yogurt 90g,Dairy,9,803.48,2024-11-02,Pending
+ZPT101005,CUST4393,Vijay Kumar,Parle-G Biscuits 100g,Biscuits,7,27.64,2024-10-25,Delivered
+ZPT101006,CUST1838,Simran Kaur,Dettol Soap 75g,Personal Care,9,156.1,2023-08-24,Pending
+ZPT101007,CUST3453,Deepak Mishra,Saffola Gold Oil 1L,Oils,1,136.77,2024-12-14,Returned
+ZPT101008,CUST3415,Divya Pillai,Epigamia Greek Yogurt 90g,Dairy,8,425.54,2024-02-25,Pending
+ZPT101009,CUST3609,Simran Kaur,Lay's Classic Chips 26g,Snacks,9,145.66,2023-03-08,Pending
+ZPT101010,CUST4454,Sneha Iyer,Good Day Cashew 87g,Biscuits,10,432.85,2024-03-11,Delivered
+ZPT101011,CUST4420,Priya Mehta,Saffola Gold Oil 1L,Oils,6,610.32,2023-07-29,Delivered
+ZPT101012,CUST4006,Farhan Qureshi,India Gate Basmati 1kg,Staples,9,525.53,2023-02-15,Cancelled
+ZPT101013,CUST3262,Shreya Agarwal,Harpic Toilet Cleaner 500ml,Cleaning,1,794.78,2023-09-16,Delivered
+ZPT101014,CUST3082,Anita Dubey,Real Fruit Juice 1L,Juices,4,827.38,2023-04-24,Cancelled
+ZPT101015,CUST3555,Aditi Choudhary,Pilsbury Maida 1kg,Staples,6,94.42,2024-01-16,Processing
+ZPT101016,CUST3369,Ananya Singh,Parle-G Biscuits 100g,Biscuits,6,422.61,2023-10-06,Cancelled
+ZPT101017,CUST1811,Bhavna Yadav,Tata Salt 1kg,Staples,9,673.0,2024-08-28,Processing
+ZPT101018,CUST3157,Rajesh Sinha,Harpic Toilet Cleaner 500ml,Cleaning,4,328.99,2024-04-23,Delivered
+ZPT101019,CUST3268,Gaurav Kapoor,Tata Salt 1kg,Staples,3,40.24,2023-05-06,Delivered
+ZPT101020,CUST3403,Farhan Qureshi,Good Day Cashew 87g,Biscuits,8,717.76,2024-06-01,Returned
+ZPT101021,CUST1624,Rahul Joshi,Minute Maid Orange 1L,Juices,6,663.81,2024-02-26,Delivered
+ZPT101022,CUST3688,Lakshmi Bose,Amul Butter 500g,Dairy,8,882.46,2024-12-12,Processing
+ZPT101023,CUST3588,Riya Desai,Saffola Gold Oil 1L,Oils,1,77.04,2023-03-05,Delivered
+ZPT101024,CUST1906,Farhan Qureshi,India Gate Basmati 1kg,Staples,9,532.22,2024-10-21,Delivered
+ZPT101025,CUST1643,Sneha Iyer,Colgate Toothpaste 200g,Personal Care,6,135.7,2023-04-28,Delivered
+ZPT101026,CUST2127,Shreya Agarwal,Lay's Classic Chips 26g,Snacks,9,376.75,2023-08-09,Delivered
+ZPT101027,CUST4267,Priya Mehta,Good Day Cashew 87g,Biscuits,2,369.03,2023-11-10,Delivered
+ZPT101028,CUST2600,Vijay Kumar,Dettol Soap 75g,Personal Care,9,887.4,2024-10-17,Processing
+ZPT101029,CUST3264,Suresh Rao,Real Fruit Juice 1L,Juices,5,619.44,2023-01-04,Cancelled
+ZPT101030,CUST3600,Kiran Nair,Parle-G Biscuits 100g,Biscuits,5,827.94,2023-10-16,Processing
+ZPT101031,CUST4024,Rajesh Sinha,Tropicana Guava 1L,Juices,5,870.47,2023-09-21,Delivered
+ZPT101032,CUST1440,Sunita Rawat,Dove Shampoo 180ml,Personal Care,3,988.26,2024-02-15,Delivered
+ZPT101033,CUST4081,Lakshmi Bose,Kellogg's Corn Flakes 250g,Breakfast,6,599.68,2024-12-01,Delivered
+ZPT101034,CUST1713,Riya Desai,Sprite 750ml,Cold Drinks,1,20.37,2023-11-14,Delivered
+ZPT101035,CUST1317,Sneha Iyer,Dove Shampoo 180ml,Personal Care,3,886.05,2023-03-06,Cancelled
+ZPT101036,CUST1303,Aarav Shah,Tata Salt 1kg,Staples,7,224.27,2023-06-13,Delivered
+ZPT101037,CUST4908,Lakshmi Bose,Good Day Cashew 87g,Biscuits,1,813.76,2024-01-09,Processing
+ZPT101038,CUST1484,Preeti Trivedi,Britannia Bread 400g,Bakery,3,325.67,2023-06-05,Delivered
+ZPT101039,CUST2071,Nisha Pandey,Amul Butter 500g,Dairy,10,587.68,2023-03-04,Returned
+ZPT101040,CUST4066,Bhavna Yadav,Maggi Noodles 70g,Instant Food,10,65.63,2023-04-04,Delivered
+ZPT101041,CUST3942,Manish Tiwari,Vim Dishwash Bar 200g,Cleaning,5,660.8,2024-08-15,Returned
+ZPT101042,CUST2309,Tarun Banerjee,Dettol Soap 75g,Personal Care,7,453.23,2023-11-03,Delivered
+ZPT101043,CUST1585,Anita Dubey,Paper Boat Aam Panna 250ml,Juices,3,397.1,2024-05-11,Processing
+ZPT101044,CUST3592,Vijay Kumar,Good Day Cashew 87g,Biscuits,4,493.97,2023-03-02,Delivered
+ZPT101045,CUST3834,Divya Pillai,Real Fruit Juice 1L,Juices,5,148.47,2023-12-21,Delivered
+ZPT101046,CUST1146,Rohan Verma,Real Fruit Juice 1L,Juices,9,748.96,2024-12-25,Delivered
+ZPT101047,CUST1320,Pranav Jain,Saffola Gold Oil 1L,Oils,9,153.24,2023-11-21,Returned
+ZPT101048,CUST1170,Sneha Iyer,Red Bull 250ml,Energy Drinks,4,41.28,2023-03-30,Delivered
+ZPT101049,CUST1435,Vijay Kumar,Lays Cream Onion 26g,Snacks,1,128.05,2023-04-30,Delivered
+ZPT101050,CUST1195,Aditi Choudhary,Too Yumm Multigrain 60g,Snacks,9,729.15,2024-11-24,Delivered
+ZPT101051,CUST2542,Amit Sharma,Colgate Toothpaste 200g,Personal Care,1,638.2,2023-11-05,Delivered
+ZPT101052,CUST3473,Sunita Rawat,Minute Maid Orange 1L,Juices,4,308.45,2023-12-21,Delivered
+ZPT101053,CUST3218,Neha Gupta,Amul Butter 500g,Dairy,6,658.21,2024-06-13,Returned
+ZPT101054,CUST2650,Nikhil Chopra,Pilsbury Maida 1kg,Staples,10,729.88,2023-03-12,Returned
+ZPT101055,CUST1221,Rahul Joshi,Dove Shampoo 180ml,Personal Care,4,643.81,2023-08-14,Returned
+ZPT101056,CUST4092,Nisha Pandey,Dove Shampoo 180ml,Personal Care,7,456.29,2023-06-21,Delivered
+ZPT101057,CUST1070,Manish Tiwari,Harpic Toilet Cleaner 500ml,Cleaning,2,417.26,2023-06-30,Processing
+ZPT101058,CUST2061,Preeti Trivedi,Nescafe Classic 50g,Beverages,6,12.77,2023-02-19,Processing
+ZPT101059,CUST4832,Pooja Reddy,Tata Salt 1kg,Staples,2,430.13,2023-03-11,Delivered
+ZPT101060,CUST2942,Sneha Iyer,Amul Milk 1L,Dairy,10,708.11,2023-01-27,Returned
+ZPT101061,CUST3193,Bhavna Yadav,Epigamia Greek Yogurt 90g,Dairy,5,160.88,2024-12-18,Delivered
+ZPT101062,CUST3468,Harsh Malhotra,Bournvita 500g,Beverages,9,784.89,2024-12-05,Delivered
+ZPT101063,CUST1539,Gaurav Kapoor,India Gate Basmati 1kg,Staples,2,245.63,2024-06-16,Delivered
+ZPT101064,CUST4882,Suresh Rao,Fortune Rice 5kg,Staples,10,639.34,2024-09-05,Delivered
+ZPT101065,CUST2352,Aarav Shah,Parle-G Biscuits 100g,Biscuits,5,782.91,2024-11-14,Pending
+ZPT101066,CUST3303,Aditi Choudhary,Sunfeast Dark Fantasy 75g,Biscuits,7,659.34,2024-11-16,Cancelled
+ZPT101067,CUST1230,Amit Sharma,Fortune Sunflower Oil 1L,Oils,1,952.36,2024-04-24,Delivered
+ZPT101068,CUST2454,Mohit Bhatt,Dettol Soap 75g,Personal Care,5,176.42,2023-01-23,Delivered
+ZPT101069,CUST2461,Arjun Patel,Haldiram Bhujia 200g,Snacks,3,179.65,2023-04-13,Delivered
+ZPT101070,CUST2305,Farhan Qureshi,Fortune Rice 5kg,Staples,10,394.42,2023-03-18,Returned
+ZPT101071,CUST3605,Pooja Reddy,Kellogg's Corn Flakes 250g,Breakfast,3,861.54,2024-12-09,Delivered
+ZPT101072,CUST1859,Nisha Pandey,Colgate Toothpaste 200g,Personal Care,6,286.31,2023-08-28,Delivered
+ZPT101073,CUST1070,Mohit Bhatt,Dove Shampoo 180ml,Personal Care,1,817.15,2024-10-06,Delivered
+ZPT101074,CUST3470,Anita Dubey,Britannia Bread 400g,Bakery,2,874.71,2024-04-07,Delivered
+ZPT101075,CUST1391,Shreya Agarwal,Amul Butter 500g,Dairy,7,644.21,2024-01-19,Returned
+ZPT101076,CUST3701,Kiran Nair,Aashirvaad Atta 5kg,Staples,5,330.76,2023-07-08,Cancelled
+ZPT101077,CUST4198,Bhavna Yadav,Surf Excel 1kg,Cleaning,8,573.2,2023-09-04,Delivered
+ZPT101078,CUST2235,Sneha Iyer,Kellogg's Corn Flakes 250g,Breakfast,2,973.29,2023-06-29,Delivered
+ZPT101079,CUST1854,Amit Sharma,Ariel Washing Powder 500g,Cleaning,1,147.68,2024-10-31,Returned
+ZPT101080,CUST1249,Deepak Mishra,India Gate Basmati 1kg,Staples,9,211.03,2024-11-18,Processing
+ZPT101081,CUST4235,Manish Tiwari,Sunfeast Dark Fantasy 75g,Biscuits,8,674.45,2024-08-18,Delivered
+ZPT101082,CUST1955,Kiran Nair,Nescafe Classic 50g,Beverages,6,319.73,2024-01-30,Returned
+ZPT101083,CUST3066,Bhavna Yadav,Lays Cream Onion 26g,Snacks,2,529.26,2024-12-13,Delivered
+ZPT101084,CUST4295,Kiran Nair,Fortune Sunflower Oil 1L,Oils,1,967.53,2024-08-11,Pending
+ZPT101085,CUST1056,Preeti Trivedi,Nescafe Classic 50g,Beverages,7,986.34,2024-01-06,Delivered
+ZPT101086,CUST1037,Swati Kulkarni,Epigamia Greek Yogurt 90g,Dairy,1,200.57,2023-07-15,Delivered
+ZPT101087,CUST1338,Nisha Pandey,Epigamia Greek Yogurt 90g,Dairy,5,164.05,2024-10-02,Delivered
+ZPT101088,CUST4674,Divya Pillai,Colgate Toothpaste 200g,Personal Care,9,620.25,2023-07-24,Cancelled
+ZPT101089,CUST2004,Bhavna Yadav,Aashirvaad Atta 5kg,Staples,7,275.9,2024-06-15,Returned
+ZPT101090,CUST4351,Anita Dubey,Quaker Oats 500g,Breakfast,10,773.55,2023-09-16,Delivered
+ZPT101091,CUST3150,Pranav Jain,Fortune Sunflower Oil 1L,Oils,3,466.19,2024-02-22,Returned
+ZPT101092,CUST2811,Lakshmi Bose,Good Day Cashew 87g,Biscuits,3,229.76,2023-05-24,Pending
+ZPT101093,CUST4697,Nikhil Chopra,Too Yumm Multigrain 60g,Snacks,4,292.95,2023-08-24,Cancelled
+ZPT101094,CUST4245,Bhavna Yadav,Maggi Noodles 70g,Instant Food,4,210.79,2024-07-29,Pending
+ZPT101095,CUST4667,Farhan Qureshi,Red Bull 250ml,Energy Drinks,4,567.46,2024-12-14,Delivered
+ZPT101096,CUST1823,Priya Mehta,Aashirvaad Atta 5kg,Staples,7,740.33,2023-08-14,Cancelled
+ZPT101097,CUST4817,Shreya Agarwal,Haldiram Bhujia 200g,Snacks,5,60.97,2023-03-02,Cancelled
+ZPT101098,CUST2734,Pranav Jain,Haldiram Bhujia 200g,Snacks,1,745.38,2023-11-14,Delivered
+ZPT101099,CUST1453,Nikhil Chopra,Minute Maid Orange 1L,Juices,7,201.46,2023-09-01,Delivered
+ZPT101100,CUST3492,Sanjay Das,Colgate Toothpaste 200g,Personal Care,4,870.65,2023-11-01,Returned
+ZPT101101,CUST2673,Farhan Qureshi,Epigamia Greek Yogurt 90g,Dairy,6,451.81,2024-01-20,Pending
+ZPT101102,CUST3239,Gaurav Kapoor,Mother Dairy Curd 400g,Dairy,7,967.8,2023-02-26,Returned
+ZPT101103,CUST3905,Simran Kaur,Saffola Gold Oil 1L,Oils,8,768.48,2024-02-28,Processing
+ZPT101104,CUST2921,Tarun Banerjee,Sprite 750ml,Cold Drinks,2,32.99,2024-05-14,Delivered
+ZPT101105,CUST1041,Kiran Nair,Coca-Cola 1.25L,Cold Drinks,5,994.51,2023-10-31,Pending
+ZPT101106,CUST1716,Pooja Reddy,Sprite 750ml,Cold Drinks,7,856.21,2024-06-05,Delivered
+ZPT101107,CUST2243,Pooja Reddy,Too Yumm Multigrain 60g,Snacks,3,831.55,2023-09-20,Delivered
+ZPT101108,CUST1494,Suresh Rao,Hide & Seek Biscuits 100g,Biscuits,1,620.69,2024-07-22,Delivered
+ZPT101109,CUST1546,Lakshmi Bose,Real Fruit Juice 1L,Juices,10,489.45,2023-12-02,Pending
+ZPT101110,CUST3499,Mohit Bhatt,Mother Dairy Curd 400g,Dairy,4,452.48,2024-11-27,Delivered
+ZPT101111,CUST4895,Aditi Choudhary,Kellogg's Corn Flakes 250g,Breakfast,4,254.05,2023-01-27,Pending
+ZPT101112,CUST3397,Priya Mehta,MTR Poha 500g,Breakfast,3,294.59,2024-11-20,Pending
+ZPT101113,CUST2554,Preeti Trivedi,Hide & Seek Biscuits 100g,Biscuits,8,761.41,2023-12-26,Delivered
+ZPT101114,CUST4888,Manish Tiwari,Mother Dairy Curd 400g,Dairy,5,679.13,2024-06-01,Delivered
+ZPT101115,CUST3689,Aarav Shah,Sunfeast Dark Fantasy 75g,Biscuits,3,813.85,2024-01-17,Delivered
+ZPT101116,CUST4117,Manish Tiwari,Britannia Bread 400g,Bakery,1,989.22,2024-10-21,Delivered
+ZPT101117,CUST4222,Anjali Menon,Aashirvaad Atta 5kg,Staples,7,960.13,2023-06-19,Delivered
+ZPT101118,CUST4705,Gaurav Kapoor,Aashirvaad Atta 5kg,Staples,1,917.28,2024-03-01,Returned
+ZPT101119,CUST2113,Harsh Malhotra,Hide & Seek Biscuits 100g,Biscuits,1,713.12,2024-04-11,Delivered
+ZPT101120,CUST3780,Suresh Rao,Lays Cream Onion 26g,Snacks,6,705.6,2023-09-19,Delivered
+ZPT101121,CUST3928,Vijay Kumar,Coca-Cola 1.25L,Cold Drinks,8,833.17,2024-03-30,Delivered
+ZPT101122,CUST2634,Anita Dubey,Minute Maid Orange 1L,Juices,8,404.62,2023-12-06,Returned
+ZPT101123,CUST4868,Manish Tiwari,Mother Dairy Curd 400g,Dairy,1,146.97,2023-10-20,Returned
+ZPT101124,CUST3874,Pranav Jain,Dove Shampoo 180ml,Personal Care,8,738.04,2023-06-19,Processing
+ZPT101125,CUST3441,Swati Kulkarni,Ariel Washing Powder 500g,Cleaning,6,97.01,2024-10-08,Returned
+ZPT101126,CUST1680,Anjali Menon,Dettol Soap 75g,Personal Care,1,10.42,2023-05-10,Returned
+ZPT101127,CUST2881,Anita Dubey,Real Fruit Juice 1L,Juices,1,45.07,2024-01-08,Delivered
+ZPT101128,CUST4679,Deepak Mishra,Paper Boat Aam Panna 250ml,Juices,2,363.77,2023-04-11,Delivered
+ZPT101129,CUST1347,Manish Tiwari,Vim Dishwash Bar 200g,Cleaning,9,84.95,2023-04-04,Cancelled
+ZPT101130,CUST3782,Rahul Joshi,Harpic Toilet Cleaner 500ml,Cleaning,4,403.39,2024-01-05,Delivered
+ZPT101131,CUST4400,Arjun Patel,Maggi Noodles 70g,Instant Food,7,993.9,2024-08-06,Pending
+ZPT101132,CUST1216,Rohan Verma,Sprite 750ml,Cold Drinks,1,448.45,2024-04-13,Delivered
+ZPT101133,CUST2964,Gaurav Kapoor,Nescafe Classic 50g,Beverages,8,146.74,2024-11-04,Delivered
+ZPT101134,CUST2576,Simran Kaur,Maggi Noodles 70g,Instant Food,4,650.59,2024-04-14,Pending
+ZPT101135,CUST3646,Bhavna Yadav,Aashirvaad Atta 5kg,Staples,10,392.85,2023-04-08,Delivered
+ZPT101136,CUST3299,Preeti Trivedi,Haldiram Bhujia 200g,Snacks,2,545.42,2023-06-04,Delivered
+ZPT101137,CUST3683,Sanjay Das,Good Day Cashew 87g,Biscuits,8,970.6,2023-07-21,Delivered
+ZPT101138,CUST3925,Bhavna Yadav,MTR Poha 500g,Breakfast,6,741.84,2023-07-04,Delivered
+ZPT101139,CUST1461,Meera Thomas,Ariel Washing Powder 500g,Cleaning,1,170.45,2024-04-06,Processing
+ZPT101140,CUST2878,Arjun Patel,Sprite 750ml,Cold Drinks,7,973.13,2024-12-14,Processing
+ZPT101141,CUST4205,Nisha Pandey,Dettol Soap 75g,Personal Care,10,500.47,2024-07-29,Processing
+ZPT101142,CUST1146,Kiran Nair,Lay's Classic Chips 26g,Snacks,5,816.36,2023-03-07,Delivered
+ZPT101143,CUST1535,Anjali Menon,Real Fruit Juice 1L,Juices,8,670.4,2023-05-15,Delivered
+ZPT101144,CUST1571,Aarav Shah,Real Fruit Juice 1L,Juices,4,568.06,2023-12-06,Delivered
+ZPT101145,CUST3092,Gaurav Kapoor,India Gate Basmati 1kg,Staples,10,534.39,2024-08-10,Delivered
+ZPT101146,CUST4224,Suresh Rao,Red Bull 250ml,Energy Drinks,2,814.77,2024-05-14,Delivered
+ZPT101147,CUST4604,Riya Desai,Fortune Rice 5kg,Staples,6,655.65,2023-02-19,Returned
+ZPT101148,CUST4429,Swati Kulkarni,Parle-G Biscuits 100g,Biscuits,10,398.77,2024-09-21,Delivered
+ZPT101149,CUST4445,Mohit Bhatt,Hide & Seek Biscuits 100g,Biscuits,7,406.16,2024-01-28,Delivered
+ZPT101150,CUST1852,Arjun Patel,Haldiram Bhujia 200g,Snacks,3,329.49,2023-05-22,Delivered
+ZPT101151,CUST2970,Swati Kulkarni,Fortune Rice 5kg,Staples,6,672.21,2023-03-31,Pending
+ZPT101152,CUST1146,Nikhil Chopra,Nescafe Classic 50g,Beverages,2,138.95,2023-05-22,Delivered
+ZPT101153,CUST1840,Pooja Reddy,Colgate Toothpaste 200g,Personal Care,1,941.21,2024-04-13,Pending
+ZPT101154,CUST2505,Sneha Iyer,Quaker Oats 500g,Breakfast,8,833.01,2024-12-28,Processing
+ZPT101155,CUST4929,Divya Pillai,Fortune Sunflower Oil 1L,Oils,2,572.05,2023-08-09,Delivered
+ZPT101156,CUST4854,Bhavna Yadav,Lays Cream Onion 26g,Snacks,9,107.15,2024-09-04,Processing
+ZPT101157,CUST1636,Farhan Qureshi,Colgate Toothpaste 200g,Personal Care,7,748.34,2023-04-24,Delivered
+ZPT101158,CUST1626,Sanjay Das,Quaker Oats 500g,Breakfast,4,668.84,2023-10-20,Returned
+ZPT101159,CUST1827,Amit Sharma,Saffola Gold Oil 1L,Oils,4,399.77,2024-06-13,Delivered
+ZPT101160,CUST4440,Simran Kaur,Aashirvaad Atta 5kg,Staples,4,889.73,2023-05-01,Delivered
+ZPT101161,CUST1053,Neha Gupta,Bournvita 500g,Beverages,2,92.41,2024-03-10,Returned
+ZPT101162,CUST2064,Deepak Mishra,Surf Excel 1kg,Cleaning,9,706.49,2023-03-02,Pending
+ZPT101163,CUST2998,Sanjay Das,Tata Salt 1kg,Staples,3,86.44,2023-02-06,Processing
+ZPT101164,CUST2393,Riya Desai,Nescafe Classic 50g,Beverages,8,235.78,2024-05-17,Delivered
+ZPT101165,CUST1278,Bhavna Yadav,Paper Boat Aam Panna 250ml,Juices,8,427.13,2024-01-09,Cancelled
+ZPT101166,CUST2127,Pranav Jain,Fortune Sunflower Oil 1L,Oils,3,938.63,2023-04-30,Delivered
+ZPT101167,CUST2581,Kavya Nair,Bournvita 500g,Beverages,2,92.94,2023-10-01,Delivered
+ZPT101168,CUST1814,Pranav Jain,Vim Dishwash Bar 200g,Cleaning,5,225.84,2023-04-16,Delivered
+ZPT101169,CUST1356,Ananya Singh,Vim Dishwash Bar 200g,Cleaning,7,420.9,2024-01-13,Delivered
+ZPT101170,CUST4334,Farhan Qureshi,Bournvita 500g,Beverages,5,418.16,2023-12-03,Pending
+ZPT101171,CUST4266,Pranav Jain,MTR Poha 500g,Breakfast,6,861.29,2023-10-23,Processing
+ZPT101172,CUST1592,Farhan Qureshi,Minute Maid Orange 1L,Juices,3,540.85,2023-09-19,Delivered
+ZPT101173,CUST3622,Aditi Choudhary,Sunfeast Dark Fantasy 75g,Biscuits,2,112.76,2023-07-14,Delivered
+ZPT101174,CUST2205,Priya Mehta,Paper Boat Aam Panna 250ml,Juices,3,764.95,2023-10-21,Delivered
+ZPT101175,CUST4291,Rohan Verma,Minute Maid Orange 1L,Juices,9,837.24,2023-01-18,Delivered
+ZPT101176,CUST4870,Nisha Pandey,India Gate Basmati 1kg,Staples,2,155.6,2024-11-12,Delivered
+ZPT101177,CUST1258,Sneha Iyer,Dettol Soap 75g,Personal Care,4,697.46,2023-03-06,Cancelled
+ZPT101178,CUST3154,Aarav Shah,Ariel Washing Powder 500g,Cleaning,1,849.57,2023-09-07,Delivered
+ZPT101179,CUST2577,Riya Desai,Harpic Toilet Cleaner 500ml,Cleaning,3,671.43,2024-09-15,Cancelled
+ZPT101180,CUST3019,Priya Mehta,Hide & Seek Biscuits 100g,Biscuits,8,273.97,2024-03-30,Delivered
+ZPT101181,CUST3231,Mohit Bhatt,Paper Boat Aam Panna 250ml,Juices,6,75.97,2024-05-30,Processing
+ZPT101182,CUST3792,Amit Sharma,Hide & Seek Biscuits 100g,Biscuits,10,843.25,2024-01-29,Processing
+ZPT101183,CUST1997,Gaurav Kapoor,Kellogg's Corn Flakes 250g,Breakfast,10,141.92,2023-03-09,Pending
+ZPT101184,CUST3667,Rahul Joshi,Sprite 750ml,Cold Drinks,8,952.67,2024-11-24,Cancelled
+ZPT101185,CUST4740,Preeti Trivedi,India Gate Basmati 1kg,Staples,6,26.78,2024-12-11,Returned
+ZPT101186,CUST1587,Arjun Patel,Tata Salt 1kg,Staples,7,560.49,2023-07-08,Cancelled
+ZPT101187,CUST2998,Kiran Nair,Tropicana Guava 1L,Juices,2,319.8,2024-03-01,Pending
+ZPT101188,CUST4640,Bhavna Yadav,Bournvita 500g,Beverages,7,627.26,2024-07-01,Delivered
+ZPT101189,CUST4137,Riya Desai,Fortune Sunflower Oil 1L,Oils,10,51.98,2024-01-05,Processing
+ZPT101190,CUST3383,Nikhil Chopra,Sunfeast Dark Fantasy 75g,Biscuits,4,902.97,2023-03-05,Delivered
+ZPT101191,CUST3024,Bhavna Yadav,Sprite 750ml,Cold Drinks,10,266.93,2024-01-09,Delivered
+ZPT101192,CUST1468,Anita Dubey,Ariel Washing Powder 500g,Cleaning,4,694.0,2024-08-05,Delivered
+ZPT101193,CUST2987,Anita Dubey,Hide & Seek Biscuits 100g,Biscuits,4,906.09,2024-12-18,Delivered
+ZPT101194,CUST2679,Arjun Patel,Amul Milk 1L,Dairy,6,871.87,2024-02-23,Delivered
+ZPT101195,CUST3752,Rahul Joshi,Dettol Soap 75g,Personal Care,3,22.17,2023-12-25,Pending
+ZPT101196,CUST1865,Sanjay Das,Colgate Toothpaste 200g,Personal Care,5,859.75,2023-01-04,Delivered
+ZPT101197,CUST2360,Kiran Nair,Good Day Cashew 87g,Biscuits,2,129.54,2023-03-08,Returned
+ZPT101198,CUST2169,Nisha Pandey,Pilsbury Maida 1kg,Staples,9,469.09,2023-03-04,Delivered
+ZPT101199,CUST1497,Bhavna Yadav,Sprite 750ml,Cold Drinks,7,667.33,2024-05-28,Returned
+ZPT101200,CUST1003,Meera Thomas,Saffola Gold Oil 1L,Oils,3,298.18,2024-04-08,Delivered
+ZPT101201,CUST4037,Simran Kaur,MTR Poha 500g,Breakfast,6,190.98,2023-07-01,Returned
+ZPT101202,CUST4769,Lakshmi Bose,Minute Maid Orange 1L,Juices,6,684.74,2024-07-01,Processing
+ZPT101203,CUST1458,Deepak Mishra,Britannia Bread 400g,Bakery,3,373.37,2024-09-30,Delivered
+ZPT101204,CUST1230,Gaurav Kapoor,Ariel Washing Powder 500g,Cleaning,10,326.94,2024-11-26,Pending
+ZPT101205,CUST4942,Meera Thomas,Harpic Toilet Cleaner 500ml,Cleaning,2,679.07,2023-08-30,Cancelled
+ZPT101206,CUST3615,Harsh Malhotra,Surf Excel 1kg,Cleaning,1,435.47,2023-06-08,Delivered
+ZPT101207,CUST2255,Kavya Nair,Dove Shampoo 180ml,Personal Care,2,201.72,2023-09-21,Pending
+ZPT101208,CUST1405,Suresh Rao,Parle-G Biscuits 100g,Biscuits,2,253.06,2023-10-03,Returned
+ZPT101209,CUST4604,Nisha Pandey,Real Fruit Juice 1L,Juices,1,957.9,2023-12-02,Delivered
+ZPT101210,CUST3666,Aditi Choudhary,Vim Dishwash Bar 200g,Cleaning,8,430.33,2024-12-17,Delivered
+ZPT101211,CUST1409,Ananya Singh,Kellogg's Corn Flakes 250g,Breakfast,8,697.44,2023-04-21,Returned
+ZPT101212,CUST1842,Anita Dubey,Minute Maid Orange 1L,Juices,1,930.48,2023-11-09,Delivered
+ZPT101213,CUST3853,Tarun Banerjee,Quaker Oats 500g,Breakfast,2,684.23,2023-08-28,Delivered
+ZPT101214,CUST4826,Sanjay Das,Vim Dishwash Bar 200g,Cleaning,1,939.67,2024-06-11,Delivered
+ZPT101215,CUST1023,Simran Kaur,Good Day Cashew 87g,Biscuits,8,630.4,2024-07-04,Pending
+ZPT101216,CUST4178,Kavya Nair,Epigamia Greek Yogurt 90g,Dairy,3,328.13,2023-06-05,Returned
+ZPT101217,CUST3521,Rahul Joshi,Lay's Classic Chips 26g,Snacks,6,883.1,2023-02-09,Delivered
+ZPT101218,CUST1710,Anita Dubey,Aashirvaad Atta 5kg,Staples,1,573.92,2023-03-03,Delivered
+ZPT101219,CUST1951,Mohit Bhatt,Vim Dishwash Bar 200g,Cleaning,10,888.59,2023-08-21,Processing
+ZPT101220,CUST3747,Kiran Nair,Tropicana Guava 1L,Juices,1,301.19,2024-06-28,Processing
+ZPT101221,CUST1959,Mohit Bhatt,Hide & Seek Biscuits 100g,Biscuits,8,226.3,2023-11-29,Delivered
+ZPT101222,CUST2230,Amit Sharma,Epigamia Greek Yogurt 90g,Dairy,9,116.88,2023-11-14,Delivered
+ZPT101223,CUST2549,Manish Tiwari,Sprite 750ml,Cold Drinks,5,977.24,2023-04-16,Delivered
+ZPT101224,CUST1635,Varun Saxena,Fortune Rice 5kg,Staples,9,66.74,2024-07-26,Delivered
+ZPT101225,CUST1872,Rahul Joshi,MTR Poha 500g,Breakfast,1,258.08,2024-12-07,Delivered
+ZPT101226,CUST2272,Deepak Mishra,Too Yumm Multigrain 60g,Snacks,9,638.08,2023-11-19,Delivered
+ZPT101227,CUST2858,Simran Kaur,Red Bull 250ml,Energy Drinks,9,592.4,2024-10-08,Cancelled
+ZPT101228,CUST4947,Neha Gupta,Harpic Toilet Cleaner 500ml,Cleaning,4,152.99,2023-07-25,Returned
+ZPT101229,CUST3785,Pranav Jain,Pilsbury Maida 1kg,Staples,10,701.34,2023-01-21,Processing
+ZPT101230,CUST3195,Nikhil Chopra,Kellogg's Corn Flakes 250g,Breakfast,3,95.7,2023-10-23,Delivered
+ZPT101231,CUST3004,Meera Thomas,Sunfeast Dark Fantasy 75g,Biscuits,9,125.94,2024-01-05,Processing
+ZPT101232,CUST3588,Mohit Bhatt,Kellogg's Corn Flakes 250g,Breakfast,10,759.5,2023-08-01,Processing
+ZPT101233,CUST1603,Ananya Singh,Aashirvaad Atta 5kg,Staples,10,184.14,2023-07-24,Processing
+ZPT101234,CUST3861,Tarun Banerjee,Epigamia Greek Yogurt 90g,Dairy,3,988.56,2023-10-14,Delivered
+ZPT101235,CUST1065,Amit Sharma,Paper Boat Aam Panna 250ml,Juices,5,199.78,2024-05-05,Processing
+ZPT101236,CUST4063,Bhavna Yadav,Haldiram Bhujia 200g,Snacks,10,132.39,2024-03-26,Delivered
+ZPT101237,CUST3423,Kavya Nair,Real Fruit Juice 1L,Juices,8,610.85,2024-05-09,Returned
+ZPT101238,CUST4417,Bhavna Yadav,Colgate Toothpaste 200g,Personal Care,4,364.18,2024-07-29,Processing
+ZPT101239,CUST1118,Bhavna Yadav,Epigamia Greek Yogurt 90g,Dairy,9,714.71,2023-10-17,Delivered
+ZPT101240,CUST3337,Sunita Rawat,Coca-Cola 1.25L,Cold Drinks,6,318.01,2023-02-08,Processing
+ZPT101241,CUST1530,Bhavna Yadav,MTR Poha 500g,Breakfast,3,360.99,2023-03-21,Pending
+ZPT101242,CUST4235,Anita Dubey,Paper Boat Aam Panna 250ml,Juices,7,599.42,2024-08-05,Returned
+ZPT101243,CUST3344,Riya Desai,Dettol Soap 75g,Personal Care,3,541.36,2024-03-31,Returned
+ZPT101244,CUST1361,Anjali Menon,Sprite 750ml,Cold Drinks,2,15.48,2024-06-07,Pending
+ZPT101245,CUST1682,Rajesh Sinha,Amul Milk 1L,Dairy,10,875.41,2023-05-03,Delivered
+ZPT101246,CUST3092,Preeti Trivedi,Lays Cream Onion 26g,Snacks,3,276.69,2024-10-29,Cancelled
+ZPT101247,CUST4400,Aditi Choudhary,Fortune Rice 5kg,Staples,3,878.02,2023-06-03,Cancelled
+ZPT101248,CUST2900,Swati Kulkarni,Parle-G Biscuits 100g,Biscuits,7,533.76,2024-03-20,Delivered
+ZPT101249,CUST1075,Arjun Patel,Aashirvaad Atta 5kg,Staples,4,659.36,2024-10-10,Delivered
+ZPT101250,CUST2513,Suresh Rao,Hide & Seek Biscuits 100g,Biscuits,10,777.14,2024-07-24,Processing
+ZPT101251,CUST1625,Aditi Choudhary,Lays Cream Onion 26g,Snacks,9,986.84,2023-10-27,Processing
+ZPT101252,CUST4601,Varun Saxena,Good Day Cashew 87g,Biscuits,2,511.38,2024-06-01,Pending
+ZPT101253,CUST2531,Vijay Kumar,Lay's Classic Chips 26g,Snacks,3,838.73,2023-12-11,Cancelled
+ZPT101254,CUST2496,Simran Kaur,Ariel Washing Powder 500g,Cleaning,1,923.2,2023-11-29,Delivered
+ZPT101255,CUST1089,Neha Gupta,Fortune Sunflower Oil 1L,Oils,3,708.78,2023-09-23,Pending
+ZPT101256,CUST4504,Kavya Nair,Saffola Gold Oil 1L,Oils,2,746.69,2024-09-30,Delivered
+ZPT101257,CUST3715,Preeti Trivedi,Fortune Rice 5kg,Staples,3,930.21,2024-11-02,Delivered
+ZPT101258,CUST4492,Harsh Malhotra,Vim Dishwash Bar 200g,Cleaning,5,858.43,2024-12-16,Delivered
+ZPT101259,CUST4147,Nisha Pandey,Ariel Washing Powder 500g,Cleaning,3,158.34,2023-02-05,Delivered
+ZPT101260,CUST1234,Nikhil Chopra,Red Bull 250ml,Energy Drinks,1,344.96,2024-07-04,Pending
+ZPT101261,CUST2475,Deepak Mishra,Kellogg's Corn Flakes 250g,Breakfast,2,658.48,2024-09-05,Processing
+ZPT101262,CUST2554,Swati Kulkarni,Red Bull 250ml,Energy Drinks,10,660.73,2023-07-23,Cancelled
+ZPT101263,CUST2979,Sunita Rawat,Colgate Toothpaste 200g,Personal Care,4,672.97,2024-04-11,Pending
+ZPT101264,CUST4750,Kavya Nair,Lays Cream Onion 26g,Snacks,1,300.6,2024-11-27,Delivered
+ZPT101265,CUST2038,Pranav Jain,Coca-Cola 1.25L,Cold Drinks,5,642.06,2024-12-30,Delivered
+ZPT101266,CUST2522,Arjun Patel,Fortune Sunflower Oil 1L,Oils,7,973.07,2023-02-02,Delivered
+ZPT101267,CUST1491,Riya Desai,Harpic Toilet Cleaner 500ml,Cleaning,4,388.32,2024-08-02,Pending
+ZPT101268,CUST4595,Priya Mehta,Sunfeast Dark Fantasy 75g,Biscuits,7,249.15,2023-04-28,Delivered
+ZPT101269,CUST2691,Farhan Qureshi,Nescafe Classic 50g,Beverages,4,20.37,2023-08-13,Pending
+ZPT101270,CUST2011,Sneha Iyer,Vim Dishwash Bar 200g,Cleaning,10,281.65,2024-10-31,Delivered
+ZPT101271,CUST2310,Arjun Patel,Aashirvaad Atta 5kg,Staples,8,667.7,2024-08-08,Delivered
+ZPT101272,CUST2575,Kavya Nair,Mother Dairy Curd 400g,Dairy,4,874.11,2023-01-16,Delivered
+ZPT101273,CUST1599,Kiran Nair,Kellogg's Corn Flakes 250g,Breakfast,10,566.52,2024-03-22,Delivered
+ZPT101274,CUST2775,Rahul Joshi,Fortune Sunflower Oil 1L,Oils,9,255.47,2024-10-25,Returned
+ZPT101275,CUST2007,Anita Dubey,Maggi Noodles 70g,Instant Food,6,446.69,2023-03-17,Delivered
+ZPT101276,CUST1724,Sanjay Das,Haldiram Bhujia 200g,Snacks,4,564.43,2024-06-29,Processing
+ZPT101277,CUST2647,Vijay Kumar,Haldiram Bhujia 200g,Snacks,5,352.05,2023-10-14,Delivered
+ZPT101278,CUST1123,Neha Gupta,India Gate Basmati 1kg,Staples,7,223.93,2024-02-04,Delivered
+ZPT101279,CUST1481,Pooja Reddy,Vim Dishwash Bar 200g,Cleaning,1,237.78,2024-03-21,Delivered
+ZPT101280,CUST3102,Ananya Singh,Real Fruit Juice 1L,Juices,6,614.77,2024-08-23,Delivered
+ZPT101281,CUST2177,Rahul Joshi,Britannia Bread 400g,Bakery,2,806.38,2023-04-17,Delivered
+ZPT101282,CUST4054,Neha Gupta,Saffola Gold Oil 1L,Oils,2,675.33,2023-08-07,Delivered
+ZPT101283,CUST1441,Vijay Kumar,Sprite 750ml,Cold Drinks,6,334.67,2023-11-05,Delivered
+ZPT101284,CUST4365,Anjali Menon,Fortune Rice 5kg,Staples,7,399.93,2023-10-25,Delivered
+ZPT101285,CUST3327,Anita Dubey,Bournvita 500g,Beverages,3,658.57,2024-01-20,Delivered
+ZPT101286,CUST3259,Lakshmi Bose,Ariel Washing Powder 500g,Cleaning,2,368.21,2023-09-05,Processing
+ZPT101287,CUST3558,Varun Saxena,Tropicana Guava 1L,Juices,1,450.22,2024-02-08,Delivered
+ZPT101288,CUST4113,Swati Kulkarni,Haldiram Bhujia 200g,Snacks,9,632.86,2024-06-01,Delivered
+ZPT101289,CUST4961,Gaurav Kapoor,Real Fruit Juice 1L,Juices,7,690.0,2024-11-30,Delivered
+ZPT101290,CUST1332,Farhan Qureshi,Dettol Soap 75g,Personal Care,3,294.66,2024-05-16,Delivered
+ZPT101291,CUST3387,Pooja Reddy,Amul Butter 500g,Dairy,6,18.64,2023-12-23,Delivered
+ZPT101292,CUST4930,Sunita Rawat,Britannia Bread 400g,Bakery,5,621.37,2023-10-14,Delivered
+ZPT101293,CUST1943,Preeti Trivedi,Too Yumm Multigrain 60g,Snacks,1,208.17,2023-07-26,Processing
+ZPT101294,CUST1846,Harsh Malhotra,Maggi Noodles 70g,Instant Food,9,455.89,2023-01-31,Delivered
+ZPT101295,CUST2805,Swati Kulkarni,Harpic Toilet Cleaner 500ml,Cleaning,8,46.98,2024-01-09,Returned
+ZPT101296,CUST2805,Pooja Reddy,Parle-G Biscuits 100g,Biscuits,3,532.24,2024-02-23,Delivered
+ZPT101297,CUST2461,Nisha Pandey,Minute Maid Orange 1L,Juices,8,427.81,2023-06-19,Delivered
+ZPT101298,CUST4640,Mohit Bhatt,Too Yumm Multigrain 60g,Snacks,4,545.3,2024-06-24,Processing
+ZPT101299,CUST4187,Rajesh Sinha,Saffola Gold Oil 1L,Oils,10,468.22,2023-04-12,Cancelled
+ZPT101300,CUST4179,Vijay Kumar,Ariel Washing Powder 500g,Cleaning,9,952.36,2024-03-30,Cancelled
+ZPT101301,CUST1859,Manish Tiwari,Too Yumm Multigrain 60g,Snacks,2,356.4,2023-03-11,Delivered
+ZPT101302,CUST2222,Sunita Rawat,Hide & Seek Biscuits 100g,Biscuits,2,398.15,2024-04-28,Pending
+ZPT101303,CUST3090,Neha Gupta,Amul Milk 1L,Dairy,2,412.34,2024-07-20,Delivered
+ZPT101304,CUST4069,Priya Mehta,Kellogg's Corn Flakes 250g,Breakfast,6,387.87,2024-03-04,Returned
+ZPT101305,CUST3723,Preeti Trivedi,Tata Salt 1kg,Staples,10,208.41,2023-04-13,Pending
+ZPT101306,CUST4855,Meera Thomas,Ariel Washing Powder 500g,Cleaning,9,805.03,2023-12-16,Returned
+ZPT101307,CUST1428,Divya Pillai,Dettol Soap 75g,Personal Care,1,968.76,2023-07-16,Processing
+ZPT101308,CUST1842,Rohan Verma,Sprite 750ml,Cold Drinks,2,474.32,2024-05-01,Delivered
+ZPT101309,CUST1447,Mohit Bhatt,Too Yumm Multigrain 60g,Snacks,7,108.6,2023-03-31,Processing
+ZPT101310,CUST1539,Divya Pillai,Surf Excel 1kg,Cleaning,8,900.03,2024-05-15,Cancelled
+ZPT101311,CUST4641,Sneha Iyer,Tata Salt 1kg,Staples,10,556.15,2024-02-18,Processing
+ZPT101312,CUST2936,Vijay Kumar,Pilsbury Maida 1kg,Staples,7,667.01,2024-04-26,Returned
+ZPT101313,CUST4000,Rohan Verma,Good Day Cashew 87g,Biscuits,2,380.07,2023-07-18,Processing
+ZPT101314,CUST4770,Pranav Jain,Colgate Toothpaste 200g,Personal Care,4,173.87,2024-06-12,Pending
+ZPT101315,CUST1028,Anita Dubey,Minute Maid Orange 1L,Juices,3,554.51,2023-12-15,Cancelled
+ZPT101316,CUST2673,Gaurav Kapoor,Too Yumm Multigrain 60g,Snacks,4,902.77,2023-11-02,Processing
+ZPT101317,CUST1183,Pranav Jain,Tropicana Guava 1L,Juices,8,954.1,2024-10-05,Cancelled
+ZPT101318,CUST1742,Simran Kaur,Fortune Sunflower Oil 1L,Oils,7,534.4,2023-03-14,Delivered
+ZPT101319,CUST2658,Bhavna Yadav,Saffola Gold Oil 1L,Oils,5,748.52,2023-10-09,Delivered
+ZPT101320,CUST2347,Preeti Trivedi,India Gate Basmati 1kg,Staples,7,490.18,2023-08-06,Delivered
+ZPT101321,CUST2552,Amit Sharma,Ariel Washing Powder 500g,Cleaning,9,916.65,2024-08-24,Delivered
+ZPT101322,CUST4884,Neha Gupta,Colgate Toothpaste 200g,Personal Care,8,40.5,2023-12-23,Delivered
+ZPT101323,CUST1574,Farhan Qureshi,Parle-G Biscuits 100g,Biscuits,9,115.04,2023-05-04,Returned
+ZPT101324,CUST3585,Rahul Joshi,Paper Boat Aam Panna 250ml,Juices,4,883.77,2023-06-25,Delivered
+ZPT101325,CUST4811,Gaurav Kapoor,Sunfeast Dark Fantasy 75g,Biscuits,10,929.51,2024-08-18,Delivered
+ZPT101326,CUST3389,Kiran Nair,Harpic Toilet Cleaner 500ml,Cleaning,8,735.38,2023-10-08,Delivered
+ZPT101327,CUST1520,Simran Kaur,Sunfeast Dark Fantasy 75g,Biscuits,1,821.75,2024-05-15,Cancelled
+ZPT101328,CUST1163,Simran Kaur,Good Day Cashew 87g,Biscuits,9,662.29,2023-05-22,Delivered
+ZPT101329,CUST1044,Mohit Bhatt,Minute Maid Orange 1L,Juices,8,744.33,2024-09-09,Returned
+ZPT101330,CUST1898,Pooja Reddy,Haldiram Bhujia 200g,Snacks,2,396.8,2024-08-04,Processing
+ZPT101331,CUST4866,Vijay Kumar,Nescafe Classic 50g,Beverages,1,286.93,2023-05-09,Processing
+ZPT101332,CUST1219,Rajesh Sinha,Coca-Cola 1.25L,Cold Drinks,1,30.49,2024-04-06,Returned
+ZPT101333,CUST2146,Sneha Iyer,Aashirvaad Atta 5kg,Staples,4,808.71,2024-03-12,Pending
+ZPT101334,CUST4632,Nikhil Chopra,Saffola Gold Oil 1L,Oils,6,698.89,2023-03-09,Returned
+ZPT101335,CUST1932,Tarun Banerjee,Harpic Toilet Cleaner 500ml,Cleaning,2,545.79,2024-11-14,Delivered
+ZPT101336,CUST2656,Suresh Rao,Lays Cream Onion 26g,Snacks,4,772.59,2023-10-25,Delivered
+ZPT101337,CUST3367,Sunita Rawat,Dettol Soap 75g,Personal Care,4,548.38,2024-01-21,Cancelled
+ZPT101338,CUST1648,Rohan Verma,Colgate Toothpaste 200g,Personal Care,7,669.77,2024-05-31,Delivered
+ZPT101339,CUST4162,Gaurav Kapoor,Kellogg's Corn Flakes 250g,Breakfast,3,334.58,2024-11-18,Delivered
+ZPT101340,CUST1614,Preeti Trivedi,Tata Salt 1kg,Staples,9,972.09,2023-01-08,Cancelled
+ZPT101341,CUST1551,Bhavna Yadav,Lays Cream Onion 26g,Snacks,6,514.07,2024-03-12,Processing
+ZPT101342,CUST1985,Rajesh Sinha,India Gate Basmati 1kg,Staples,6,87.63,2024-07-20,Pending
+ZPT101343,CUST1169,Amit Sharma,Real Fruit Juice 1L,Juices,7,211.77,2024-03-18,Processing
+ZPT101344,CUST3051,Rohan Verma,Kellogg's Corn Flakes 250g,Breakfast,3,396.61,2023-04-24,Delivered
+ZPT101345,CUST2798,Amit Sharma,Fortune Rice 5kg,Staples,5,124.19,2023-07-21,Delivered
+ZPT101346,CUST1826,Bhavna Yadav,Haldiram Bhujia 200g,Snacks,9,593.08,2023-11-21,Pending
+ZPT101347,CUST4895,Rahul Joshi,Amul Butter 500g,Dairy,7,631.26,2024-03-22,Delivered
+ZPT101348,CUST1940,Rohan Verma,Mother Dairy Curd 400g,Dairy,3,94.61,2023-05-22,Delivered
+ZPT101349,CUST4030,Neha Gupta,Dettol Soap 75g,Personal Care,9,451.74,2024-01-08,Delivered
+ZPT101350,CUST1846,Varun Saxena,Fortune Rice 5kg,Staples,9,148.41,2023-11-27,Processing
+ZPT101351,CUST1351,Amit Sharma,Minute Maid Orange 1L,Juices,9,521.61,2024-01-09,Delivered
+ZPT101352,CUST3430,Farhan Qureshi,Dettol Soap 75g,Personal Care,6,922.06,2023-02-03,Cancelled
+ZPT101353,CUST3070,Simran Kaur,Haldiram Bhujia 200g,Snacks,4,459.23,2024-08-09,Cancelled
+ZPT101354,CUST2381,Swati Kulkarni,Hide & Seek Biscuits 100g,Biscuits,7,416.47,2024-01-30,Cancelled
+ZPT101355,CUST4981,Sneha Iyer,Surf Excel 1kg,Cleaning,1,978.19,2023-08-31,Returned
+ZPT101356,CUST1445,Priya Mehta,Vim Dishwash Bar 200g,Cleaning,10,400.88,2024-04-26,Delivered
+ZPT101357,CUST4431,Meera Thomas,Saffola Gold Oil 1L,Oils,1,172.75,2024-06-18,Delivered
+ZPT101358,CUST4170,Swati Kulkarni,Red Bull 250ml,Energy Drinks,5,959.84,2024-06-25,Cancelled
+ZPT101359,CUST3687,Amit Sharma,Tata Salt 1kg,Staples,8,119.08,2023-01-12,Delivered
+ZPT101360,CUST4044,Mohit Bhatt,Parle-G Biscuits 100g,Biscuits,2,475.35,2024-10-05,Delivered
+ZPT101361,CUST1795,Anita Dubey,Harpic Toilet Cleaner 500ml,Cleaning,6,692.22,2023-12-09,Processing
+ZPT101362,CUST4954,Sneha Iyer,Surf Excel 1kg,Cleaning,6,902.12,2023-12-24,Delivered
+ZPT101363,CUST1208,Riya Desai,Sprite 750ml,Cold Drinks,8,988.34,2023-12-11,Cancelled
+ZPT101364,CUST2509,Nisha Pandey,Surf Excel 1kg,Cleaning,4,109.82,2023-09-14,Delivered
+ZPT101365,CUST2296,Neha Gupta,Dove Shampoo 180ml,Personal Care,8,66.85,2024-04-25,Returned
+ZPT101366,CUST4851,Sanjay Das,Coca-Cola 1.25L,Cold Drinks,10,256.92,2023-07-04,Pending
+ZPT101367,CUST1980,Meera Thomas,Ariel Washing Powder 500g,Cleaning,6,739.6,2024-12-25,Returned
+ZPT101368,CUST1776,Sneha Iyer,Saffola Gold Oil 1L,Oils,6,400.51,2024-01-06,Returned
+ZPT101369,CUST1156,Kiran Nair,Minute Maid Orange 1L,Juices,10,295.12,2023-08-09,Delivered
+ZPT101370,CUST4828,Manish Tiwari,Sunfeast Dark Fantasy 75g,Biscuits,9,100.57,2023-06-22,Cancelled
+ZPT101371,CUST2231,Rohan Verma,Real Fruit Juice 1L,Juices,5,269.62,2024-10-22,Delivered
+ZPT101372,CUST2731,Nisha Pandey,Maggi Noodles 70g,Instant Food,8,91.24,2023-08-05,Delivered
+ZPT101373,CUST3472,Ananya Singh,Too Yumm Multigrain 60g,Snacks,8,508.16,2023-11-04,Delivered
+ZPT101374,CUST1809,Gaurav Kapoor,Colgate Toothpaste 200g,Personal Care,8,626.04,2024-12-01,Delivered
+ZPT101375,CUST4436,Gaurav Kapoor,Haldiram Bhujia 200g,Snacks,2,107.67,2023-06-07,Delivered
+ZPT101376,CUST2397,Farhan Qureshi,Vim Dishwash Bar 200g,Cleaning,8,955.12,2024-06-20,Delivered
+ZPT101377,CUST4043,Varun Saxena,Red Bull 250ml,Energy Drinks,7,170.3,2024-12-07,Returned
+ZPT101378,CUST1679,Vijay Kumar,Coca-Cola 1.25L,Cold Drinks,10,257.26,2023-08-21,Processing
+ZPT101379,CUST2002,Rajesh Sinha,Red Bull 250ml,Energy Drinks,3,913.99,2024-10-28,Processing
+ZPT101380,CUST4242,Gaurav Kapoor,Dove Shampoo 180ml,Personal Care,2,582.72,2024-01-02,Delivered
+ZPT101381,CUST3693,Anita Dubey,Tropicana Guava 1L,Juices,10,128.18,2023-09-26,Delivered
+ZPT101382,CUST1285,Sunita Rawat,Colgate Toothpaste 200g,Personal Care,3,540.91,2024-10-16,Delivered
+ZPT101383,CUST4133,Tarun Banerjee,Quaker Oats 500g,Breakfast,1,172.73,2024-09-09,Returned
+ZPT101384,CUST2691,Varun Saxena,Amul Butter 500g,Dairy,5,70.2,2024-01-31,Pending
+ZPT101385,CUST1606,Bhavna Yadav,Dove Shampoo 180ml,Personal Care,5,631.27,2023-08-13,Delivered
+ZPT101386,CUST4171,Nisha Pandey,India Gate Basmati 1kg,Staples,2,597.2,2024-05-09,Delivered
+ZPT101387,CUST4799,Deepak Mishra,Fortune Sunflower Oil 1L,Oils,1,785.72,2024-04-09,Pending
+ZPT101388,CUST2206,Anita Dubey,Lay's Classic Chips 26g,Snacks,10,802.7,2024-01-14,Processing
+ZPT101389,CUST1613,Rohan Verma,Red Bull 250ml,Energy Drinks,9,349.42,2024-03-02,Delivered
+ZPT101390,CUST4626,Kiran Nair,Too Yumm Multigrain 60g,Snacks,8,344.0,2024-05-19,Returned
+ZPT101391,CUST3280,Nisha Pandey,Mother Dairy Curd 400g,Dairy,2,65.55,2023-01-31,Delivered
+ZPT101392,CUST3778,Gaurav Kapoor,Mother Dairy Curd 400g,Dairy,2,475.1,2023-05-06,Delivered
+ZPT101393,CUST1565,Meera Thomas,Minute Maid Orange 1L,Juices,9,355.45,2023-12-31,Delivered
+ZPT101394,CUST3237,Swati Kulkarni,Parle-G Biscuits 100g,Biscuits,4,261.67,2023-04-08,Pending
+ZPT101395,CUST1006,Rohan Verma,Sunfeast Dark Fantasy 75g,Biscuits,9,110.38,2023-06-29,Returned
+ZPT101396,CUST3460,Mohit Bhatt,Epigamia Greek Yogurt 90g,Dairy,5,592.74,2023-07-22,Cancelled
+ZPT101397,CUST1761,Bhavna Yadav,Colgate Toothpaste 200g,Personal Care,7,69.5,2023-09-10,Returned
+ZPT101398,CUST3818,Anita Dubey,India Gate Basmati 1kg,Staples,4,471.39,2023-09-10,Pending
+ZPT101399,CUST4163,Vijay Kumar,Epigamia Greek Yogurt 90g,Dairy,7,549.86,2023-06-07,Processing
+ZPT101400,CUST3254,Lakshmi Bose,Saffola Gold Oil 1L,Oils,9,37.18,2024-03-31,Cancelled
+ZPT101401,CUST4796,Bhavna Yadav,Colgate Toothpaste 200g,Personal Care,10,512.56,2024-07-02,Cancelled
+ZPT101402,CUST2448,Deepak Mishra,Tropicana Guava 1L,Juices,1,52.51,2023-08-07,Delivered
+ZPT101403,CUST3855,Priya Mehta,Nescafe Classic 50g,Beverages,4,925.78,2023-02-05,Delivered
+ZPT101404,CUST2726,Tarun Banerjee,Minute Maid Orange 1L,Juices,7,773.22,2023-08-11,Returned
+ZPT101405,CUST1412,Rahul Joshi,India Gate Basmati 1kg,Staples,3,87.17,2024-09-24,Delivered
+ZPT101406,CUST1175,Varun Saxena,Tata Salt 1kg,Staples,3,536.06,2024-12-20,Cancelled
+ZPT101407,CUST4628,Nisha Pandey,Britannia Bread 400g,Bakery,4,846.36,2023-07-24,Delivered
+ZPT101408,CUST4010,Arjun Patel,Epigamia Greek Yogurt 90g,Dairy,3,758.74,2024-01-25,Delivered
+ZPT101409,CUST3693,Shreya Agarwal,Nescafe Classic 50g,Beverages,9,537.05,2024-08-23,Delivered
+ZPT101410,CUST3015,Varun Saxena,Nescafe Classic 50g,Beverages,10,468.27,2024-10-19,Delivered
+ZPT101411,CUST1769,Pranav Jain,Pilsbury Maida 1kg,Staples,9,684.27,2023-09-07,Delivered
+ZPT101412,CUST2730,Preeti Trivedi,Vim Dishwash Bar 200g,Cleaning,6,451.08,2023-02-14,Pending
+ZPT101413,CUST4153,Rohan Verma,Britannia Bread 400g,Bakery,3,505.98,2024-12-31,Delivered
+ZPT101414,CUST4713,Suresh Rao,Haldiram Bhujia 200g,Snacks,3,152.2,2023-03-08,Returned
+ZPT101415,CUST3693,Swati Kulkarni,Britannia Bread 400g,Bakery,5,867.23,2023-01-17,Delivered
+ZPT101416,CUST3093,Mohit Bhatt,Parle-G Biscuits 100g,Biscuits,8,555.28,2024-01-26,Delivered
+ZPT101417,CUST3818,Preeti Trivedi,Paper Boat Aam Panna 250ml,Juices,2,950.38,2024-08-10,Delivered
+ZPT101418,CUST2325,Pranav Jain,Maggi Noodles 70g,Instant Food,8,369.33,2023-01-29,Delivered
+ZPT101419,CUST3559,Harsh Malhotra,Paper Boat Aam Panna 250ml,Juices,10,283.58,2024-06-30,Returned
+ZPT101420,CUST2909,Manish Tiwari,Tata Salt 1kg,Staples,9,35.34,2024-04-19,Delivered
+ZPT101421,CUST3625,Sunita Rawat,Epigamia Greek Yogurt 90g,Dairy,10,361.75,2024-04-27,Delivered
+ZPT101422,CUST4203,Farhan Qureshi,Britannia Bread 400g,Bakery,2,371.44,2024-07-11,Delivered
+ZPT101423,CUST1804,Suresh Rao,Real Fruit Juice 1L,Juices,8,304.06,2024-06-24,Delivered
+ZPT101424,CUST4415,Mohit Bhatt,Haldiram Bhujia 200g,Snacks,8,649.96,2024-10-22,Delivered
+ZPT101425,CUST3412,Rohan Verma,Vim Dishwash Bar 200g,Cleaning,10,359.56,2024-03-19,Processing
+ZPT101426,CUST4749,Anjali Menon,Paper Boat Aam Panna 250ml,Juices,4,608.04,2024-11-14,Cancelled
+ZPT101427,CUST3540,Bhavna Yadav,Nescafe Classic 50g,Beverages,5,48.44,2024-01-29,Delivered
+ZPT101428,CUST3739,Suresh Rao,Aashirvaad Atta 5kg,Staples,4,749.63,2023-01-31,Delivered
+ZPT101429,CUST1979,Sunita Rawat,Harpic Toilet Cleaner 500ml,Cleaning,7,603.21,2024-02-05,Delivered
+ZPT101430,CUST4568,Priya Mehta,Amul Butter 500g,Dairy,10,31.5,2024-10-11,Cancelled
+ZPT101431,CUST2736,Riya Desai,Good Day Cashew 87g,Biscuits,9,460.4,2024-01-16,Pending
+ZPT101432,CUST2808,Aditi Choudhary,Kellogg's Corn Flakes 250g,Breakfast,8,183.56,2024-01-22,Delivered
+ZPT101433,CUST1697,Aditi Choudhary,Coca-Cola 1.25L,Cold Drinks,10,616.34,2023-05-23,Delivered
+ZPT101434,CUST3012,Preeti Trivedi,Amul Milk 1L,Dairy,7,370.72,2024-12-06,Processing
+ZPT101435,CUST1434,Priya Mehta,Too Yumm Multigrain 60g,Snacks,7,212.86,2024-11-04,Delivered
+ZPT101436,CUST1807,Pooja Reddy,Lays Cream Onion 26g,Snacks,10,476.96,2023-01-26,Delivered
+ZPT101437,CUST4161,Rajesh Sinha,Kellogg's Corn Flakes 250g,Breakfast,3,924.27,2024-10-29,Cancelled
+ZPT101438,CUST2483,Pranav Jain,Vim Dishwash Bar 200g,Cleaning,10,111.24,2024-06-15,Delivered
+ZPT101439,CUST3933,Suresh Rao,Sunfeast Dark Fantasy 75g,Biscuits,2,540.66,2024-01-19,Delivered
+ZPT101440,CUST3132,Nikhil Chopra,Ariel Washing Powder 500g,Cleaning,7,208.66,2023-09-28,Delivered
+ZPT101441,CUST3756,Divya Pillai,Pilsbury Maida 1kg,Staples,9,434.1,2024-03-15,Pending
+ZPT101442,CUST2723,Nisha Pandey,Hide & Seek Biscuits 100g,Biscuits,4,606.97,2024-01-03,Cancelled
+ZPT101443,CUST4901,Deepak Mishra,Bournvita 500g,Beverages,5,649.59,2024-01-22,Cancelled
+ZPT101444,CUST1432,Lakshmi Bose,Epigamia Greek Yogurt 90g,Dairy,4,786.64,2023-09-21,Delivered
+ZPT101445,CUST3166,Swati Kulkarni,Maggi Noodles 70g,Instant Food,9,693.45,2023-03-06,Delivered
+ZPT101446,CUST1839,Vijay Kumar,India Gate Basmati 1kg,Staples,7,386.39,2024-09-03,Delivered
+ZPT101447,CUST2147,Swati Kulkarni,Quaker Oats 500g,Breakfast,7,506.48,2024-11-25,Delivered
+ZPT101448,CUST4325,Tarun Banerjee,Fortune Sunflower Oil 1L,Oils,7,220.26,2023-04-21,Processing
+ZPT101449,CUST1992,Riya Desai,Britannia Bread 400g,Bakery,3,826.75,2024-02-11,Delivered
+ZPT101450,CUST2336,Neha Gupta,Hide & Seek Biscuits 100g,Biscuits,2,797.17,2024-04-21,Delivered
+ZPT101451,CUST1077,Sneha Iyer,Epigamia Greek Yogurt 90g,Dairy,2,831.03,2023-03-16,Delivered
+ZPT101452,CUST2504,Anita Dubey,Mother Dairy Curd 400g,Dairy,1,923.98,2024-03-07,Delivered
+ZPT101453,CUST4571,Nikhil Chopra,Saffola Gold Oil 1L,Oils,7,279.45,2024-05-24,Delivered
+ZPT101454,CUST2602,Tarun Banerjee,Maggi Noodles 70g,Instant Food,10,558.03,2024-01-04,Delivered
+ZPT101455,CUST3996,Farhan Qureshi,Britannia Bread 400g,Bakery,3,74.03,2024-02-07,Pending
+ZPT101456,CUST3781,Preeti Trivedi,Aashirvaad Atta 5kg,Staples,4,709.03,2023-11-24,Cancelled
+ZPT101457,CUST1240,Arjun Patel,Minute Maid Orange 1L,Juices,9,729.86,2023-12-24,Processing
+ZPT101458,CUST3134,Tarun Banerjee,Kellogg's Corn Flakes 250g,Breakfast,7,769.49,2023-07-09,Delivered
+ZPT101459,CUST4504,Deepak Mishra,Minute Maid Orange 1L,Juices,2,589.54,2024-10-29,Pending
+ZPT101460,CUST4627,Neha Gupta,India Gate Basmati 1kg,Staples,5,474.64,2024-07-06,Delivered
+ZPT101461,CUST2445,Nikhil Chopra,Fortune Sunflower Oil 1L,Oils,10,392.71,2023-10-18,Delivered
+ZPT101462,CUST3762,Kiran Nair,Britannia Bread 400g,Bakery,10,729.33,2024-06-08,Pending
+ZPT101463,CUST1169,Varun Saxena,Amul Milk 1L,Dairy,7,509.11,2023-09-14,Cancelled
+ZPT101464,CUST3305,Kavya Nair,Sunfeast Dark Fantasy 75g,Biscuits,1,113.1,2024-05-15,Delivered
+ZPT101465,CUST3200,Meera Thomas,Good Day Cashew 87g,Biscuits,2,326.03,2024-06-12,Delivered
+ZPT101466,CUST1176,Swati Kulkarni,Sunfeast Dark Fantasy 75g,Biscuits,1,975.52,2024-02-02,Delivered
+ZPT101467,CUST2475,Shreya Agarwal,Paper Boat Aam Panna 250ml,Juices,7,306.59,2024-06-03,Processing
+ZPT101468,CUST2528,Shreya Agarwal,Dove Shampoo 180ml,Personal Care,10,971.31,2024-05-03,Returned
+ZPT101469,CUST3548,Vijay Kumar,Good Day Cashew 87g,Biscuits,2,888.8,2024-05-10,Cancelled
+ZPT101470,CUST4970,Swati Kulkarni,Bournvita 500g,Beverages,1,291.75,2023-08-07,Pending
+ZPT101471,CUST3267,Rohan Verma,Maggi Noodles 70g,Instant Food,7,793.28,2023-06-04,Delivered
+ZPT101472,CUST1229,Rahul Joshi,MTR Poha 500g,Breakfast,8,827.46,2023-06-28,Processing
+ZPT101473,CUST3448,Aarav Shah,Tropicana Guava 1L,Juices,1,853.82,2023-06-15,Cancelled
+ZPT101474,CUST1403,Rajesh Sinha,Real Fruit Juice 1L,Juices,1,117.9,2024-08-31,Pending
+ZPT101475,CUST1674,Harsh Malhotra,Ariel Washing Powder 500g,Cleaning,10,507.46,2023-05-11,Delivered
+ZPT101476,CUST3988,Aarav Shah,Mother Dairy Curd 400g,Dairy,7,737.07,2024-09-26,Delivered
+ZPT101477,CUST4222,Vijay Kumar,Amul Butter 500g,Dairy,2,882.44,2024-06-17,Delivered
+ZPT101478,CUST4194,Aarav Shah,Dove Shampoo 180ml,Personal Care,7,601.83,2024-10-14,Delivered
+ZPT101479,CUST2870,Anita Dubey,Pilsbury Maida 1kg,Staples,2,271.18,2023-03-03,Returned
+ZPT101480,CUST4915,Tarun Banerjee,India Gate Basmati 1kg,Staples,5,788.87,2023-05-13,Processing
+ZPT101481,CUST3773,Sunita Rawat,Lays Cream Onion 26g,Snacks,4,302.85,2024-02-21,Delivered
+ZPT101482,CUST2172,Preeti Trivedi,Tropicana Guava 1L,Juices,6,791.52,2023-06-22,Processing
+ZPT101483,CUST3063,Riya Desai,Good Day Cashew 87g,Biscuits,2,192.51,2024-08-25,Delivered
+ZPT101484,CUST4382,Rahul Joshi,Harpic Toilet Cleaner 500ml,Cleaning,1,408.21,2023-05-18,Pending
+ZPT101485,CUST3647,Bhavna Yadav,Tropicana Guava 1L,Juices,6,977.53,2024-09-10,Cancelled
+ZPT101486,CUST4593,Kiran Nair,Pilsbury Maida 1kg,Staples,2,996.36,2023-02-13,Delivered
+ZPT101487,CUST3998,Harsh Malhotra,Red Bull 250ml,Energy Drinks,3,813.1,2023-11-14,Returned
+ZPT101488,CUST1575,Shreya Agarwal,Sunfeast Dark Fantasy 75g,Biscuits,8,545.69,2023-04-02,Returned
+ZPT101489,CUST3379,Mohit Bhatt,Haldiram Bhujia 200g,Snacks,6,728.93,2024-10-09,Delivered
+ZPT101490,CUST4704,Sunita Rawat,Epigamia Greek Yogurt 90g,Dairy,9,21.12,2024-05-10,Delivered
+ZPT101491,CUST2155,Rohan Verma,Ariel Washing Powder 500g,Cleaning,9,156.95,2024-01-14,Delivered
+ZPT101492,CUST1278,Preeti Trivedi,Good Day Cashew 87g,Biscuits,5,193.04,2023-09-18,Processing
+ZPT101493,CUST1601,Sanjay Das,Dove Shampoo 180ml,Personal Care,2,41.49,2023-11-01,Delivered
+ZPT101494,CUST1302,Kavya Nair,Haldiram Bhujia 200g,Snacks,5,148.54,2024-01-22,Delivered
+ZPT101495,CUST4987,Riya Desai,Dettol Soap 75g,Personal Care,5,245.51,2023-08-05,Delivered
+ZPT101496,CUST1092,Harsh Malhotra,Saffola Gold Oil 1L,Oils,5,359.89,2024-05-21,Delivered
+ZPT101497,CUST4132,Harsh Malhotra,Too Yumm Multigrain 60g,Snacks,8,392.99,2023-03-23,Returned
+ZPT101498,CUST3072,Pooja Reddy,Bournvita 500g,Beverages,2,476.37,2023-03-03,Delivered
+ZPT101499,CUST4708,Riya Desai,Vim Dishwash Bar 200g,Cleaning,4,759.89,2024-12-25,Returned
+ZPT101500,CUST3758,Pranav Jain,Paper Boat Aam Panna 250ml,Juices,10,993.56,2024-10-07,Delivered
+ZPT101501,CUST1960,Riya Desai,Real Fruit Juice 1L,Juices,6,480.26,2024-11-07,Returned
+ZPT101502,CUST3693,Harsh Malhotra,Bournvita 500g,Beverages,9,403.29,2024-11-20,Delivered
+ZPT101503,CUST2129,Rahul Joshi,Bournvita 500g,Beverages,7,357.25,2023-11-27,Delivered
+ZPT101504,CUST2010,Swati Kulkarni,Sprite 750ml,Cold Drinks,3,398.38,2023-09-10,Delivered
+ZPT101505,CUST4070,Sanjay Das,Amul Butter 500g,Dairy,9,403.67,2024-10-30,Delivered
+ZPT101506,CUST4959,Anita Dubey,Nescafe Classic 50g,Beverages,5,354.79,2024-05-13,Pending
+ZPT101507,CUST4810,Pranav Jain,Red Bull 250ml,Energy Drinks,8,764.23,2023-11-02,Delivered
+ZPT101508,CUST4480,Meera Thomas,Epigamia Greek Yogurt 90g,Dairy,2,578.11,2023-04-10,Pending
+ZPT101509,CUST3477,Nikhil Chopra,Aashirvaad Atta 5kg,Staples,3,801.53,2023-04-14,Delivered
+ZPT101510,CUST4238,Lakshmi Bose,India Gate Basmati 1kg,Staples,2,51.33,2024-02-23,Delivered
+ZPT101511,CUST4779,Nisha Pandey,Tropicana Guava 1L,Juices,8,158.41,2023-08-06,Pending
+ZPT101512,CUST4405,Aditi Choudhary,India Gate Basmati 1kg,Staples,10,70.19,2024-09-09,Delivered
+ZPT101513,CUST4906,Deepak Mishra,Haldiram Bhujia 200g,Snacks,1,685.03,2024-08-14,Delivered
+ZPT101514,CUST1540,Tarun Banerjee,Aashirvaad Atta 5kg,Staples,10,53.84,2024-10-04,Delivered
+ZPT101515,CUST3554,Anita Dubey,India Gate Basmati 1kg,Staples,7,746.56,2024-05-17,Pending
+ZPT101516,CUST2700,Aarav Shah,Quaker Oats 500g,Breakfast,9,788.76,2024-01-13,Delivered
+ZPT101517,CUST4379,Rohan Verma,Tropicana Guava 1L,Juices,10,23.69,2023-02-25,Delivered
+ZPT101518,CUST4378,Sunita Rawat,Nescafe Classic 50g,Beverages,5,497.54,2023-02-25,Pending
+ZPT101519,CUST3234,Sanjay Das,Nescafe Classic 50g,Beverages,7,714.6,2024-01-29,Processing
+ZPT101520,CUST2330,Rajesh Sinha,Lays Cream Onion 26g,Snacks,8,66.65,2024-05-06,Returned
+ZPT101521,CUST3138,Suresh Rao,Real Fruit Juice 1L,Juices,6,411.47,2024-09-20,Cancelled
+ZPT101522,CUST4268,Meera Thomas,Good Day Cashew 87g,Biscuits,3,346.5,2023-12-08,Delivered
+ZPT101523,CUST4025,Divya Pillai,Real Fruit Juice 1L,Juices,3,16.75,2023-12-20,Delivered
+ZPT101524,CUST2559,Mohit Bhatt,Too Yumm Multigrain 60g,Snacks,6,801.0,2023-07-30,Returned
+ZPT101525,CUST2859,Meera Thomas,Vim Dishwash Bar 200g,Cleaning,9,423.28,2023-08-25,Delivered
+ZPT101526,CUST3173,Meera Thomas,MTR Poha 500g,Breakfast,9,769.05,2024-06-15,Pending
+ZPT101527,CUST2564,Pranav Jain,Vim Dishwash Bar 200g,Cleaning,6,144.21,2023-04-05,Processing
+ZPT101528,CUST4352,Meera Thomas,Aashirvaad Atta 5kg,Staples,3,398.54,2023-10-22,Delivered
+ZPT101529,CUST2751,Kiran Nair,Colgate Toothpaste 200g,Personal Care,5,291.53,2024-07-26,Processing
+ZPT101530,CUST3866,Amit Sharma,Parle-G Biscuits 100g,Biscuits,5,166.36,2024-02-06,Delivered
+ZPT101531,CUST4454,Amit Sharma,Mother Dairy Curd 400g,Dairy,2,173.57,2023-12-06,Returned
+ZPT101532,CUST1081,Rajesh Sinha,Bournvita 500g,Beverages,8,653.31,2023-09-25,Delivered
+ZPT101533,CUST4398,Ananya Singh,Pilsbury Maida 1kg,Staples,2,89.6,2024-04-06,Delivered
+ZPT101534,CUST4451,Anjali Menon,Colgate Toothpaste 200g,Personal Care,10,704.48,2023-06-14,Cancelled
+ZPT101535,CUST2631,Nisha Pandey,Surf Excel 1kg,Cleaning,5,760.48,2024-04-15,Delivered
+ZPT101536,CUST2453,Neha Gupta,Lays Cream Onion 26g,Snacks,7,227.29,2023-06-02,Delivered
+ZPT101537,CUST2759,Neha Gupta,Colgate Toothpaste 200g,Personal Care,2,837.62,2023-12-04,Cancelled
+ZPT101538,CUST3065,Lakshmi Bose,Tropicana Guava 1L,Juices,4,72.55,2023-09-14,Delivered
+ZPT101539,CUST3892,Riya Desai,Colgate Toothpaste 200g,Personal Care,7,56.58,2023-10-20,Processing
+ZPT101540,CUST1423,Nikhil Chopra,Surf Excel 1kg,Cleaning,10,49.31,2024-08-20,Processing
+ZPT101541,CUST2155,Neha Gupta,Amul Milk 1L,Dairy,1,23.08,2023-09-30,Delivered
+ZPT101542,CUST3062,Swati Kulkarni,Sprite 750ml,Cold Drinks,3,77.07,2024-04-18,Cancelled
+ZPT101543,CUST3004,Kiran Nair,Coca-Cola 1.25L,Cold Drinks,9,319.8,2024-03-19,Delivered
+ZPT101544,CUST3551,Pranav Jain,Harpic Toilet Cleaner 500ml,Cleaning,5,456.94,2024-02-27,Delivered
+ZPT101545,CUST1594,Rahul Joshi,Pilsbury Maida 1kg,Staples,8,487.08,2024-05-26,Returned
+ZPT101546,CUST2686,Riya Desai,Dettol Soap 75g,Personal Care,2,150.7,2024-06-24,Pending
+ZPT101547,CUST1886,Divya Pillai,Dove Shampoo 180ml,Personal Care,2,877.08,2024-09-23,Processing
+ZPT101548,CUST3262,Simran Kaur,Bournvita 500g,Beverages,4,735.49,2024-03-19,Delivered
+ZPT101549,CUST4015,Pranav Jain,Good Day Cashew 87g,Biscuits,8,506.36,2024-01-09,Returned
+ZPT101550,CUST3977,Arjun Patel,Paper Boat Aam Panna 250ml,Juices,10,737.39,2023-04-06,Delivered
+ZPT101551,CUST3597,Lakshmi Bose,Red Bull 250ml,Energy Drinks,7,488.96,2023-07-19,Processing
+ZPT101552,CUST1657,Priya Mehta,Haldiram Bhujia 200g,Snacks,2,918.27,2024-11-13,Delivered
+ZPT101553,CUST2290,Harsh Malhotra,Fortune Rice 5kg,Staples,5,170.78,2023-11-09,Delivered
+ZPT101554,CUST2952,Kiran Nair,Coca-Cola 1.25L,Cold Drinks,6,627.18,2024-05-07,Processing
+ZPT101555,CUST2409,Arjun Patel,Tropicana Guava 1L,Juices,7,736.08,2023-03-18,Processing
+ZPT101556,CUST4031,Swati Kulkarni,Dove Shampoo 180ml,Personal Care,2,510.11,2024-10-15,Pending
+ZPT101557,CUST2645,Anita Dubey,Minute Maid Orange 1L,Juices,10,480.39,2023-10-09,Delivered
+ZPT101558,CUST3665,Lakshmi Bose,Dettol Soap 75g,Personal Care,9,463.04,2024-09-04,Delivered
+ZPT101559,CUST4027,Anjali Menon,Dove Shampoo 180ml,Personal Care,5,402.15,2023-01-08,Returned
+ZPT101560,CUST3014,Anita Dubey,Kellogg's Corn Flakes 250g,Breakfast,9,861.18,2024-11-15,Delivered
+ZPT101561,CUST3111,Bhavna Yadav,Sprite 750ml,Cold Drinks,10,894.4,2024-05-26,Delivered
+ZPT101562,CUST4106,Nikhil Chopra,Amul Milk 1L,Dairy,7,421.19,2023-12-15,Delivered
+ZPT101563,CUST4621,Harsh Malhotra,Fortune Sunflower Oil 1L,Oils,2,389.4,2023-06-09,Delivered
+ZPT101564,CUST3667,Arjun Patel,MTR Poha 500g,Breakfast,6,576.63,2023-05-15,Pending
+ZPT101565,CUST4405,Rohan Verma,Aashirvaad Atta 5kg,Staples,7,366.33,2024-01-27,Delivered
+ZPT101566,CUST1309,Kavya Nair,Parle-G Biscuits 100g,Biscuits,1,60.55,2023-12-03,Delivered
+ZPT101567,CUST3429,Manish Tiwari,Fortune Sunflower Oil 1L,Oils,10,259.85,2024-01-12,Delivered
+ZPT101568,CUST2434,Swati Kulkarni,MTR Poha 500g,Breakfast,1,56.21,2024-06-16,Delivered
+ZPT101569,CUST3936,Manish Tiwari,Fortune Sunflower Oil 1L,Oils,7,576.81,2023-11-09,Delivered
+ZPT101570,CUST2603,Swati Kulkarni,Epigamia Greek Yogurt 90g,Dairy,8,382.96,2024-01-25,Delivered
+ZPT101571,CUST2059,Rohan Verma,Harpic Toilet Cleaner 500ml,Cleaning,6,943.85,2023-12-26,Pending
+ZPT101572,CUST4349,Gaurav Kapoor,Sunfeast Dark Fantasy 75g,Biscuits,4,772.67,2023-09-22,Processing
+ZPT101573,CUST1987,Harsh Malhotra,Parle-G Biscuits 100g,Biscuits,9,849.97,2024-07-15,Processing
+ZPT101574,CUST1620,Tarun Banerjee,Minute Maid Orange 1L,Juices,2,202.73,2024-01-21,Pending
+ZPT101575,CUST1824,Arjun Patel,Tropicana Guava 1L,Juices,9,799.54,2023-01-18,Pending
+ZPT101576,CUST3536,Bhavna Yadav,Aashirvaad Atta 5kg,Staples,7,779.7,2024-03-19,Delivered
+ZPT101577,CUST1676,Vijay Kumar,Hide & Seek Biscuits 100g,Biscuits,6,772.77,2024-07-06,Processing
+ZPT101578,CUST3509,Amit Sharma,Britannia Bread 400g,Bakery,10,115.57,2023-01-20,Cancelled
+ZPT101579,CUST2500,Farhan Qureshi,Sunfeast Dark Fantasy 75g,Biscuits,7,164.04,2023-10-19,Delivered
+ZPT101580,CUST3608,Ananya Singh,Colgate Toothpaste 200g,Personal Care,10,252.27,2023-06-19,Returned
+ZPT101581,CUST3128,Bhavna Yadav,Mother Dairy Curd 400g,Dairy,3,555.13,2024-06-04,Pending
+ZPT101582,CUST3555,Nisha Pandey,Minute Maid Orange 1L,Juices,4,829.39,2024-08-02,Delivered
+ZPT101583,CUST3155,Meera Thomas,Coca-Cola 1.25L,Cold Drinks,6,968.3,2024-10-17,Delivered
+ZPT101584,CUST1897,Pooja Reddy,Parle-G Biscuits 100g,Biscuits,6,769.73,2023-10-19,Processing
+ZPT101585,CUST1872,Amit Sharma,Sprite 750ml,Cold Drinks,5,616.3,2023-01-24,Returned
+ZPT101586,CUST3162,Aarav Shah,Britannia Bread 400g,Bakery,2,746.39,2024-05-03,Cancelled
+ZPT101587,CUST1866,Swati Kulkarni,Kellogg's Corn Flakes 250g,Breakfast,10,443.79,2024-10-20,Pending
+ZPT101588,CUST3906,Rajesh Sinha,Saffola Gold Oil 1L,Oils,3,497.82,2024-01-20,Delivered
+ZPT101589,CUST1258,Arjun Patel,Amul Milk 1L,Dairy,5,865.92,2023-08-23,Processing
+ZPT101590,CUST3977,Divya Pillai,Dove Shampoo 180ml,Personal Care,9,614.52,2024-08-25,Returned
+ZPT101591,CUST3143,Varun Saxena,Paper Boat Aam Panna 250ml,Juices,3,774.46,2024-11-04,Delivered
+ZPT101592,CUST1358,Nikhil Chopra,Amul Butter 500g,Dairy,1,784.05,2024-09-07,Pending
+ZPT101593,CUST1114,Pooja Reddy,Dove Shampoo 180ml,Personal Care,10,247.39,2024-11-11,Delivered
+ZPT101594,CUST4126,Bhavna Yadav,Sunfeast Dark Fantasy 75g,Biscuits,7,828.11,2024-05-20,Pending
+ZPT101595,CUST4251,Sunita Rawat,India Gate Basmati 1kg,Staples,2,771.97,2023-08-10,Pending
+ZPT101596,CUST1129,Sanjay Das,Colgate Toothpaste 200g,Personal Care,9,780.65,2024-09-21,Processing
+ZPT101597,CUST1967,Lakshmi Bose,Parle-G Biscuits 100g,Biscuits,1,910.17,2024-05-20,Delivered
+ZPT101598,CUST1052,Kavya Nair,Bournvita 500g,Beverages,7,630.68,2024-01-24,Cancelled
+ZPT101599,CUST3924,Farhan Qureshi,Tata Salt 1kg,Staples,1,105.68,2023-02-08,Delivered
+ZPT101600,CUST3071,Amit Sharma,Colgate Toothpaste 200g,Personal Care,5,397.49,2024-09-12,Delivered
+ZPT101601,CUST1761,Suresh Rao,Haldiram Bhujia 200g,Snacks,1,769.3,2024-05-26,Delivered
+ZPT101602,CUST4429,Priya Mehta,Nescafe Classic 50g,Beverages,6,202.86,2024-06-06,Delivered
+ZPT101603,CUST3651,Preeti Trivedi,Parle-G Biscuits 100g,Biscuits,2,780.79,2024-06-20,Delivered
+ZPT101604,CUST2378,Anjali Menon,Tata Salt 1kg,Staples,10,432.85,2024-01-22,Returned
+ZPT101605,CUST2329,Rohan Verma,Colgate Toothpaste 200g,Personal Care,3,633.95,2023-06-30,Delivered
+ZPT101606,CUST4395,Gaurav Kapoor,Epigamia Greek Yogurt 90g,Dairy,5,735.01,2023-06-30,Processing
+ZPT101607,CUST2185,Anjali Menon,Amul Butter 500g,Dairy,3,842.05,2024-09-23,Returned
+ZPT101608,CUST2230,Meera Thomas,Vim Dishwash Bar 200g,Cleaning,5,157.77,2024-09-14,Cancelled
+ZPT101609,CUST1775,Vijay Kumar,Nescafe Classic 50g,Beverages,1,972.35,2024-12-14,Cancelled
+ZPT101610,CUST3086,Gaurav Kapoor,Amul Butter 500g,Dairy,9,697.88,2023-06-17,Returned
+ZPT101611,CUST3646,Pooja Reddy,Fortune Sunflower Oil 1L,Oils,9,555.67,2023-03-07,Processing
+ZPT101612,CUST2535,Tarun Banerjee,Surf Excel 1kg,Cleaning,5,387.08,2023-03-22,Returned
+ZPT101613,CUST1510,Divya Pillai,Aashirvaad Atta 5kg,Staples,4,639.43,2024-02-07,Delivered
+ZPT101614,CUST4081,Arjun Patel,Vim Dishwash Bar 200g,Cleaning,2,80.88,2023-05-30,Delivered
+ZPT101615,CUST3931,Nikhil Chopra,Kellogg's Corn Flakes 250g,Breakfast,1,140.67,2023-05-06,Delivered
+ZPT101616,CUST1451,Riya Desai,Epigamia Greek Yogurt 90g,Dairy,7,699.69,2024-05-22,Returned
+ZPT101617,CUST1120,Kiran Nair,Dettol Soap 75g,Personal Care,7,326.04,2024-09-12,Cancelled
+ZPT101618,CUST1186,Kiran Nair,Harpic Toilet Cleaner 500ml,Cleaning,2,622.94,2023-09-30,Returned
+ZPT101619,CUST2620,Pranav Jain,Real Fruit Juice 1L,Juices,10,64.85,2023-04-17,Delivered
+ZPT101620,CUST2825,Kiran Nair,Lays Cream Onion 26g,Snacks,7,706.21,2023-03-19,Delivered
+ZPT101621,CUST4078,Rahul Joshi,Parle-G Biscuits 100g,Biscuits,1,966.87,2024-11-02,Pending
+ZPT101622,CUST4458,Nikhil Chopra,Amul Butter 500g,Dairy,8,381.95,2023-01-09,Delivered
+ZPT101623,CUST2732,Manish Tiwari,Pilsbury Maida 1kg,Staples,1,89.44,2024-01-22,Cancelled
+ZPT101624,CUST2084,Preeti Trivedi,Amul Milk 1L,Dairy,10,354.07,2023-01-07,Delivered
+ZPT101625,CUST1352,Arjun Patel,Tropicana Guava 1L,Juices,10,868.66,2024-12-09,Delivered
+ZPT101626,CUST2731,Mohit Bhatt,Hide & Seek Biscuits 100g,Biscuits,4,67.76,2024-11-19,Pending
+ZPT101627,CUST1151,Sanjay Das,Ariel Washing Powder 500g,Cleaning,2,993.92,2023-12-21,Processing
+ZPT101628,CUST1111,Rahul Joshi,Colgate Toothpaste 200g,Personal Care,1,355.27,2024-01-06,Cancelled
+ZPT101629,CUST2316,Amit Sharma,Kellogg's Corn Flakes 250g,Breakfast,9,859.35,2023-11-13,Returned
+ZPT101630,CUST1195,Kavya Nair,Amul Butter 500g,Dairy,3,795.87,2023-03-05,Delivered
+ZPT101631,CUST2541,Farhan Qureshi,Good Day Cashew 87g,Biscuits,9,951.31,2023-07-01,Delivered
+ZPT101632,CUST4204,Harsh Malhotra,Saffola Gold Oil 1L,Oils,8,540.59,2024-03-19,Delivered
+ZPT101633,CUST4959,Arjun Patel,Mother Dairy Curd 400g,Dairy,5,191.74,2024-01-01,Delivered
+ZPT101634,CUST3975,Suresh Rao,Vim Dishwash Bar 200g,Cleaning,6,872.47,2024-01-15,Pending
+ZPT101635,CUST4850,Preeti Trivedi,Saffola Gold Oil 1L,Oils,3,186.78,2023-01-02,Delivered
+ZPT101636,CUST4342,Bhavna Yadav,Sunfeast Dark Fantasy 75g,Biscuits,2,278.34,2023-07-14,Delivered
+ZPT101637,CUST2969,Suresh Rao,Lays Cream Onion 26g,Snacks,9,904.55,2023-02-11,Delivered
+ZPT101638,CUST1685,Deepak Mishra,Too Yumm Multigrain 60g,Snacks,8,896.17,2024-05-22,Delivered
+ZPT101639,CUST2397,Sunita Rawat,Lay's Classic Chips 26g,Snacks,9,565.9,2023-09-02,Delivered
+ZPT101640,CUST1171,Priya Mehta,India Gate Basmati 1kg,Staples,4,949.55,2023-04-16,Delivered
+ZPT101641,CUST4086,Shreya Agarwal,Bournvita 500g,Beverages,10,389.33,2023-03-23,Processing
+ZPT101642,CUST4697,Sneha Iyer,Ariel Washing Powder 500g,Cleaning,10,450.06,2024-12-16,Cancelled
+ZPT101643,CUST2352,Arjun Patel,Bournvita 500g,Beverages,1,716.83,2024-05-31,Delivered
+ZPT101644,CUST3202,Divya Pillai,Tata Salt 1kg,Staples,5,342.55,2024-01-03,Delivered
+ZPT101645,CUST3777,Rahul Joshi,Amul Butter 500g,Dairy,7,676.24,2023-02-18,Returned
+ZPT101646,CUST2340,Meera Thomas,Tata Salt 1kg,Staples,10,681.62,2023-03-26,Delivered
+ZPT101647,CUST3247,Suresh Rao,Paper Boat Aam Panna 250ml,Juices,4,647.13,2023-07-08,Delivered
+ZPT101648,CUST2548,Ananya Singh,Minute Maid Orange 1L,Juices,1,78.18,2024-04-15,Cancelled
+ZPT101649,CUST3025,Tarun Banerjee,Parle-G Biscuits 100g,Biscuits,5,772.04,2024-06-06,Delivered
+ZPT101650,CUST2293,Sanjay Das,Britannia Bread 400g,Bakery,1,827.01,2024-10-29,Delivered
+ZPT101651,CUST3862,Rahul Joshi,Dove Shampoo 180ml,Personal Care,9,617.32,2023-04-11,Returned
+ZPT101652,CUST2822,Nikhil Chopra,Pilsbury Maida 1kg,Staples,6,927.34,2024-09-12,Delivered
+ZPT101653,CUST2228,Swati Kulkarni,Britannia Bread 400g,Bakery,8,293.17,2023-02-09,Pending
+ZPT101654,CUST4830,Sanjay Das,Lay's Classic Chips 26g,Snacks,2,266.39,2023-07-27,Delivered
+ZPT101655,CUST4566,Kavya Nair,Coca-Cola 1.25L,Cold Drinks,8,767.92,2024-06-09,Processing
+ZPT101656,CUST2184,Sneha Iyer,India Gate Basmati 1kg,Staples,9,990.77,2024-01-19,Delivered
+ZPT101657,CUST2892,Rahul Joshi,Vim Dishwash Bar 200g,Cleaning,1,574.9,2024-06-28,Delivered
+ZPT101658,CUST3417,Priya Mehta,Real Fruit Juice 1L,Juices,10,664.6,2023-03-27,Delivered
+ZPT101659,CUST4073,Kiran Nair,Mother Dairy Curd 400g,Dairy,2,884.23,2023-01-27,Cancelled
+ZPT101660,CUST1918,Mohit Bhatt,Surf Excel 1kg,Cleaning,10,603.28,2023-01-04,Returned
+ZPT101661,CUST1290,Shreya Agarwal,Parle-G Biscuits 100g,Biscuits,6,528.22,2024-02-24,Delivered
+ZPT101662,CUST3974,Pooja Reddy,Red Bull 250ml,Energy Drinks,5,599.22,2023-05-14,Delivered
+ZPT101663,CUST1920,Tarun Banerjee,Ariel Washing Powder 500g,Cleaning,3,554.11,2023-05-12,Delivered
+ZPT101664,CUST3185,Amit Sharma,Coca-Cola 1.25L,Cold Drinks,7,807.87,2023-02-05,Delivered
+ZPT101665,CUST2674,Simran Kaur,Coca-Cola 1.25L,Cold Drinks,8,573.37,2024-04-05,Delivered
+ZPT101666,CUST4975,Sunita Rawat,Fortune Sunflower Oil 1L,Oils,7,816.96,2023-04-23,Processing
+ZPT101667,CUST3699,Rajesh Sinha,Britannia Bread 400g,Bakery,9,128.92,2023-03-26,Delivered
+ZPT101668,CUST4986,Varun Saxena,Nescafe Classic 50g,Beverages,6,864.64,2024-07-28,Pending
+ZPT101669,CUST1809,Swati Kulkarni,Dettol Soap 75g,Personal Care,10,518.61,2023-12-04,Cancelled
+ZPT101670,CUST4651,Varun Saxena,Fortune Sunflower Oil 1L,Oils,10,221.76,2024-12-06,Returned
+ZPT101671,CUST2529,Sneha Iyer,Quaker Oats 500g,Breakfast,1,395.37,2023-01-01,Delivered
+ZPT101672,CUST3489,Deepak Mishra,Fortune Rice 5kg,Staples,1,929.37,2023-11-27,Delivered
+ZPT101673,CUST3913,Gaurav Kapoor,Dettol Soap 75g,Personal Care,7,32.59,2023-03-25,Delivered
+ZPT101674,CUST2084,Harsh Malhotra,Nescafe Classic 50g,Beverages,9,339.08,2024-06-11,Delivered
+ZPT101675,CUST3258,Deepak Mishra,Fortune Sunflower Oil 1L,Oils,3,636.33,2023-03-07,Cancelled
+ZPT101676,CUST3039,Kiran Nair,Sprite 750ml,Cold Drinks,4,300.05,2023-08-26,Processing
+ZPT101677,CUST2696,Rohan Verma,Pilsbury Maida 1kg,Staples,4,138.92,2024-09-05,Delivered
+ZPT101678,CUST3704,Ananya Singh,Bournvita 500g,Beverages,5,786.21,2023-08-05,Delivered
+ZPT101679,CUST2836,Swati Kulkarni,Too Yumm Multigrain 60g,Snacks,9,266.89,2024-07-16,Cancelled
+ZPT101680,CUST2715,Pranav Jain,Amul Milk 1L,Dairy,1,185.09,2023-09-04,Delivered
+ZPT101681,CUST3702,Aarav Shah,Vim Dishwash Bar 200g,Cleaning,9,508.59,2024-03-26,Delivered
+ZPT101682,CUST3595,Swati Kulkarni,Colgate Toothpaste 200g,Personal Care,7,545.56,2024-02-27,Delivered
+ZPT101683,CUST2664,Preeti Trivedi,Sunfeast Dark Fantasy 75g,Biscuits,4,920.57,2024-10-05,Delivered
+ZPT101684,CUST1244,Bhavna Yadav,Dove Shampoo 180ml,Personal Care,1,586.82,2023-08-09,Pending
+ZPT101685,CUST3675,Gaurav Kapoor,Amul Milk 1L,Dairy,4,411.54,2023-07-24,Delivered
+ZPT101686,CUST2728,Sneha Iyer,Mother Dairy Curd 400g,Dairy,9,260.48,2023-02-02,Returned
+ZPT101687,CUST3900,Riya Desai,Sprite 750ml,Cold Drinks,8,412.56,2023-04-15,Processing
+ZPT101688,CUST4312,Aarav Shah,Dettol Soap 75g,Personal Care,3,93.59,2024-10-17,Delivered
+ZPT101689,CUST3525,Simran Kaur,Haldiram Bhujia 200g,Snacks,4,18.82,2023-08-20,Processing
+ZPT101690,CUST2178,Sunita Rawat,Paper Boat Aam Panna 250ml,Juices,5,704.15,2024-12-12,Cancelled
+ZPT101691,CUST1440,Varun Saxena,Paper Boat Aam Panna 250ml,Juices,1,400.21,2024-04-24,Cancelled
+ZPT101692,CUST4132,Gaurav Kapoor,Pilsbury Maida 1kg,Staples,5,442.47,2024-04-25,Processing
+ZPT101693,CUST4326,Aditi Choudhary,Mother Dairy Curd 400g,Dairy,9,889.48,2023-06-13,Pending
+ZPT101694,CUST4882,Sneha Iyer,MTR Poha 500g,Breakfast,8,859.19,2024-10-21,Delivered
+ZPT101695,CUST4307,Kavya Nair,Fortune Sunflower Oil 1L,Oils,10,764.49,2023-02-27,Delivered
+ZPT101696,CUST1136,Meera Thomas,Lays Cream Onion 26g,Snacks,7,776.11,2023-08-22,Cancelled
+ZPT101697,CUST1190,Manish Tiwari,India Gate Basmati 1kg,Staples,5,11.46,2023-10-20,Pending
+ZPT101698,CUST4158,Tarun Banerjee,Kellogg's Corn Flakes 250g,Breakfast,9,778.58,2023-08-09,Delivered
+ZPT101699,CUST1872,Nikhil Chopra,Parle-G Biscuits 100g,Biscuits,7,113.67,2023-03-22,Processing
+ZPT101700,CUST3224,Varun Saxena,Quaker Oats 500g,Breakfast,4,933.04,2023-08-09,Delivered
+ZPT101701,CUST4952,Swati Kulkarni,Fortune Sunflower Oil 1L,Oils,6,861.85,2023-11-13,Returned
+ZPT101702,CUST4358,Rajesh Sinha,Sunfeast Dark Fantasy 75g,Biscuits,3,513.39,2024-01-15,Delivered
+ZPT101703,CUST1760,Riya Desai,Pilsbury Maida 1kg,Staples,3,228.72,2023-07-15,Cancelled
+ZPT101704,CUST2579,Varun Saxena,Colgate Toothpaste 200g,Personal Care,2,911.92,2024-09-24,Pending
+ZPT101705,CUST1145,Pooja Reddy,Real Fruit Juice 1L,Juices,4,699.15,2023-02-18,Delivered
+ZPT101706,CUST2064,Sneha Iyer,India Gate Basmati 1kg,Staples,3,839.05,2023-11-13,Delivered
+ZPT101707,CUST2080,Kavya Nair,Lay's Classic Chips 26g,Snacks,4,230.87,2024-11-12,Delivered
+ZPT101708,CUST2381,Meera Thomas,Fortune Rice 5kg,Staples,9,409.95,2023-03-15,Cancelled
+ZPT101709,CUST3165,Rajesh Sinha,Bournvita 500g,Beverages,4,46.43,2023-05-09,Pending
+ZPT101710,CUST4591,Harsh Malhotra,Parle-G Biscuits 100g,Biscuits,5,178.87,2023-04-01,Delivered
+ZPT101711,CUST2852,Priya Mehta,Kellogg's Corn Flakes 250g,Breakfast,10,786.22,2024-09-14,Delivered
+ZPT101712,CUST3052,Bhavna Yadav,Nescafe Classic 50g,Beverages,4,547.08,2024-05-05,Pending
+ZPT101713,CUST4624,Preeti Trivedi,Saffola Gold Oil 1L,Oils,4,313.15,2024-03-09,Returned
+ZPT101714,CUST3622,Aditi Choudhary,Fortune Rice 5kg,Staples,8,111.89,2023-06-07,Cancelled
+ZPT101715,CUST4734,Suresh Rao,Parle-G Biscuits 100g,Biscuits,3,104.01,2024-05-19,Returned
+ZPT101716,CUST4165,Anita Dubey,Saffola Gold Oil 1L,Oils,3,725.16,2023-01-11,Cancelled
+ZPT101717,CUST2193,Neha Gupta,Maggi Noodles 70g,Instant Food,7,515.81,2024-02-08,Cancelled
+ZPT101718,CUST1455,Lakshmi Bose,Minute Maid Orange 1L,Juices,1,163.44,2023-03-28,Processing
+ZPT101719,CUST3080,Arjun Patel,Surf Excel 1kg,Cleaning,1,403.95,2024-10-22,Delivered
+ZPT101720,CUST1304,Aarav Shah,Bournvita 500g,Beverages,9,258.68,2023-11-24,Delivered
+ZPT101721,CUST1652,Priya Mehta,Fortune Rice 5kg,Staples,2,652.37,2024-09-14,Cancelled
+ZPT101722,CUST2496,Varun Saxena,Lay's Classic Chips 26g,Snacks,10,570.28,2024-10-10,Delivered
+ZPT101723,CUST1607,Rahul Joshi,Real Fruit Juice 1L,Juices,1,251.9,2023-10-05,Pending
+ZPT101724,CUST4066,Meera Thomas,Kellogg's Corn Flakes 250g,Breakfast,10,303.14,2024-02-04,Cancelled
+ZPT101725,CUST1279,Rajesh Sinha,Red Bull 250ml,Energy Drinks,4,269.26,2023-01-10,Delivered
+ZPT101726,CUST3170,Arjun Patel,Lays Cream Onion 26g,Snacks,6,64.75,2024-10-14,Delivered
+ZPT101727,CUST1324,Amit Sharma,Saffola Gold Oil 1L,Oils,9,204.77,2023-10-01,Delivered
+ZPT101728,CUST3791,Rajesh Sinha,Pilsbury Maida 1kg,Staples,3,776.29,2024-11-22,Delivered
+ZPT101729,CUST3210,Anjali Menon,Dove Shampoo 180ml,Personal Care,6,867.1,2024-02-10,Delivered
+ZPT101730,CUST1188,Nikhil Chopra,Fortune Rice 5kg,Staples,5,632.55,2023-06-01,Delivered
+ZPT101731,CUST4754,Rahul Joshi,Haldiram Bhujia 200g,Snacks,7,797.1,2023-01-25,Processing
+ZPT101732,CUST4877,Shreya Agarwal,Colgate Toothpaste 200g,Personal Care,6,259.2,2024-02-18,Delivered
+ZPT101733,CUST3410,Nisha Pandey,Quaker Oats 500g,Breakfast,10,975.23,2024-08-20,Delivered
+ZPT101734,CUST2846,Anjali Menon,Tropicana Guava 1L,Juices,5,131.19,2023-07-24,Delivered
+ZPT101735,CUST1656,Farhan Qureshi,Saffola Gold Oil 1L,Oils,1,432.75,2023-11-09,Delivered
+ZPT101736,CUST1855,Aarav Shah,Amul Milk 1L,Dairy,8,977.67,2024-06-13,Delivered
+ZPT101737,CUST4981,Aditi Choudhary,Real Fruit Juice 1L,Juices,7,295.8,2024-08-15,Delivered
+ZPT101738,CUST3292,Priya Mehta,Sprite 750ml,Cold Drinks,6,544.49,2024-12-12,Delivered
+ZPT101739,CUST4376,Nisha Pandey,Surf Excel 1kg,Cleaning,10,555.57,2024-05-27,Delivered
+ZPT101740,CUST2902,Deepak Mishra,Vim Dishwash Bar 200g,Cleaning,10,532.7,2024-06-08,Returned
+ZPT101741,CUST1047,Swati Kulkarni,Surf Excel 1kg,Cleaning,1,688.08,2023-02-08,Delivered
+ZPT101742,CUST1868,Sunita Rawat,Hide & Seek Biscuits 100g,Biscuits,10,911.34,2024-09-12,Delivered
+ZPT101743,CUST2396,Varun Saxena,Ariel Washing Powder 500g,Cleaning,10,609.96,2024-10-12,Cancelled
+ZPT101744,CUST2936,Arjun Patel,Fortune Rice 5kg,Staples,10,193.81,2024-03-03,Pending
+ZPT101745,CUST2807,Varun Saxena,Real Fruit Juice 1L,Juices,1,462.78,2024-09-07,Delivered
+ZPT101746,CUST4663,Sunita Rawat,Maggi Noodles 70g,Instant Food,4,745.23,2024-02-16,Delivered
+ZPT101747,CUST4375,Meera Thomas,Paper Boat Aam Panna 250ml,Juices,8,352.66,2023-11-10,Cancelled
+ZPT101748,CUST1962,Riya Desai,Bournvita 500g,Beverages,3,53.39,2023-05-26,Delivered
+ZPT101749,CUST2885,Simran Kaur,Tata Salt 1kg,Staples,6,896.43,2023-02-22,Cancelled
+ZPT101750,CUST2151,Meera Thomas,Good Day Cashew 87g,Biscuits,5,159.8,2024-10-20,Delivered
+ZPT101751,CUST3611,Preeti Trivedi,Lay's Classic Chips 26g,Snacks,6,888.54,2023-02-26,Delivered
+ZPT101752,CUST3320,Anita Dubey,Bournvita 500g,Beverages,4,125.82,2024-03-03,Delivered
+ZPT101753,CUST2348,Simran Kaur,Lays Cream Onion 26g,Snacks,7,635.74,2023-06-28,Delivered
+ZPT101754,CUST1429,Sneha Iyer,India Gate Basmati 1kg,Staples,9,796.3,2023-08-28,Returned
+ZPT101755,CUST2040,Farhan Qureshi,Sunfeast Dark Fantasy 75g,Biscuits,2,595.68,2023-05-23,Delivered
+ZPT101756,CUST2661,Swati Kulkarni,Amul Milk 1L,Dairy,2,469.31,2023-09-21,Cancelled
+ZPT101757,CUST2362,Sanjay Das,Hide & Seek Biscuits 100g,Biscuits,6,328.8,2024-06-05,Delivered
+ZPT101758,CUST1443,Kiran Nair,Lays Cream Onion 26g,Snacks,7,459.41,2024-12-30,Delivered
+ZPT101759,CUST2539,Ananya Singh,Red Bull 250ml,Energy Drinks,8,790.25,2023-11-08,Delivered
+ZPT101760,CUST2237,Mohit Bhatt,Dettol Soap 75g,Personal Care,6,898.37,2024-07-17,Returned
+ZPT101761,CUST1089,Tarun Banerjee,MTR Poha 500g,Breakfast,3,475.05,2024-08-30,Pending
+ZPT101762,CUST3315,Nikhil Chopra,Dettol Soap 75g,Personal Care,3,866.34,2023-06-27,Delivered
+ZPT101763,CUST4580,Arjun Patel,Hide & Seek Biscuits 100g,Biscuits,4,370.07,2024-07-24,Delivered
+ZPT101764,CUST3090,Amit Sharma,Tropicana Guava 1L,Juices,6,401.79,2024-05-07,Processing
+ZPT101765,CUST3203,Lakshmi Bose,Sunfeast Dark Fantasy 75g,Biscuits,1,136.09,2023-07-09,Pending
+ZPT101766,CUST1867,Simran Kaur,Sprite 750ml,Cold Drinks,6,287.5,2024-02-27,Delivered
+ZPT101767,CUST3267,Arjun Patel,Hide & Seek Biscuits 100g,Biscuits,3,804.93,2024-09-12,Processing
+ZPT101768,CUST2849,Rahul Joshi,Amul Milk 1L,Dairy,6,926.42,2023-12-18,Delivered
+ZPT101769,CUST2773,Manish Tiwari,Epigamia Greek Yogurt 90g,Dairy,1,686.45,2024-07-18,Delivered
+ZPT101770,CUST4514,Sunita Rawat,Ariel Washing Powder 500g,Cleaning,4,669.01,2024-06-18,Delivered
+ZPT101771,CUST4419,Shreya Agarwal,Pilsbury Maida 1kg,Staples,7,371.86,2023-10-06,Delivered
+ZPT101772,CUST3615,Aditi Choudhary,Lay's Classic Chips 26g,Snacks,1,892.38,2024-08-15,Pending
+ZPT101773,CUST1187,Rahul Joshi,Amul Butter 500g,Dairy,7,517.66,2023-08-14,Delivered
+ZPT101774,CUST4064,Swati Kulkarni,Lay's Classic Chips 26g,Snacks,5,402.44,2023-02-07,Delivered
+ZPT101775,CUST3764,Neha Gupta,Good Day Cashew 87g,Biscuits,3,793.65,2023-02-17,Cancelled
+ZPT101776,CUST4987,Riya Desai,Tata Salt 1kg,Staples,5,301.71,2024-03-29,Delivered
+ZPT101777,CUST3248,Riya Desai,Kellogg's Corn Flakes 250g,Breakfast,3,890.3,2024-10-07,Cancelled
+ZPT101778,CUST4739,Rohan Verma,Lay's Classic Chips 26g,Snacks,9,547.37,2024-07-28,Cancelled
+ZPT101779,CUST1385,Arjun Patel,Tata Salt 1kg,Staples,5,922.37,2024-08-24,Pending
+ZPT101780,CUST2618,Deepak Mishra,Fortune Rice 5kg,Staples,3,514.06,2023-01-23,Delivered
+ZPT101781,CUST2957,Arjun Patel,Tropicana Guava 1L,Juices,4,968.14,2023-08-31,Delivered
+ZPT101782,CUST1446,Shreya Agarwal,Haldiram Bhujia 200g,Snacks,3,35.58,2023-04-02,Cancelled
+ZPT101783,CUST3466,Ananya Singh,Aashirvaad Atta 5kg,Staples,1,455.6,2024-04-24,Returned
+ZPT101784,CUST1314,Pranav Jain,Amul Butter 500g,Dairy,4,140.54,2024-06-23,Processing
+ZPT101785,CUST1739,Neha Gupta,Fortune Rice 5kg,Staples,7,152.73,2023-05-22,Cancelled
+ZPT101786,CUST2947,Harsh Malhotra,Britannia Bread 400g,Bakery,5,740.48,2024-07-22,Cancelled
+ZPT101787,CUST2385,Amit Sharma,Hide & Seek Biscuits 100g,Biscuits,9,745.16,2024-11-04,Cancelled
+ZPT101788,CUST2529,Preeti Trivedi,India Gate Basmati 1kg,Staples,2,210.86,2023-08-25,Processing
+ZPT101789,CUST2826,Divya Pillai,Britannia Bread 400g,Bakery,1,865.29,2024-06-03,Pending
+ZPT101790,CUST3484,Farhan Qureshi,Aashirvaad Atta 5kg,Staples,3,641.2,2023-11-17,Cancelled
+ZPT101791,CUST1105,Gaurav Kapoor,Amul Butter 500g,Dairy,7,399.83,2024-02-28,Pending
+ZPT101792,CUST1749,Sunita Rawat,Vim Dishwash Bar 200g,Cleaning,9,644.33,2024-01-19,Pending
+ZPT101793,CUST4678,Priya Mehta,India Gate Basmati 1kg,Staples,6,608.12,2023-03-13,Delivered
+ZPT101794,CUST1386,Harsh Malhotra,Dettol Soap 75g,Personal Care,10,704.25,2023-07-24,Delivered
+ZPT101795,CUST4539,Varun Saxena,Britannia Bread 400g,Bakery,3,479.74,2023-11-07,Processing
+ZPT101796,CUST3148,Arjun Patel,Pilsbury Maida 1kg,Staples,4,33.28,2023-12-02,Pending
+ZPT101797,CUST1872,Sunita Rawat,Surf Excel 1kg,Cleaning,3,309.38,2024-10-17,Delivered
+ZPT101798,CUST2005,Pooja Reddy,Tropicana Guava 1L,Juices,4,612.02,2023-05-13,Cancelled
+ZPT101799,CUST3792,Pooja Reddy,Fortune Rice 5kg,Staples,3,238.5,2023-05-25,Cancelled
+ZPT101800,CUST4647,Sunita Rawat,Lay's Classic Chips 26g,Snacks,4,330.58,2024-01-21,Pending
+ZPT101801,CUST3725,Bhavna Yadav,Hide & Seek Biscuits 100g,Biscuits,10,532.87,2024-01-02,Returned
+ZPT101802,CUST4010,Ananya Singh,Paper Boat Aam Panna 250ml,Juices,5,275.06,2024-07-11,Cancelled
+ZPT101803,CUST1314,Mohit Bhatt,Dove Shampoo 180ml,Personal Care,10,209.01,2023-08-15,Processing
+ZPT101804,CUST4104,Swati Kulkarni,Amul Butter 500g,Dairy,5,656.16,2024-05-06,Delivered
+ZPT101805,CUST4817,Aarav Shah,Dove Shampoo 180ml,Personal Care,2,298.5,2023-07-21,Returned
+ZPT101806,CUST4215,Shreya Agarwal,Nescafe Classic 50g,Beverages,6,242.91,2024-11-19,Delivered
+ZPT101807,CUST1276,Swati Kulkarni,MTR Poha 500g,Breakfast,1,498.35,2024-10-10,Cancelled
+ZPT101808,CUST4280,Preeti Trivedi,Britannia Bread 400g,Bakery,8,149.84,2024-04-30,Delivered
+ZPT101809,CUST3765,Shreya Agarwal,Britannia Bread 400g,Bakery,2,474.7,2023-06-20,Returned
+ZPT101810,CUST3592,Kiran Nair,Minute Maid Orange 1L,Juices,7,250.17,2023-04-28,Processing
+ZPT101811,CUST4850,Riya Desai,Red Bull 250ml,Energy Drinks,1,159.26,2023-04-19,Delivered
+ZPT101812,CUST1280,Manish Tiwari,Nescafe Classic 50g,Beverages,1,741.5,2023-05-16,Processing
+ZPT101813,CUST3190,Bhavna Yadav,Red Bull 250ml,Energy Drinks,10,972.03,2023-02-23,Delivered
+ZPT101814,CUST1404,Deepak Mishra,Quaker Oats 500g,Breakfast,7,513.8,2023-08-23,Pending
+ZPT101815,CUST3433,Swati Kulkarni,Maggi Noodles 70g,Instant Food,5,59.32,2024-03-11,Delivered
+ZPT101816,CUST3599,Varun Saxena,Pilsbury Maida 1kg,Staples,8,202.49,2023-08-28,Processing
+ZPT101817,CUST3807,Rahul Joshi,Dettol Soap 75g,Personal Care,7,451.24,2024-07-21,Returned
+ZPT101818,CUST3112,Manish Tiwari,Sunfeast Dark Fantasy 75g,Biscuits,4,117.31,2023-08-10,Delivered
+ZPT101819,CUST3759,Sneha Iyer,Surf Excel 1kg,Cleaning,5,534.91,2023-07-11,Returned
+ZPT101820,CUST3791,Divya Pillai,Britannia Bread 400g,Bakery,9,612.74,2024-05-06,Cancelled
+ZPT101821,CUST3854,Nikhil Chopra,Good Day Cashew 87g,Biscuits,2,473.56,2024-04-02,Delivered
+ZPT101822,CUST1050,Aditi Choudhary,Minute Maid Orange 1L,Juices,9,382.31,2024-11-08,Delivered
+ZPT101823,CUST2635,Priya Mehta,Quaker Oats 500g,Breakfast,7,825.0,2023-12-08,Processing
+ZPT101824,CUST2039,Aditi Choudhary,Good Day Cashew 87g,Biscuits,3,163.54,2023-04-15,Cancelled
+ZPT101825,CUST3017,Rajesh Sinha,Quaker Oats 500g,Breakfast,1,702.54,2024-03-16,Pending
+ZPT101826,CUST4337,Varun Saxena,Minute Maid Orange 1L,Juices,6,409.43,2024-01-02,Cancelled
+ZPT101827,CUST3601,Pranav Jain,Dove Shampoo 180ml,Personal Care,4,724.68,2024-08-19,Returned
+ZPT101828,CUST1760,Manish Tiwari,Colgate Toothpaste 200g,Personal Care,4,326.41,2023-09-22,Cancelled
+ZPT101829,CUST3677,Amit Sharma,Paper Boat Aam Panna 250ml,Juices,7,481.85,2023-11-26,Cancelled
+ZPT101830,CUST3188,Divya Pillai,Aashirvaad Atta 5kg,Staples,6,274.02,2024-10-11,Processing
+ZPT101831,CUST2254,Meera Thomas,India Gate Basmati 1kg,Staples,2,686.83,2024-10-23,Returned
+ZPT101832,CUST3928,Sanjay Das,Good Day Cashew 87g,Biscuits,4,100.0,2023-02-14,Cancelled
+ZPT101833,CUST3548,Divya Pillai,Maggi Noodles 70g,Instant Food,3,268.06,2023-05-01,Returned
+ZPT101834,CUST2893,Anjali Menon,Britannia Bread 400g,Bakery,10,256.38,2024-03-06,Delivered
+ZPT101835,CUST2160,Varun Saxena,Amul Butter 500g,Dairy,4,548.2,2024-04-07,Processing
+ZPT101836,CUST4764,Harsh Malhotra,Dettol Soap 75g,Personal Care,5,607.29,2024-03-28,Processing
+ZPT101837,CUST1351,Rajesh Sinha,Amul Milk 1L,Dairy,8,909.31,2024-01-20,Returned
+ZPT101838,CUST1574,Suresh Rao,Quaker Oats 500g,Breakfast,1,608.57,2024-01-16,Delivered
+ZPT101839,CUST3950,Sanjay Das,Epigamia Greek Yogurt 90g,Dairy,9,83.42,2024-01-29,Pending
+ZPT101840,CUST4346,Pooja Reddy,Colgate Toothpaste 200g,Personal Care,3,748.02,2024-10-05,Delivered
+ZPT101841,CUST1289,Priya Mehta,Paper Boat Aam Panna 250ml,Juices,2,815.7,2024-10-29,Returned
+ZPT101842,CUST2513,Manish Tiwari,Amul Butter 500g,Dairy,3,662.44,2024-04-18,Processing
+ZPT101843,CUST4002,Lakshmi Bose,Parle-G Biscuits 100g,Biscuits,3,902.4,2023-08-06,Delivered
+ZPT101844,CUST2221,Amit Sharma,Real Fruit Juice 1L,Juices,3,633.73,2023-05-24,Delivered
+ZPT101845,CUST3069,Nikhil Chopra,Lay's Classic Chips 26g,Snacks,5,592.44,2023-09-09,Cancelled
+ZPT101846,CUST2536,Priya Mehta,India Gate Basmati 1kg,Staples,8,316.03,2023-08-06,Delivered
+ZPT101847,CUST2052,Suresh Rao,Fortune Sunflower Oil 1L,Oils,10,968.9,2023-11-01,Delivered
+ZPT101848,CUST3982,Deepak Mishra,Maggi Noodles 70g,Instant Food,7,628.49,2024-09-01,Cancelled
+ZPT101849,CUST2957,Kiran Nair,Dove Shampoo 180ml,Personal Care,2,100.62,2024-04-07,Delivered
+ZPT101850,CUST1732,Pranav Jain,Maggi Noodles 70g,Instant Food,7,276.82,2024-05-14,Returned
+ZPT101851,CUST4354,Riya Desai,Haldiram Bhujia 200g,Snacks,1,914.73,2024-09-12,Cancelled
+ZPT101852,CUST4701,Vijay Kumar,Parle-G Biscuits 100g,Biscuits,2,65.71,2024-05-18,Delivered
+ZPT101853,CUST2248,Manish Tiwari,Parle-G Biscuits 100g,Biscuits,5,511.86,2023-07-22,Delivered
+ZPT101854,CUST3751,Divya Pillai,India Gate Basmati 1kg,Staples,2,931.32,2023-02-12,Returned
+ZPT101855,CUST4142,Aditi Choudhary,Minute Maid Orange 1L,Juices,2,245.62,2024-09-29,Delivered
+ZPT101856,CUST1246,Priya Mehta,Parle-G Biscuits 100g,Biscuits,9,161.13,2024-12-12,Delivered
+ZPT101857,CUST1059,Nisha Pandey,Surf Excel 1kg,Cleaning,2,429.31,2024-03-11,Delivered
+ZPT101858,CUST3556,Vijay Kumar,Lay's Classic Chips 26g,Snacks,1,997.38,2023-07-30,Delivered
+ZPT101859,CUST3516,Priya Mehta,Nescafe Classic 50g,Beverages,6,420.76,2024-05-13,Delivered
+ZPT101860,CUST3093,Vijay Kumar,Dettol Soap 75g,Personal Care,1,879.81,2023-11-05,Pending
+ZPT101861,CUST3561,Amit Sharma,Harpic Toilet Cleaner 500ml,Cleaning,8,987.05,2024-10-18,Delivered
+ZPT101862,CUST2178,Aditi Choudhary,Bournvita 500g,Beverages,6,823.1,2023-09-09,Returned
+ZPT101863,CUST2623,Meera Thomas,Lay's Classic Chips 26g,Snacks,10,301.83,2023-04-11,Returned
+ZPT101864,CUST4671,Riya Desai,Britannia Bread 400g,Bakery,5,289.96,2023-02-07,Delivered
+ZPT101865,CUST2537,Deepak Mishra,Mother Dairy Curd 400g,Dairy,4,575.71,2024-04-15,Delivered
+ZPT101866,CUST2929,Manish Tiwari,Sprite 750ml,Cold Drinks,2,660.99,2024-07-18,Delivered
+ZPT101867,CUST2348,Farhan Qureshi,Lay's Classic Chips 26g,Snacks,3,55.02,2024-06-26,Delivered
+ZPT101868,CUST1252,Simran Kaur,Lays Cream Onion 26g,Snacks,8,663.59,2023-05-12,Delivered
+ZPT101869,CUST1449,Kavya Nair,Maggi Noodles 70g,Instant Food,7,533.68,2023-07-06,Returned
+ZPT101870,CUST4897,Bhavna Yadav,Sunfeast Dark Fantasy 75g,Biscuits,2,91.96,2024-05-29,Delivered
+ZPT101871,CUST2318,Swati Kulkarni,Epigamia Greek Yogurt 90g,Dairy,10,951.8,2023-05-29,Pending
+ZPT101872,CUST4635,Kavya Nair,Bournvita 500g,Beverages,3,285.64,2023-02-24,Delivered
+ZPT101873,CUST2102,Vijay Kumar,Amul Butter 500g,Dairy,6,641.86,2023-02-27,Delivered
+ZPT101874,CUST1244,Lakshmi Bose,Sprite 750ml,Cold Drinks,5,511.04,2024-07-25,Delivered
+ZPT101875,CUST2156,Vijay Kumar,Parle-G Biscuits 100g,Biscuits,2,321.49,2024-12-01,Delivered
+ZPT101876,CUST2660,Sanjay Das,Nescafe Classic 50g,Beverages,2,855.8,2023-09-09,Delivered
+ZPT101877,CUST1565,Priya Mehta,Pilsbury Maida 1kg,Staples,3,156.43,2023-09-27,Delivered
+ZPT101878,CUST4401,Bhavna Yadav,Fortune Rice 5kg,Staples,8,901.1,2024-04-11,Delivered
+ZPT101879,CUST3467,Suresh Rao,Colgate Toothpaste 200g,Personal Care,3,888.36,2024-04-29,Delivered
+ZPT101880,CUST4623,Rajesh Sinha,Haldiram Bhujia 200g,Snacks,10,146.42,2024-09-20,Processing
+ZPT101881,CUST3493,Rajesh Sinha,Lays Cream Onion 26g,Snacks,4,548.94,2024-07-01,Processing
+ZPT101882,CUST4492,Pooja Reddy,Saffola Gold Oil 1L,Oils,5,554.73,2024-08-27,Returned
+ZPT101883,CUST4041,Gaurav Kapoor,Epigamia Greek Yogurt 90g,Dairy,2,511.01,2024-10-12,Returned
+ZPT101884,CUST4604,Nisha Pandey,Ariel Washing Powder 500g,Cleaning,10,183.59,2024-10-25,Cancelled
+ZPT101885,CUST4364,Rajesh Sinha,Vim Dishwash Bar 200g,Cleaning,8,321.5,2024-10-13,Delivered
+ZPT101886,CUST2029,Deepak Mishra,Lay's Classic Chips 26g,Snacks,1,963.7,2024-09-16,Returned
+ZPT101887,CUST1655,Rahul Joshi,Fortune Sunflower Oil 1L,Oils,10,817.53,2023-07-01,Pending
+ZPT101888,CUST1767,Rajesh Sinha,Fortune Rice 5kg,Staples,10,321.96,2023-01-19,Cancelled
+ZPT101889,CUST2604,Neha Gupta,Haldiram Bhujia 200g,Snacks,6,250.13,2024-10-22,Returned
+ZPT101890,CUST4125,Aarav Shah,Mother Dairy Curd 400g,Dairy,1,208.46,2023-12-03,Delivered
+ZPT101891,CUST3243,Sneha Iyer,Pilsbury Maida 1kg,Staples,2,81.37,2024-06-30,Delivered
+ZPT101892,CUST4569,Divya Pillai,Pilsbury Maida 1kg,Staples,10,868.4,2023-01-24,Delivered
+ZPT101893,CUST1714,Harsh Malhotra,Nescafe Classic 50g,Beverages,4,54.24,2024-06-18,Delivered
+ZPT101894,CUST1552,Pooja Reddy,Saffola Gold Oil 1L,Oils,5,895.71,2024-09-30,Delivered
+ZPT101895,CUST1131,Pooja Reddy,Lay's Classic Chips 26g,Snacks,2,343.76,2023-10-04,Pending
+ZPT101896,CUST3618,Neha Gupta,Vim Dishwash Bar 200g,Cleaning,7,651.46,2024-03-04,Cancelled
+ZPT101897,CUST1314,Priya Mehta,Harpic Toilet Cleaner 500ml,Cleaning,4,590.0,2023-04-13,Delivered
+ZPT101898,CUST4298,Gaurav Kapoor,Coca-Cola 1.25L,Cold Drinks,3,390.81,2024-01-21,Delivered
+ZPT101899,CUST1908,Aditi Choudhary,Aashirvaad Atta 5kg,Staples,4,888.82,2023-05-22,Processing
+ZPT101900,CUST3293,Rahul Joshi,Saffola Gold Oil 1L,Oils,1,651.4,2024-06-12,Cancelled
+ZPT101901,CUST1636,Suresh Rao,Good Day Cashew 87g,Biscuits,3,769.22,2024-07-14,Pending
+ZPT101902,CUST3401,Sanjay Das,Saffola Gold Oil 1L,Oils,8,389.14,2023-04-02,Delivered
+ZPT101903,CUST2473,Nisha Pandey,MTR Poha 500g,Breakfast,2,644.07,2024-03-30,Delivered
+ZPT101904,CUST3199,Farhan Qureshi,Quaker Oats 500g,Breakfast,3,695.73,2023-05-05,Delivered
+ZPT101905,CUST4040,Pooja Reddy,Saffola Gold Oil 1L,Oils,2,75.31,2024-01-29,Delivered
+ZPT101906,CUST3650,Lakshmi Bose,Tropicana Guava 1L,Juices,8,367.34,2024-05-21,Cancelled
+ZPT101907,CUST3963,Aditi Choudhary,Kellogg's Corn Flakes 250g,Breakfast,1,468.8,2023-01-07,Delivered
+ZPT101908,CUST1907,Ananya Singh,Tropicana Guava 1L,Juices,5,686.9,2024-04-30,Cancelled
+ZPT101909,CUST4580,Swati Kulkarni,Quaker Oats 500g,Breakfast,2,33.53,2024-05-13,Delivered
+ZPT101910,CUST1102,Shreya Agarwal,Ariel Washing Powder 500g,Cleaning,5,639.44,2023-12-17,Returned
+ZPT101911,CUST2828,Nisha Pandey,Lay's Classic Chips 26g,Snacks,3,308.81,2023-01-30,Returned
+ZPT101912,CUST3410,Rajesh Sinha,Fortune Sunflower Oil 1L,Oils,10,973.93,2024-06-10,Pending
+ZPT101913,CUST4962,Shreya Agarwal,Sprite 750ml,Cold Drinks,1,821.27,2024-10-26,Processing
+ZPT101914,CUST1804,Suresh Rao,Lays Cream Onion 26g,Snacks,6,531.49,2023-12-13,Cancelled
+ZPT101915,CUST4407,Anita Dubey,India Gate Basmati 1kg,Staples,4,119.38,2023-09-27,Pending
+ZPT101916,CUST3687,Aditi Choudhary,Lays Cream Onion 26g,Snacks,6,486.72,2023-09-05,Delivered
+ZPT101917,CUST4476,Divya Pillai,Paper Boat Aam Panna 250ml,Juices,3,266.17,2024-09-27,Returned
+ZPT101918,CUST4281,Aarav Shah,Dove Shampoo 180ml,Personal Care,4,924.84,2023-03-29,Delivered
+ZPT101919,CUST4119,Riya Desai,Kellogg's Corn Flakes 250g,Breakfast,5,988.59,2024-11-01,Delivered
+ZPT101920,CUST4145,Pranav Jain,Red Bull 250ml,Energy Drinks,10,507.84,2023-07-19,Delivered
+ZPT101921,CUST1015,Kiran Nair,Tropicana Guava 1L,Juices,1,975.92,2024-05-04,Delivered
+ZPT101922,CUST1881,Shreya Agarwal,Red Bull 250ml,Energy Drinks,3,335.48,2023-12-29,Delivered
+ZPT101923,CUST1723,Deepak Mishra,Nescafe Classic 50g,Beverages,8,670.07,2024-03-31,Delivered
+ZPT101924,CUST3505,Ananya Singh,Paper Boat Aam Panna 250ml,Juices,8,824.21,2023-08-04,Returned
+ZPT101925,CUST4944,Nikhil Chopra,Fortune Sunflower Oil 1L,Oils,5,918.36,2023-09-13,Returned
+ZPT101926,CUST1750,Harsh Malhotra,Amul Milk 1L,Dairy,7,870.96,2024-09-04,Processing
+ZPT101927,CUST4610,Rohan Verma,Lay's Classic Chips 26g,Snacks,7,753.83,2024-08-18,Processing
+ZPT101928,CUST4868,Vijay Kumar,Amul Milk 1L,Dairy,5,517.3,2024-08-08,Cancelled
+ZPT101929,CUST1595,Arjun Patel,Minute Maid Orange 1L,Juices,9,456.35,2024-02-03,Delivered
+ZPT101930,CUST4410,Tarun Banerjee,Tropicana Guava 1L,Juices,1,800.14,2023-04-25,Processing
+ZPT101931,CUST3410,Swati Kulkarni,Mother Dairy Curd 400g,Dairy,7,209.32,2024-09-13,Returned
+ZPT101932,CUST4593,Deepak Mishra,Real Fruit Juice 1L,Juices,5,74.91,2024-01-29,Returned
+ZPT101933,CUST2930,Shreya Agarwal,Paper Boat Aam Panna 250ml,Juices,6,154.98,2023-03-20,Delivered
+ZPT101934,CUST3892,Arjun Patel,Epigamia Greek Yogurt 90g,Dairy,9,840.77,2024-11-06,Cancelled
+ZPT101935,CUST3100,Sanjay Das,Dettol Soap 75g,Personal Care,9,504.97,2023-04-25,Pending
+ZPT101936,CUST1440,Anjali Menon,Minute Maid Orange 1L,Juices,10,62.25,2024-05-18,Delivered
+ZPT101937,CUST4792,Lakshmi Bose,Tropicana Guava 1L,Juices,7,775.13,2024-11-26,Delivered
+ZPT101938,CUST4841,Anjali Menon,Quaker Oats 500g,Breakfast,3,926.33,2024-09-09,Cancelled
+ZPT101939,CUST3005,Sneha Iyer,Colgate Toothpaste 200g,Personal Care,6,925.57,2023-02-26,Delivered
+ZPT101940,CUST2253,Arjun Patel,Epigamia Greek Yogurt 90g,Dairy,6,189.11,2023-07-25,Delivered
+ZPT101941,CUST4657,Nisha Pandey,Minute Maid Orange 1L,Juices,3,831.33,2023-09-22,Delivered
+ZPT101942,CUST3624,Preeti Trivedi,Colgate Toothpaste 200g,Personal Care,9,685.58,2023-12-23,Pending
+ZPT101943,CUST2823,Mohit Bhatt,Fortune Rice 5kg,Staples,8,378.91,2024-12-10,Delivered
+ZPT101944,CUST3188,Simran Kaur,Good Day Cashew 87g,Biscuits,2,634.86,2023-06-06,Delivered
+ZPT101945,CUST2646,Pooja Reddy,Coca-Cola 1.25L,Cold Drinks,5,839.4,2023-10-24,Returned
+ZPT101946,CUST1043,Sneha Iyer,Saffola Gold Oil 1L,Oils,1,865.01,2023-02-16,Delivered
+ZPT101947,CUST4812,Rohan Verma,Sunfeast Dark Fantasy 75g,Biscuits,8,533.3,2023-10-14,Processing
+ZPT101948,CUST4513,Nikhil Chopra,Fortune Sunflower Oil 1L,Oils,10,893.74,2023-10-19,Delivered
+ZPT101949,CUST4055,Bhavna Yadav,Colgate Toothpaste 200g,Personal Care,8,353.04,2023-01-10,Delivered
+ZPT101950,CUST3152,Amit Sharma,Dove Shampoo 180ml,Personal Care,2,814.89,2024-05-15,Processing
+ZPT101951,CUST3935,Meera Thomas,Colgate Toothpaste 200g,Personal Care,4,435.75,2023-08-19,Returned
+ZPT101952,CUST2459,Suresh Rao,Epigamia Greek Yogurt 90g,Dairy,7,164.77,2024-06-18,Delivered
+ZPT101953,CUST1983,Varun Saxena,Britannia Bread 400g,Bakery,8,861.05,2024-04-20,Delivered
+ZPT101954,CUST2566,Amit Sharma,Kellogg's Corn Flakes 250g,Breakfast,3,412.86,2023-03-02,Delivered
+ZPT101955,CUST3675,Rohan Verma,Sprite 750ml,Cold Drinks,2,249.61,2023-08-23,Cancelled
+ZPT101956,CUST1977,Priya Mehta,Red Bull 250ml,Energy Drinks,6,993.74,2023-10-19,Delivered
+ZPT101957,CUST4446,Kiran Nair,Kellogg's Corn Flakes 250g,Breakfast,9,60.23,2024-07-17,Delivered
+ZPT101958,CUST1091,Shreya Agarwal,Tropicana Guava 1L,Juices,5,601.61,2024-12-20,Cancelled
+ZPT101959,CUST3465,Ananya Singh,Saffola Gold Oil 1L,Oils,3,878.71,2023-01-10,Delivered
+ZPT101960,CUST3851,Shreya Agarwal,MTR Poha 500g,Breakfast,2,95.44,2023-07-31,Delivered
+ZPT101961,CUST1288,Rahul Joshi,Haldiram Bhujia 200g,Snacks,2,524.32,2024-10-23,Cancelled
+ZPT101962,CUST2462,Rajesh Sinha,Dove Shampoo 180ml,Personal Care,3,478.21,2023-03-04,Delivered
+ZPT101963,CUST4924,Simran Kaur,Vim Dishwash Bar 200g,Cleaning,10,970.16,2023-10-03,Delivered
+ZPT101964,CUST4459,Arjun Patel,Good Day Cashew 87g,Biscuits,4,572.5,2023-04-27,Returned
+ZPT101965,CUST2519,Divya Pillai,Pilsbury Maida 1kg,Staples,5,188.13,2024-12-30,Pending
+ZPT101966,CUST1885,Vijay Kumar,Kellogg's Corn Flakes 250g,Breakfast,6,119.28,2023-06-25,Processing
+ZPT101967,CUST1760,Mohit Bhatt,Tata Salt 1kg,Staples,2,761.43,2024-02-16,Returned
+ZPT101968,CUST2672,Harsh Malhotra,Good Day Cashew 87g,Biscuits,6,762.58,2023-05-04,Delivered
+ZPT101969,CUST4504,Kavya Nair,Lay's Classic Chips 26g,Snacks,2,885.25,2023-06-26,Delivered
+ZPT101970,CUST2047,Nisha Pandey,Red Bull 250ml,Energy Drinks,1,650.29,2023-12-01,Delivered
+ZPT101971,CUST2357,Amit Sharma,Haldiram Bhujia 200g,Snacks,3,151.74,2023-08-28,Returned
+ZPT101972,CUST4740,Ananya Singh,Lay's Classic Chips 26g,Snacks,7,11.68,2023-04-02,Delivered
+ZPT101973,CUST2852,Pooja Reddy,Sunfeast Dark Fantasy 75g,Biscuits,5,503.66,2023-11-20,Delivered
+ZPT101974,CUST3076,Swati Kulkarni,India Gate Basmati 1kg,Staples,4,507.63,2023-10-01,Cancelled
+ZPT101975,CUST3130,Kavya Nair,Kellogg's Corn Flakes 250g,Breakfast,10,951.73,2023-03-08,Delivered
+ZPT101976,CUST2152,Harsh Malhotra,Vim Dishwash Bar 200g,Cleaning,6,247.22,2024-03-29,Cancelled
+ZPT101977,CUST1636,Amit Sharma,Lay's Classic Chips 26g,Snacks,3,643.42,2023-10-13,Delivered
+ZPT101978,CUST3822,Mohit Bhatt,Fortune Sunflower Oil 1L,Oils,7,780.64,2024-04-16,Processing
+ZPT101979,CUST1661,Sanjay Das,Surf Excel 1kg,Cleaning,10,26.8,2024-06-29,Delivered
+ZPT101980,CUST2222,Deepak Mishra,Bournvita 500g,Beverages,10,783.12,2023-05-19,Cancelled
+ZPT101981,CUST4412,Simran Kaur,Quaker Oats 500g,Breakfast,5,604.28,2023-09-30,Pending
+ZPT101982,CUST1650,Sunita Rawat,Coca-Cola 1.25L,Cold Drinks,3,558.63,2023-07-21,Delivered
+ZPT101983,CUST3993,Vijay Kumar,Colgate Toothpaste 200g,Personal Care,4,73.94,2024-01-17,Delivered
+ZPT101984,CUST4352,Kavya Nair,Too Yumm Multigrain 60g,Snacks,7,871.13,2023-03-13,Delivered
+ZPT101985,CUST4086,Manish Tiwari,Dove Shampoo 180ml,Personal Care,5,458.0,2023-09-01,Delivered
+ZPT101986,CUST4187,Anita Dubey,Tropicana Guava 1L,Juices,5,138.79,2024-01-03,Pending
+ZPT101987,CUST3065,Kavya Nair,Good Day Cashew 87g,Biscuits,8,677.94,2024-06-17,Processing
+ZPT101988,CUST1738,Gaurav Kapoor,Nescafe Classic 50g,Beverages,7,759.44,2023-11-09,Delivered
+ZPT101989,CUST3039,Pranav Jain,Red Bull 250ml,Energy Drinks,9,248.04,2023-10-07,Delivered
+ZPT101990,CUST1464,Aarav Shah,Sprite 750ml,Cold Drinks,8,983.58,2024-01-07,Delivered
+ZPT101991,CUST4952,Divya Pillai,Hide & Seek Biscuits 100g,Biscuits,6,786.18,2024-03-04,Returned
+ZPT101992,CUST3282,Farhan Qureshi,Colgate Toothpaste 200g,Personal Care,7,481.45,2024-12-02,Cancelled
+ZPT101993,CUST2827,Amit Sharma,Nescafe Classic 50g,Beverages,8,847.38,2023-03-09,Delivered
+ZPT101994,CUST2908,Tarun Banerjee,Fortune Rice 5kg,Staples,8,391.22,2023-03-30,Delivered
+ZPT101995,CUST4878,Anita Dubey,Bournvita 500g,Beverages,3,155.42,2024-04-02,Delivered
+ZPT101996,CUST4520,Neha Gupta,Aashirvaad Atta 5kg,Staples,4,707.31,2024-10-30,Processing
+ZPT101997,CUST1483,Meera Thomas,Coca-Cola 1.25L,Cold Drinks,9,513.03,2023-07-04,Delivered
+ZPT101998,CUST1009,Riya Desai,Colgate Toothpaste 200g,Personal Care,1,712.83,2023-07-12,Delivered
+ZPT101999,CUST1396,Amit Sharma,Paper Boat Aam Panna 250ml,Juices,6,744.62,2024-06-25,Processing
+ZPT102000,CUST2119,Swati Kulkarni,Sunfeast Dark Fantasy 75g,Biscuits,5,50.68,2024-09-19,Returned
