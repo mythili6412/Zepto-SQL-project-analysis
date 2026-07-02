@@ -67,7 +67,7 @@ yeartotal_revenue (₹)202327,35,855.68202428,21,586.22
 **Repositary Contents**
 
 ├── README.md           # Project overview (this file)
-├── zepto_queries.sql   # All SQL queries used for analysis
+├── zepto SQL project.sql   # All SQL queries used for analysis
 └── zepto_orders.csv    # Raw dataset (2,000 rows, 9 columns)
 
 **Key SQL Query**
